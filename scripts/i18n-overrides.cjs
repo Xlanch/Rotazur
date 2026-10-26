@@ -1,0 +1,70 @@
+/* Reviewed terminology, especially search-result prices versus service fees. Order: en,de,ru,zh,es,fr,ar. */
+module.exports = {
+  'Fiyat takip koşulunuz hesabınıza kaydedildi.': [
+    'Your price tracking condition was saved to your account.',
+    'Ihre Preisbeobachtung wurde in Ihrem Konto gespeichert.',
+    'Условие отслеживания цены сохранено в вашем аккаунте.',
+    '价格跟踪条件已保存到您的账户。',
+    'La condición de seguimiento de precios se guardó en tu cuenta.',
+    'Votre condition de suivi des prix a été enregistrée dans votre compte.',
+    'تم حفظ شرط تتبع السعر في حسابك.'
+  ],
+  'Fiyat takip koşulunuz hesabınıza kaydedildi. E-posta bildirimleri henüz etkin değil.': [
+    'Your price tracking condition was saved to your account. Email notifications are not enabled yet.',
+    'Ihre Preisbeobachtung wurde in Ihrem Konto gespeichert. E-Mail-Benachrichtigungen sind noch nicht aktiviert.',
+    'Условие отслеживания цены сохранено в вашем аккаунте. Уведомления по электронной почте пока не включены.',
+    '价格跟踪条件已保存到您的账户。电子邮件通知尚未启用。',
+    'La condición de seguimiento de precios se guardó en tu cuenta. Las notificaciones por correo aún no están activadas.',
+    'Votre condition de suivi des prix a été enregistrée dans votre compte. Les notifications par e-mail ne sont pas encore activées.',
+    'تم حفظ شرط تتبع السعر في حسابك. إشعارات البريد الإلكتروني غير مفعّلة بعد.'
+  ],
+  '💶 1 EUR = {0} ₺ {1}': ['💶 1 EUR = {0} ₺ {1}', '💶 1 EUR = {0} ₺ {1}', '💶 1 EUR = {0} ₺ {1}', '💶 1 EUR = {0} ₺ {1}', '💶 1 EUR = {0} ₺ {1}', '💶 1 EUR = {0} ₺ {1}', '💶 1 EUR = {0} ₺ {1}'],
+  '👥 {0} Kişi ({1} Oda)': ['👥 Travelers: {0} · Rooms: {1}', '👥 Reisende: {0} · Zimmer: {1}', '👥 Путешественников: {0} · Номеров: {1}', '👥 旅客：{0} · 客房：{1}', '👥 Viajeros: {0} · Habitaciones: {1}', '👥 Voyageurs : {0} · Chambres : {1}', '👥 المسافرون: {0} · الغرف: {1}'],
+  '{0} için konaklama alternatifleri ({1} gece, {2} yetişkin, {3} oda araması)': ['Accommodation in {0} (nights: {1}, adults: {2}, rooms searched: {3})', 'Unterkünfte in {0} (Nächte: {1}, Erwachsene: {2}, gesuchte Zimmer: {3})', 'Проживание в {0} (ночей: {1}, взрослых: {2}, номеров в поиске: {3})', '{0}住宿选择（晚数：{1}，成人：{2}，搜索客房数：{3}）', 'Alojamiento en {0} (noches: {1}, adultos: {2}, habitaciones buscadas: {3})', 'Hébergements à {0} (nuits : {1}, adultes : {2}, chambres recherchées : {3})', 'الإقامة في {0} (الليالي: {1}، البالغون: {2}، الغرف المطلوبة: {3})'],
+  'Kur, Müze Kartı & eSIM': ['Exchange Rates, Museum Passes & eSIM', 'Wechselkurse, Museumspässe & eSIM', 'Курсы валют, музейные карты и eSIM', '汇率、博物馆通票与eSIM', 'Divisas, pases de museos y eSIM', 'Taux de change, pass musées et eSIM', 'أسعار الصرف وبطاقات المتاحف وeSIM'],
+  'Kur': ['Exchange rate', 'Wechselkurs', 'Курс валют', '汇率', 'Tipo de cambio', 'Taux de change', 'سعر الصرف'],
+  'İnternetsiz Paket': ['Offline Pack', 'Offline-Paket', 'Офлайн-пакет', '离线包', 'Paquete sin conexión', 'Pack hors ligne', 'حزمة دون اتصال'],
+  'Farklı tarihler ayrıca sorgulanır': ['Other dates require a separate search', 'Andere Termine erfordern eine neue Suche', 'Для других дат нужен отдельный поиск', '其他日期需单独搜索', 'Otras fechas requieren una búsqueda independiente', 'Les autres dates nécessitent une recherche séparée', 'تتطلب التواريخ الأخرى بحثًا منفصلًا'],
+  'Arama bedeli:': ['Search result price:', 'Preis im Suchergebnis:', 'Цена в результатах поиска:', '搜索结果价格：', 'Precio del resultado:', 'Prix affiché dans la recherche :', 'السعر في نتيجة البحث:'],
+  'Arama bedeli: {0}. {1} {2}': ['Search result price: {0}. {1} {2}', 'Preis im Suchergebnis: {0}. {1} {2}', 'Цена в результатах поиска: {0}. {1} {2}', '搜索结果价格：{0}。{1} {2}', 'Precio del resultado: {0}. {1} {2}', 'Prix affiché dans la recherche : {0}. {1} {2}', 'السعر في نتيجة البحث: {0}. {1} {2}'],
+  'Ana tutar {0} gece ve {1} yetişkin için arama bedeli ile bilinen ek vergilerin toplamıdır.': [
+    'The main amount includes the search-result price for {0} nights and {1} adults, plus known additional taxes.',
+    'Der Hauptbetrag umfasst den Suchergebnispreis für {0} Nächte und {1} Erwachsene sowie bekannte zusätzliche Steuern.',
+    'Основная сумма включает цену из результатов поиска за {0} ночей для {1} взрослых и известные дополнительные налоги.',
+    '主要金额包括{0}晚、{1}位成人的搜索结果价格及已知额外税费。',
+    'El importe principal incluye el precio encontrado para {0} noches y {1} adultos, más los impuestos adicionales conocidos.',
+    'Le montant principal comprend le prix trouvé pour {0} nuits et {1} adultes, ainsi que les taxes supplémentaires connues.',
+    'يشمل المبلغ الأساسي السعر الظاهر في نتائج البحث لـ{0} ليالٍ و{1} بالغين، إضافة إلى الضرائب الإضافية المعروفة.'
+  ],
+  'Ana tutar {0} gece ve {1} yetişkin için arama bedeli ile bilinen ek vergilerin toplamıdır. Gecelik ortalama ayrıca gösterilir. Bu bir rezervasyon fiyat garantisi değildir; hesap, cihaz, ülke, oda ve ödeme koşulları Booking’de farklı fiyat oluşturabilir.': [
+    'The main amount includes the search-result price for {0} nights and {1} adults, plus known additional taxes. The nightly average is shown separately. This is not a guaranteed booking price; account, device, country, room and payment conditions may result in a different price on Booking.com.',
+    'Der Hauptbetrag umfasst den Suchergebnispreis für {0} Nächte und {1} Erwachsene sowie bekannte zusätzliche Steuern. Der Durchschnitt pro Nacht wird separat angezeigt. Dies ist keine Buchungspreisgarantie; Konto, Gerät, Land, Zimmer und Zahlungsbedingungen können auf Booking.com zu einem anderen Preis führen.',
+    'Основная сумма включает цену из результатов поиска за {0} ночей для {1} взрослых и известные дополнительные налоги. Средняя цена за ночь указана отдельно. Цена бронирования не гарантируется: аккаунт, устройство, страна, номер и условия оплаты могут влиять на цену на Booking.com.',
+    '主要金额包括{0}晚、{1}位成人的搜索结果价格及已知额外税费。每晚均价另行显示。这不是预订价格保证；账户、设备、国家、房型和付款条件可能导致Booking.com上的价格不同。',
+    'El importe principal incluye el precio encontrado para {0} noches y {1} adultos, más los impuestos adicionales conocidos. La media por noche se muestra aparte. No es un precio de reserva garantizado; la cuenta, el dispositivo, el país, la habitación y las condiciones de pago pueden cambiar el precio en Booking.com.',
+    'Le montant principal comprend le prix trouvé pour {0} nuits et {1} adultes, ainsi que les taxes supplémentaires connues. La moyenne par nuit est indiquée séparément. Le prix de réservation n’est pas garanti : le compte, l’appareil, le pays, la chambre et les conditions de paiement peuvent modifier le prix sur Booking.com.',
+    'يشمل المبلغ الأساسي السعر الظاهر في نتائج البحث لـ{0} ليالٍ و{1} بالغين، إضافة إلى الضرائب الإضافية المعروفة. يُعرض متوسط الليلة بشكل منفصل. هذا ليس ضمانًا لسعر الحجز؛ فقد يختلف السعر على Booking.com بحسب الحساب والجهاز والبلد والغرفة وشروط الدفع.'
+  ],
+  'Tutarlar {0} kişi için konaklama bütçesi tahminidir. Booking.com fiyatı, oda kapasitesi ve müsaitliği doğrulanmış değildir.': [
+    'These amounts are accommodation budget estimates for {0} people. Booking.com prices, room capacity and availability have not been verified.',
+    'Diese Beträge sind Schätzungen des Unterkunftsbudgets für {0} Personen. Booking.com-Preise, Zimmerkapazität und Verfügbarkeit sind nicht bestätigt.',
+    'Это ориентировочный бюджет проживания для {0} человек. Цены Booking.com, вместимость номера и наличие мест не подтверждены.',
+    '这些金额是{0}人的住宿预算估算。Booking.com价格、客房容量及空房情况尚未核实。',
+    'Son estimaciones del presupuesto de alojamiento para {0} personas. No se han verificado los precios de Booking.com, la capacidad ni la disponibilidad de las habitaciones.',
+    'Ces montants sont des estimations du budget d’hébergement pour {0} personnes. Les prix Booking.com, la capacité et la disponibilité des chambres ne sont pas vérifiés.',
+    'هذه المبالغ تقديرات لميزانية الإقامة لـ{0} أشخاص. لم يتم التحقق من أسعار Booking.com أو سعة الغرف أو توافرها.'
+  ],
+  'Fırında ekonomik kahvaltı & kahve': ['Budget breakfast & coffee at a bakery', 'Günstiges Frühstück & Kaffee in einer Bäckerei', 'Недорогой завтрак и кофе в пекарне', '面包店经济早餐与咖啡', 'Desayuno económico y café en una panadería', 'Petit-déjeuner économique et café en boulangerie', 'إفطار اقتصادي وقهوة في مخبز'],
+  'Saat bekleniyor': ['Time not confirmed', 'Uhrzeit nicht bestätigt', 'Время не подтверждено', '时间未确认', 'Hora sin confirmar', 'Horaire non confirmé', 'الوقت غير مؤكد'],
+  'Saat doğrulanmalı': ['Confirm the time', 'Uhrzeit bestätigen', 'Уточните время', '请确认时间', 'Confirma la hora', 'Horaire à confirmer', 'يجب تأكيد الوقت'],
+  'Süre doğrulanmadı': ['Duration not confirmed', 'Dauer nicht bestätigt', 'Длительность не подтверждена', '时长未确认', 'Duración sin confirmar', 'Durée non confirmée', 'المدة غير مؤكدة'],
+  'Tasarruflu': ['Economy', 'Sparsam', 'Эконом', '经济', 'Económico', 'Économique', 'اقتصادي'],
+  'Dengeli': ['Balanced', 'Ausgewogen', 'Сбалансированный', '均衡', 'Equilibrado', 'Équilibré', 'متوازن'],
+  'Konforlu': ['Comfort', 'Komfort', 'Комфорт', '舒适', 'Confort', 'Confort', 'مريح'],
+  'Otele Bak': ['View Hotels', 'Hotels ansehen', 'Посмотреть отели', '查看酒店', 'Ver hoteles', 'Voir les hôtels', 'عرض الفنادق'],
+  'Günlük Rota': ['Daily Itinerary', 'Tagesplan', 'Маршрут по дням', '每日行程', 'Itinerario diario', 'Itinéraire quotidien', 'برنامج الرحلة اليومي'],
+  'Uçuş & Otel': ['Flights & Hotels', 'Flüge & Hotels', 'Перелёты и отели', '航班与酒店', 'Vuelos y hoteles', 'Vols et hôtels', 'الرحلات والفنادق'],
+  'Uçuş bütçesi tahmini': ['Flight budget estimate', 'Geschätztes Flugbudget', 'Оценка бюджета перелёта', '航班预算估算', 'Estimación del presupuesto de vuelo', 'Estimation du budget de vol', 'تقدير ميزانية الطيران'],
+  'Kaydedilmiş Booking fiyatları': ['Saved Booking.com search prices', 'Gespeicherte Booking.com-Suchpreise', 'Сохранённые цены поиска Booking.com', '已保存的Booking.com搜索价格', 'Precios de búsqueda guardados de Booking.com', 'Prix de recherche Booking.com enregistrés', 'أسعار بحث Booking.com المحفوظة'],
+  'Geçmiş arama fiyatı · yeniden kontrol edin': ['Previous search price · check again', 'Preis einer früheren Suche · erneut prüfen', 'Цена предыдущего поиска · проверьте снова', '此前搜索价格 · 请重新确认', 'Precio de búsqueda anterior · vuelve a comprobar', 'Prix d’une recherche précédente · à revérifier', 'سعر بحث سابق · تحقق مجددًا'],
+};

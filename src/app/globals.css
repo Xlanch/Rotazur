@@ -1,0 +1,224 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
+  --color-brand-50: #f3f1ff;
+  --color-brand-100: #e9e5ff;
+  --color-brand-300: #b4a6ff;
+  --color-brand-400: #9177ff;
+  --color-brand-500: #7c4dff;
+  --color-brand-600: #6a35f0;
+  --color-brand-700: #5a27cf;
+  --color-aqua-400: #2ee6d6;
+  --color-aqua-500: #14c8c8;
+  --animate-float: float 8s ease-in-out infinite;
+  --animate-aurora: aurora 18s ease-in-out infinite alternate;
+  --animate-shimmer: shimmer 1.6s linear infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0) }
+  50% { transform: translateY(-14px) }
+}
+@keyframes aurora {
+  0% { transform: translate(0, 0) scale(1) rotate(0deg) }
+  50% { transform: translate(6%, -4%) scale(1.15) rotate(20deg) }
+  100% { transform: translate(-6%, 5%) scale(0.95) rotate(-15deg) }
+}
+@keyframes shimmer {
+  0% { background-position: -400px 0 }
+  100% { background-position: 400px 0 }
+}
+
+:root {
+  color-scheme: light;
+  --bg: #f6f6fb;
+  --fg: #0d0b1a;
+}
+.dark {
+  color-scheme: dark;
+  --bg: #07060f;
+  --fg: #ecebf5;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.dark select option {
+  background-color: #141326;
+  color: #f4f4f8;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--color-brand-500) 35%, transparent);
+}
+
+@layer components {
+  .glass {
+    @apply border border-black/5 bg-white/70 backdrop-blur-xl shadow-[0_8px_40px_-12px_rgba(40,20,120,0.18)] dark:border-white/10 dark:bg-white/[0.04] dark:shadow-[0_8px_40px_-12px_rgba(0,0,0,0.6)];
+  }
+  .card {
+    @apply rounded-3xl border border-black/5 bg-white shadow-[0_2px_24px_-10px_rgba(40,20,120,0.15)] dark:border-white/10 dark:bg-white/[0.035];
+  }
+  .text-gradient {
+    @apply bg-gradient-to-r from-brand-500 via-fuchsia-500 to-aqua-500 bg-clip-text text-transparent;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl bg-gradient-to-r from-brand-600 to-fuchsia-500 px-6 py-3.5 font-semibold text-white shadow-lg shadow-brand-500/30 transition hover:shadow-xl hover:shadow-brand-500/40 hover:brightness-110 active:scale-[0.98] disabled:opacity-60;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-3 py-2 text-sm font-medium text-black/70 transition hover:bg-black/5 dark:text-white/70 dark:hover:bg-white/10;
+  }
+  .field {
+    @apply w-full rounded-2xl border border-black/10 bg-white/80 px-4 py-3 text-[15px] outline-none transition focus:border-brand-400 focus:ring-4 focus:ring-brand-500/15 dark:border-white/10 dark:bg-white/5 dark:focus:border-brand-400;
+  }
+  .input-field {
+    @apply rounded-2xl border border-black/10 bg-white/90 px-3.5 py-2.5 text-sm outline-none transition focus:border-brand-400 focus:ring-4 focus:ring-brand-500/15 dark:border-white/15 dark:bg-[#141326] dark:text-white dark:focus:border-brand-400;
+  }
+  .label {
+    @apply mb-1.5 block text-xs font-semibold uppercase tracking-wider text-black/45 dark:text-white/45;
+  }
+  .chip {
+    @apply inline-flex cursor-pointer select-none items-center gap-1.5 rounded-full border border-black/10 px-3.5 py-2 text-sm font-medium transition hover:border-brand-400 dark:border-white/10;
+  }
+  .chip-on {
+    @apply border-transparent bg-gradient-to-r from-brand-600 to-fuchsia-500 text-white shadow-md shadow-brand-500/25;
+  }
+  .skeleton {
+    @apply rounded-2xl bg-black/5 dark:bg-white/5;
+    background-image: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.35), transparent);
+    background-size: 400px 100%;
+    background-repeat: no-repeat;
+    animation: shimmer 1.6s linear infinite;
+  }
+  .dark .skeleton {
+    background-image: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.06), transparent);
+  }
+}
+
+/* Aralık (range) kaydırıcı */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, var(--color-brand-500) var(--p, 50%), color-mix(in oklab, var(--fg) 12%, transparent) var(--p, 50%));
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 9999px;
+  background: white;
+  border: 4px solid var(--color-brand-500);
+  box-shadow: 0 4px 14px rgba(124, 77, 255, 0.45);
+  cursor: pointer;
+}
+input[type="range"]::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 9999px;
+  background: white;
+  border: 4px solid var(--color-brand-500);
+  cursor: pointer;
+}
+
+/* Leaflet */
+.leaflet-container {
+  font-family: inherit;
+  background: #11101d;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 16px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+}
+.dark .leaflet-tile-pane {
+  filter: brightness(0.7) invert(1) contrast(1.4) hue-rotate(200deg) saturate(0.3) brightness(0.85);
+}
+.dark .leaflet-tile-pane.satellite-mode {
+  filter: none;
+}
+.pin {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 9999px 9999px 9999px 0;
+  transform: rotate(-45deg);
+  color: white;
+  font-weight: 700;
+  font-size: 12px;
+  border: 2px solid white;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+}
+.pin > span {
+  transform: rotate(45deg);
+}
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 9999px;
+  border: 2px solid white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+/* İnce kaydırma çubuğu */
+.scroll-thin::-webkit-scrollbar { width: 6px; height: 6px }
+.scroll-thin::-webkit-scrollbar-thumb { background: rgba(124, 77, 255, 0.35); border-radius: 9999px }
+
+/* Yazdırma ve PDF Çıktısı Kuralları */
+@media print {
+  body.printing-rotazur-guide * {
+    visibility: hidden;
+  }
+  body.printing-rotazur-guide #rotazur-print-guide,
+  body.printing-rotazur-guide #rotazur-print-guide * {
+    visibility: visible;
+  }
+  body.printing-rotazur-guide #rotazur-print-guide {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 24px !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: #ffffff !important;
+    color: #0f172a !important;
+  }
+  body.printing-rotazur-guide .break-inside-avoid {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  header, footer, nav, button, .leaflet-control, #live-map-card, .btn-ghost, .btn-primary {
+    display: none !important;
+  }
+  html, body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt;
+  }
+  .card {
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    background: #ffffff !important;
+    page-break-inside: avoid;
+    margin-bottom: 12px;
+  }
+  .text-gradient {
+    background: none !important;
+    -webkit-text-fill-color: initial !important;
+    color: #4f46e5 !important;
+  }
+}

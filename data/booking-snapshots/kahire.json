@@ -1,0 +1,1377 @@
+{
+  "version": 1,
+  "cityId": "kahire",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:51:43.068Z",
+  "hotels": [
+    {
+      "id": "booking-17322689",
+      "name": "Giza Pyramids Hotel",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/924183739.jpg?k=6770575bc53358cb8b676cba5993569667e4e9098d8b9c7a3f95a524eabbb63f&o=",
+      "rating": 4,
+      "reviews": 1,
+      "pricePerNightTry": 180.445,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Daire",
+      "roomTypeTag": "apartment",
+      "lat": 29.9713851985918,
+      "lon": 31.1428405219696,
+      "distanceKm": 12.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17322689,
+        "cityId": "kahire",
+        "lat": 29.9713851985918,
+        "lon": 31.1428405219696,
+        "address": "47 Gamal Abd El-Nasir",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/kim-pyramids.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/kim-pyramids.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/kim-pyramids.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17322689,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 714.63,
+        "displayNightlyTry": 178.66,
+        "excludedTaxesTry": 7.15,
+        "knownTotalTry": 721.78,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T22:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16255441",
+      "name": "Number one Pyramids Hotel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/873752183.jpg?k=0619fcf5dd41dcb43fdc3bf6c88179c2f5dceff274eecb5329e836c8a0336117&o=",
+      "rating": 4.7,
+      "reviews": 16,
+      "pricePerNightTry": 205.455,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Daire",
+      "roomTypeTag": "apartment",
+      "lat": 29.9713965166038,
+      "lon": 31.1428414442001,
+      "distanceKm": 12.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16255441,
+        "cityId": "kahire",
+        "lat": 29.9713965166038,
+        "lon": 31.1428414442001,
+        "address": "45 جمال عبد الناصر",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/amal-pyramids.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/amal-pyramids.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/amal-pyramids.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16255441,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 714.63,
+        "displayNightlyTry": 178.66,
+        "excludedTaxesTry": 107.19,
+        "knownTotalTry": 821.82,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T22:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14421003",
+      "name": "Saif Pyramids Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/843574107.jpg?k=9547e2f3af85ef73af60dec8218546e85dd4dabf057afa72e4a9506f106efd4d&o=",
+      "rating": 7,
+      "reviews": 9,
+      "pricePerNightTry": 289.3525,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 29.9695138286382,
+      "lon": 31.144978617438,
+      "distanceKm": 12.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14421003,
+        "cityId": "kahire",
+        "lat": 29.9695138286382,
+        "lon": 31.144978617438,
+        "address": "أحمد معلق 1",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/saif-pyramids-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/saif-pyramids-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/saif-pyramids-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14421003,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1006.44,
+        "displayNightlyTry": 251.61,
+        "excludedTaxesTry": 150.97,
+        "knownTotalTry": 1157.41,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T22:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13372464",
+      "name": "Green hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/648505442.jpg?k=4db82866cb8760b3c17a9de672266bfe4abf72779a9d9d54a3eec02075fb12cb&o=",
+      "rating": 8.8,
+      "reviews": 507,
+      "pricePerNightTry": 332.8675,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Altı Yataklı Karma Yatakhanede Yatak",
+      "roomTypeTag": "hostel",
+      "lat": 30.0436572409294,
+      "lon": 31.2399664534572,
+      "distanceKm": 0.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13372464,
+        "cityId": "kahire",
+        "lat": 30.0436572409294,
+        "lon": 31.2399664534572,
+        "address": "53 Mansour",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/green-hostel-downtown-bab-el-louq.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/green-hostel-downtown-bab-el-louq.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/green-hostel-downtown-bab-el-louq.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13372464,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1157.8,
+        "displayNightlyTry": 289.45,
+        "excludedTaxesTry": 173.67,
+        "knownTotalTry": 1331.47,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Altı Yataklı Karma Yatakhanede Yatak",
+            "unitType": "Yatakhanede yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14387861",
+      "name": "Secret of the pyramids house",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/698692591.jpg?k=b815df849a6c72587eaa6b961e6942e180ae0f4212017ea0d06d6952c154a91b&o=",
+      "rating": 2.8,
+      "reviews": 4,
+      "pricePerNightTry": 349.2775,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Üç Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 29.9809295,
+      "lon": 31.1402145,
+      "distanceKm": 11.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14387861,
+        "cityId": "kahire",
+        "lat": 29.9809295,
+        "lon": 31.1402145,
+        "address": "حارة إبن نعمان",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/secret-of-the-pyramids-house-jyzh-hrm.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/secret-of-the-pyramids-house-jyzh-hrm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/secret-of-the-pyramids-house-jyzh-hrm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14387861,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1214.88,
+        "displayNightlyTry": 303.72,
+        "excludedTaxesTry": 182.23,
+        "knownTotalTry": 1397.11,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Üç Kişilik Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14577885",
+      "name": "The pyramids vista inn",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/714699252.jpg?k=712abcbb9d991ef67b38d8512e862a635c6de93ea00b5b5ebb0d0d151a0c7800&o=",
+      "rating": 1.7,
+      "reviews": 4,
+      "pricePerNightTry": 369.8225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 29.9737157300435,
+      "lon": 31.142156500926,
+      "distanceKm": 12,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14577885,
+        "cityId": "kahire",
+        "lat": 29.9737157300435,
+        "lon": 31.142156500926,
+        "address": "8 streat abu sreah nazlet el samman pyramids giza",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/the-pyramids-vista-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/the-pyramids-vista-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/the-pyramids-vista-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14577885,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1286.34,
+        "displayNightlyTry": 321.58,
+        "excludedTaxesTry": 192.95,
+        "knownTotalTry": 1479.29,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9486372",
+      "name": "Grand Safari Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/448988686.jpg?k=a0941daa95893aa3cf940620a42014599598ab022d1c3d2e9ff525a1ce5fc7ca&o=",
+      "rating": 4.4,
+      "reviews": 42,
+      "pricePerNightTry": 385.2325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hostel",
+      "lat": 30.0535778987213,
+      "lon": 31.2413061945983,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9486372,
+        "cityId": "kahire",
+        "lat": 30.0535778987213,
+        "lon": 31.2413061945983,
+        "address": "4 El tawfekeyya street downtown cairo",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/royal-safari-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/royal-safari-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/royal-safari-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9486372,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1339.94,
+        "displayNightlyTry": 334.98,
+        "excludedTaxesTry": 200.99,
+        "knownTotalTry": 1540.93,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10472450",
+      "name": "Safary Hotel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/478714513.jpg?k=a0d0ed452891e3f3bae88e2cbd25ce9d5bba03da07988129f3107974b5a69a1b&o=",
+      "rating": 6,
+      "reviews": 432,
+      "pricePerNightTry": 392.65,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 30.053034000649,
+      "lon": 31.241757235582,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10472450,
+        "cityId": "kahire",
+        "lat": 30.053034000649,
+        "lon": 31.241757235582,
+        "address": "4 Souk El Tawfekeyya, Downtown, Cairo, 11511 Cairo, Egypt",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/my.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/my.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/my.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10472450,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1365.74,
+        "displayNightlyTry": 341.44,
+        "excludedTaxesTry": 204.86,
+        "knownTotalTry": 1570.6,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12994097",
+      "name": "Family view guest house",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/607456836.jpg?k=f953be9665b9486b21f8633430dc50a3998416c8b0d24b89c593f25f82db20bd&o=",
+      "rating": 8.3,
+      "reviews": 57,
+      "pricePerNightTry": 411.9125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe Çift Kişilik Oda - Balkonlu",
+      "roomTypeTag": "hotel",
+      "lat": 29.9731617637287,
+      "lon": 31.1435991349229,
+      "distanceKm": 11.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12994097,
+        "cityId": "kahire",
+        "lat": 29.9731617637287,
+        "lon": 31.1435991349229,
+        "address": "شارع ابو فايد 5",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/hamza-pyramids.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/hamza-pyramids.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/hamza-pyramids.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12994097,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1432.74,
+        "displayNightlyTry": 358.18,
+        "excludedTaxesTry": 214.91,
+        "knownTotalTry": 1647.65,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe Çift Kişilik Oda - Balkonlu"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14106191",
+      "name": "Sun shine house",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/680428779.jpg?k=6cc94abe5e9de18bc9760089c60a2777507e43b8665f237561e63821d7c6f959&o=",
+      "rating": 10,
+      "reviews": 1,
+      "pricePerNightTry": 436.595,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 29.9762053,
+      "lon": 31.1414724,
+      "distanceKm": 11.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14106191,
+        "cityId": "kahire",
+        "lat": 29.9762053,
+        "lon": 31.1414724,
+        "address": "أبو الهول السياحي ٨",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/sun-shine-house.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/sun-shine-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/sun-shine-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14106191,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1518.59,
+        "displayNightlyTry": 379.65,
+        "excludedTaxesTry": 227.79,
+        "knownTotalTry": 1746.38,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12903750",
+      "name": "Fares pyramids Hostel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/604679474.jpg?k=b2bd88f103a31081c23935faef82857a0447813a8715032ecd989efff0ec0479&o=",
+      "rating": 8.9,
+      "reviews": 72,
+      "pricePerNightTry": 452.005,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "hotel",
+      "lat": 29.9695123775803,
+      "lon": 31.1449736016443,
+      "distanceKm": 12.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12903750,
+        "cityId": "kahire",
+        "lat": 29.9695123775803,
+        "lon": 31.1449736016443,
+        "address": "فاطمة الزهراء الاول علوى",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/faris-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/faris-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/faris-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12903750,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1572.19,
+        "displayNightlyTry": 393.05,
+        "excludedTaxesTry": 235.83,
+        "knownTotalTry": 1808.02,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T22:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-6996171",
+      "name": "Toman Pyramids hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/298426037.jpg?k=655ae0d0c9b5d150bd803af8e2eaf7e76e3e3f7a7a8fc7ba3f4a27fde6fbf0d6&o=",
+      "rating": 3.3,
+      "reviews": 52,
+      "pricePerNightTry": 462.2775,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Aile Süiti",
+      "roomTypeTag": "hotel",
+      "lat": 29.9688098481616,
+      "lon": 31.1429881279455,
+      "distanceKm": 12.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 6996171,
+        "cityId": "kahire",
+        "lat": 29.9688098481616,
+        "lon": 31.1429881279455,
+        "address": "7 Gamal Abdel Nasser St., down to the samman, the pyramid, Giza",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/toman-pyramids-hotal.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/toman-pyramids-hotal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/toman-pyramids-hotal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 6996171,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1607.92,
+        "displayNightlyTry": 401.98,
+        "excludedTaxesTry": 241.19,
+        "knownTotalTry": 1849.11,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Aile Süiti"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15725448",
+      "name": "Al Sawy Station",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/815390461.jpg?k=517456e6efdb55cefb4f3ffc8dffbf7a0ee144c3223cacced94eeba3257ef1bd&o=",
+      "rating": 1,
+      "reviews": 2,
+      "pricePerNightTry": 472.55,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 30.1614919,
+      "lon": 31.3929284,
+      "distanceKm": 19.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15725448,
+        "cityId": "kahire",
+        "lat": 30.1614919,
+        "lon": 31.3929284,
+        "address": "شارع البترولي خلف كنيسة الأنبا شنودة مدينة السلام القاهره",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/al-sawy-station.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/al-sawy-station.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/al-sawy-station.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15725448,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1643.65,
+        "displayNightlyTry": 410.91,
+        "excludedTaxesTry": 246.55,
+        "knownTotalTry": 1890.2,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16830748",
+      "name": "Karnak hotel with pyramids view",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/892387390.jpg?k=cb132abbc0589e988d402f5dc22113351e9e33b3042f497d6f062c1f2d098517&o=",
+      "rating": 6.5,
+      "reviews": 72,
+      "pricePerNightTry": 480.255,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 29.9776081648109,
+      "lon": 31.1404762429138,
+      "distanceKm": 11.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16830748,
+        "cityId": "kahire",
+        "lat": 29.9776081648109,
+        "lon": 31.1404762429138,
+        "address": "امرؤ القيس",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/karnak-with-pyramids-view-al-haram.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/karnak-with-pyramids-view-al-haram.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/karnak-with-pyramids-view-al-haram.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16830748,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1670.45,
+        "displayNightlyTry": 417.61,
+        "excludedTaxesTry": 250.57,
+        "knownTotalTry": 1921.02,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T22:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-15359984",
+      "name": "pyramids zh Noya inn",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/793628819.jpg?k=f5ea28d0dea6e9d8a55dc4c8bc4a6d6b8c751969898f63339fff18e17e94c558&o=",
+      "rating": 6.5,
+      "reviews": 72,
+      "pricePerNightTry": 493.0975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 29.9685545627337,
+      "lon": 31.1464990265535,
+      "distanceKm": 12.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15359984,
+        "cityId": "kahire",
+        "lat": 29.9685545627337,
+        "lon": 31.1464990265535,
+        "address": "المنصوريه",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/pyramids-zh-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/pyramids-zh-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/pyramids-zh-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15359984,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1715.12,
+        "displayNightlyTry": 428.78,
+        "excludedTaxesTry": 257.27,
+        "knownTotalTry": 1972.39,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-15094688",
+      "name": "Abar Pyramids Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/781959084.jpg?k=42c388497f0f3708d98c73afb4c22d2d6360e0aeca06ed877b16ba37f18d7179&o=",
+      "rating": 9,
+      "reviews": 16,
+      "pricePerNightTry": 493.0975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik İki Yataklı Oda",
+      "roomTypeTag": "hostel",
+      "lat": 29.9700160720663,
+      "lon": 31.142776570757,
+      "distanceKm": 12.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15094688,
+        "cityId": "kahire",
+        "lat": 29.9700160720663,
+        "lon": 31.142776570757,
+        "address": "Fahmy Ali",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/abar-pyramids-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/abar-pyramids-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/abar-pyramids-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15094688,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1715.12,
+        "displayNightlyTry": 428.78,
+        "excludedTaxesTry": 257.27,
+        "knownTotalTry": 1972.39,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13069511",
+      "name": "Zanobians",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/612206601.jpg?k=fd35e64aa57457eec87d5751b2cfb0c9453062c8a2e3e2aa830cff1b343278a9&o=",
+      "rating": 4.6,
+      "reviews": 216,
+      "pricePerNightTry": 494.8075,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hostel",
+      "lat": 30.0541245321901,
+      "lon": 31.2426107679729,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13069511,
+        "cityId": "kahire",
+        "lat": 30.0541245321901,
+        "lon": 31.2426107679729,
+        "address": "9 عرابي",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/zanobian.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/zanobian.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/zanobian.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13069511,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1721.07,
+        "displayNightlyTry": 430.27,
+        "excludedTaxesTry": 258.16,
+        "knownTotalTry": 1979.23,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T12:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15319546",
+      "name": "SR Grand House -only for gents",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/784787783.jpg?k=d46ce542e35df9c84b912822838656b18fdf9dcfd5f771e0a8190c1466e51f0a&o=",
+      "rating": 7.8,
+      "reviews": 27,
+      "pricePerNightTry": 501.7125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe King Oda",
+      "roomTypeTag": "hotel",
+      "lat": 30.0561703536389,
+      "lon": 31.3807162739327,
+      "distanceKm": 14,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Nasr City, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15319546,
+        "cityId": "kahire",
+        "lat": 30.0561703536389,
+        "lon": 31.3807162739327,
+        "address": "Biulding number 2 , jamal hamdan, hay 10, nasr city,   cairo،  Egypt. 10 th floor, al asil tower",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/sr-grand.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/sr-grand.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/sr-grand.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15319546,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1725.54,
+        "displayNightlyTry": 431.38,
+        "excludedTaxesTry": 281.31,
+        "knownTotalTry": 2006.85,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe King Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10061071",
+      "name": "Pyramids Home Guest House",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/459077975.jpg?k=e1bfb90a6304f5c818a584e7fbf8ce1853fd4d07a3106222dc5426d8d46ceaf8&o=",
+      "rating": 8.4,
+      "reviews": 33,
+      "pricePerNightTry": 513.6425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik İki Yataklı Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 29.975622364407,
+      "lon": 31.142359084681,
+      "distanceKm": 11.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10061071,
+        "cityId": "kahire",
+        "lat": 29.975622364407,
+        "lon": 31.142359084681,
+        "address": "4 Gamal Abd El-Nasir",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/pyramids-home.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/pyramids-home.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/pyramids-home.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10061071,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1786.58,
+        "displayNightlyTry": 446.65,
+        "excludedTaxesTry": 267.99,
+        "knownTotalTry": 2054.57,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15145736",
+      "name": "Hetep pyramids Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/766643011.jpg?k=02c5cbfddcc3a0156398a88b9a3b0c00d26ac25e0cc75d89445e9a2a6836484d&o=",
+      "rating": 10,
+      "reviews": 2,
+      "pricePerNightTry": 513.6425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 29.9736285,
+      "lon": 31.1564543,
+      "distanceKm": 11,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15145736,
+        "cityId": "kahire",
+        "lat": 29.9736285,
+        "lon": 31.1564543,
+        "address": "طريق سقارة - كفر المنفي",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/hetep-pyramids-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/hetep-pyramids-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/hetep-pyramids-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15145736,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1786.58,
+        "displayNightlyTry": 446.65,
+        "excludedTaxesTry": 267.99,
+        "knownTotalTry": 2054.57,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14257718",
+      "name": "Israel is an apartheid state",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/692168793.jpg?k=836ada1d85b499a42a90ff1ed46caab65b5b33f7f23418684b404a99dbad3a05&o=",
+      "rating": 1,
+      "reviews": 2,
+      "pricePerNightTry": 513.6425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 29.9564374,
+      "lon": 31.2553701,
+      "distanceKm": 10,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Maadi, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14257718,
+        "cityId": "kahire",
+        "lat": 29.9564374,
+        "lon": 31.2553701,
+        "address": "12 Wadi Al Nile",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/maadi-grand-house.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/maadi-grand-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/maadi-grand-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14257718,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1786.58,
+        "displayNightlyTry": 446.65,
+        "excludedTaxesTry": 267.99,
+        "knownTotalTry": 2054.57,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14230252",
+      "name": "Heart of The Pyramids",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/692830328.jpg?k=bf47dd4f9a2341594d7ccf2db118eaea9a18b7d1e4ad113e410308f533619325&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 513.6425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 29.9732547518373,
+      "lon": 31.1437880291278,
+      "distanceKm": 11.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14230252,
+        "cityId": "kahire",
+        "lat": 29.9732547518373,
+        "lon": 31.1437880291278,
+        "address": "شارع ابو فايد الدور الثالث",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/queen-pyramids-view-inn-al-haram1.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/queen-pyramids-view-inn-al-haram1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/queen-pyramids-view-inn-al-haram1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14230252,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1786.58,
+        "displayNightlyTry": 446.65,
+        "excludedTaxesTry": 267.99,
+        "knownTotalTry": 2054.57,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T22:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13420233",
+      "name": "Youssef Pyrameds View INN",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/636331875.jpg?k=8e51c3a264ca79f5d35e29ee8f1fb68c83c04a204efdb58c5fb2cdfc1d98001b&o=",
+      "rating": 8.2,
+      "reviews": 6,
+      "pricePerNightTry": 523.915,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Teraslı",
+      "roomTypeTag": "hotel",
+      "lat": 29.9710236,
+      "lon": 31.1428812,
+      "distanceKm": 12.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13420233,
+        "cityId": "kahire",
+        "lat": 29.9710236,
+        "lon": 31.1428812,
+        "address": "61 Gamal Abd El-Nasir",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/youssef-pyrameds.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/youssef-pyrameds.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/youssef-pyrameds.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13420233,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1822.31,
+        "displayNightlyTry": 455.58,
+        "excludedTaxesTry": 273.35,
+        "knownTotalTry": 2095.66,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Teraslı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T22:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9376326",
+      "name": "Giza pyramids view homestay",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/413818422.jpg?k=7786592bdadc4e33b9b7497f4da6d807ee3a3f63063463c7d420b441138f7214&o=",
+      "rating": 9,
+      "reviews": 127,
+      "pricePerNightTry": 531.62,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "hotel",
+      "lat": 29.9756928,
+      "lon": 31.14254,
+      "distanceKm": 11.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9376326,
+        "cityId": "kahire",
+        "lat": 29.9756928,
+        "lon": 31.14254,
+        "address": "4 جمال عبد الناصر",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/giza-pyramids-view-homestay.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/giza-pyramids-view-homestay.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/giza-pyramids-view-homestay.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9376326,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1849.11,
+        "displayNightlyTry": 462.28,
+        "excludedTaxesTry": 277.37,
+        "knownTotalTry": 2126.48,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14315419",
+      "name": "SunSet pyramids view Inn",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/693724154.jpg?k=b3dc052478a2d1db881539612726e8809b093623f79d6a68947be8fcc97b7181&o=",
+      "rating": 9.2,
+      "reviews": 123,
+      "pricePerNightTry": 566.575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Teraslı",
+      "roomTypeTag": "hotel",
+      "lat": 29.9882871838512,
+      "lon": 31.1477927498655,
+      "distanceKm": 10.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Giza, Kahire",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14315419,
+        "cityId": "kahire",
+        "lat": 29.9882871838512,
+        "lon": 31.1477927498655,
+        "address": "67 الهرم 12",
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "propertyPath": "/hotel/eg/sunset-pyramids-view-inn-lhrm.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/eg/sunset-pyramids-view-inn-lhrm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/eg/sunset-pyramids-view-inn-lhrm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14315419,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1970.7,
+        "displayNightlyTry": 492.67,
+        "excludedTaxesTry": 295.6,
+        "knownTotalTry": 2266.3,
+        "checkedAt": "2026-10-23T18:51:42.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Teraslı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T22:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "version": 1,
+  "cityId": "rotterdam",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:53:36.820Z",
+  "hotels": [
+    {
+      "id": "booking-3027052",
+      "name": "CityHub Rotterdam",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/492287558.jpg?k=18d91693975a2ec1be8727b9c6972d927909c95bdde51f30af3d157876e6b94b&o=",
+      "rating": 9,
+      "reviews": 5422,
+      "pricePerNightTry": 3214.1025,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Hub",
+      "roomTypeTag": "hotel",
+      "lat": 51.915332,
+      "lon": 4.475504,
+      "distanceKm": 0.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 3027052,
+        "cityId": "rotterdam",
+        "lat": 51.915332,
+        "lon": 4.475504,
+        "address": "Witte de Withstraat 87",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/cityhub-rotterdam.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/cityhub-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/cityhub-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 3027052,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10083.46,
+        "displayNightlyTry": 2520.86,
+        "excludedTaxesTry": 2772.95,
+        "knownTotalTry": 12856.41,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Hub"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13058205",
+      "name": "Pods by The Usual Rotterdam",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/611786629.jpg?k=47f08b13aa7d365c66e0d01475592394dc450a0835f288f2b523a53e0afa7bf4&o=",
+      "rating": 7.7,
+      "reviews": 498,
+      "pricePerNightTry": 3550.93,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "The Twin Pod",
+      "roomTypeTag": "hostel",
+      "lat": 51.9171109,
+      "lon": 4.4790036,
+      "distanceKm": 0.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13058205,
+        "cityId": "rotterdam",
+        "lat": 51.9171109,
+        "lon": 4.4790036,
+        "address": "14 Westblaak",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/pods-by-the-usual.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/pods-by-the-usual.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/pods-by-the-usual.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13058205,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11022.17,
+        "displayNightlyTry": 2755.54,
+        "excludedTaxesTry": 3181.55,
+        "knownTotalTry": 14203.72,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "The Twin Pod"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-46534",
+      "name": "Stayokay Hostel Rotterdam - fully renovated April 2026",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/916852593.jpg?k=670c5360835159594f3aafd650219186c948d04871c4b95187589ee8d4362c76&o=",
+      "rating": 7.9,
+      "reviews": 2572,
+      "pricePerNightTry": 3623.1125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Özel Banyolu, Duşlu",
+      "roomTypeTag": "hostel",
+      "lat": 51.9199435641076,
+      "lon": 4.49055567383766,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 46534,
+        "cityId": "rotterdam",
+        "lat": 51.9199435641076,
+        "lon": 4.49055567383766,
+        "address": "Overblaak 85- 87",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/stayokay-rotterdam.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/stayokay-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/stayokay-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 46534,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11366.62,
+        "displayNightlyTry": 2841.65,
+        "excludedTaxesTry": 3125.83,
+        "knownTotalTry": 14492.45,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Özel Banyolu, Duşlu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7404672",
+      "name": "Hotel Not Hotel Rotterdam",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/830747847.jpg?k=d4ca1cde731858320051e413472c884324488bd174eda423758e60af23161509&o=",
+      "rating": 7.8,
+      "reviews": 624,
+      "pricePerNightTry": 3805.9475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Dikey Yüzme Havuzu",
+      "roomTypeTag": "hotel",
+      "lat": 51.923055,
+      "lon": 4.465408,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7404672,
+        "cityId": "rotterdam",
+        "lat": 51.923055,
+        "lon": 4.465408,
+        "address": "Schaatsbaan 83",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/not-rotterdam.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/not-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/not-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7404672,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11940.23,
+        "displayNightlyTry": 2985.06,
+        "excludedTaxesTry": 3283.56,
+        "knownTotalTry": 15223.79,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Dikey Yüzme Havuzu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1976997",
+      "name": "Thuis bij Schell",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/406168249.jpg?k=3626c3812d9dd572c3c3cf6633f6867743343b42fbb6768c7418184d863e16a7&o=",
+      "rating": 4.5,
+      "reviews": 1692,
+      "pricePerNightTry": 3824.395,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9172935,
+      "lon": 4.47395510000001,
+      "distanceKm": 0.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1976997,
+        "cityId": "rotterdam",
+        "lat": 51.9172935,
+        "lon": 4.47395510000001,
+        "address": "148 Oude Binnenweg",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/thuis-bij-schell.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/thuis-bij-schell.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/thuis-bij-schell.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1976997,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11998.1,
+        "displayNightlyTry": 2999.52,
+        "excludedTaxesTry": 3299.48,
+        "knownTotalTry": 15297.58,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-2712284",
+      "name": "ibis budget Rotterdam The Hague Airport",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/911540371.jpg?k=96391583c97c3e04b78871c0169c2c591c62acf02fd246cdfaba1b614f13760b&o=",
+      "rating": 7.6,
+      "reviews": 4290,
+      "pricePerNightTry": 3907.835,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.947384,
+      "lon": 4.435564,
+      "distanceKm": 4.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Overschie, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2712284,
+        "cityId": "rotterdam",
+        "lat": 51.947384,
+        "lon": 4.435564,
+        "address": "Rotterdam Airportplein 70",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/ibis-budget-rotterdam-the-hague-airport.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/ibis-budget-rotterdam-the-hague-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/ibis-budget-rotterdam-the-hague-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2712284,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12259.87,
+        "displayNightlyTry": 3064.97,
+        "excludedTaxesTry": 3371.47,
+        "knownTotalTry": 15631.34,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13473252",
+      "name": "Hotel Middelland Rotterdam",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/687167227.jpg?k=ad8a506400b6cd23bb267732f3f852742032e484b16c57cfc75432c792866c11&o=",
+      "rating": 8.6,
+      "reviews": 1049,
+      "pricePerNightTry": 4131.225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9139239,
+      "lon": 4.4579106,
+      "distanceKm": 1.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Delfshaven, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13473252,
+        "cityId": "rotterdam",
+        "lat": 51.9139239,
+        "lon": 4.4579106,
+        "address": "314 Mathenesserlaan",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/sonder-middelland.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/sonder-middelland.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/sonder-middelland.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13473252,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12960.7,
+        "displayNightlyTry": 3240.17,
+        "excludedTaxesTry": 3564.2,
+        "knownTotalTry": 16524.9,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-8796659",
+      "name": "Motto by Hilton Rotterdam City Centre",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/929341036.jpg?k=3cbf02cd16791c222457e9dbe787644789353554edce31fa3f51f5241cd6b30b&o=",
+      "rating": 8,
+      "reviews": 2289,
+      "pricePerNightTry": 4255.655,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Compact İki Yataklı Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.92290541,
+      "lon": 4.486724404,
+      "distanceKm": 0.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 8796659,
+        "cityId": "rotterdam",
+        "lat": 51.92290541,
+        "lon": 4.486724404,
+        "address": "Botersloot 125",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/motto-by-hilton-rotterdam-blaak.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/motto-by-hilton-rotterdam-blaak.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/motto-by-hilton-rotterdam-blaak.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 8796659,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13351.07,
+        "displayNightlyTry": 3337.77,
+        "excludedTaxesTry": 3671.55,
+        "knownTotalTry": 17022.62,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Compact İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10080",
+      "name": "a&o Rotterdam City",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/665735517.jpg?k=9d42bba270889ac5fd14ad12997ccf6d840273da7c0c0427dd80d448c370f79d&o=",
+      "rating": 6.5,
+      "reviews": 5349,
+      "pricePerNightTry": 4273.065,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9286492185847,
+      "lon": 4.47374492883682,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Noord, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10080,
+        "cityId": "rotterdam",
+        "lat": 51.9286492185847,
+        "lon": 4.47374492883682,
+        "address": "Schiekade 658",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/pax.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/pax.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/pax.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10080,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13405.69,
+        "displayNightlyTry": 3351.42,
+        "excludedTaxesTry": 3686.57,
+        "knownTotalTry": 17092.26,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-604302",
+      "name": "easyHotel Rotterdam City Centre",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/540757131.jpg?k=774b9b301ea3ab38c0991cecb9259ee459d565faf3ce001f31359b581113fbfc&o=",
+      "rating": 7.3,
+      "reviews": 3468,
+      "pricePerNightTry": 4289.175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Küçük Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9173361611545,
+      "lon": 4.47705200316705,
+      "distanceKm": 0.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 604302,
+        "cityId": "rotterdam",
+        "lat": 51.9173361611545,
+        "lon": 4.47705200316705,
+        "address": "Westblaak 67",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/easyhotel-rotterdam-city-centre.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/easyhotel-rotterdam-city-centre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/easyhotel-rotterdam-city-centre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 604302,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13456.24,
+        "displayNightlyTry": 3364.06,
+        "excludedTaxesTry": 3700.46,
+        "knownTotalTry": 17156.7,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Küçük Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16694",
+      "name": "FLOATS by H2OTEL Rotterdam",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/851219430.jpg?k=7fd6e1f7fba749d236624766e7b5a82b0c86a3f56856e2f676b0ca5bbee9ec92&o=",
+      "rating": 8.3,
+      "reviews": 3223,
+      "pricePerNightTry": 4428.8325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Junior Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9172916941678,
+      "lon": 4.48727694147237,
+      "distanceKm": 0.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16694,
+        "cityId": "rotterdam",
+        "lat": 51.9172916941678,
+        "lon": 4.48727694147237,
+        "address": "Wijnhaven 20a",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/h2otel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/h2otel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/h2otel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16694,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13894.37,
+        "displayNightlyTry": 3473.59,
+        "excludedTaxesTry": 3820.96,
+        "knownTotalTry": 17715.33,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Junior Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7895899",
+      "name": "Fletcher Hotel Rotterdam-Airport",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/352389677.jpg?k=13a0031f2bea00851bd46b57ad3c62adb834bc0679252b99bf49d6ee04a48c7d&o=",
+      "rating": 7.4,
+      "reviews": 1517,
+      "pricePerNightTry": 4479.48,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.947939,
+      "lon": 4.435094,
+      "distanceKm": 4.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Overschie, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7895899,
+        "cityId": "rotterdam",
+        "lat": 51.947939,
+        "lon": 4.435094,
+        "address": "Rotterdam Airportplein 68",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/fletcher-rotterdam-airport.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/fletcher-rotterdam-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/fletcher-rotterdam-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7895899,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14053.27,
+        "displayNightlyTry": 3513.32,
+        "excludedTaxesTry": 3864.65,
+        "knownTotalTry": 17917.92,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13813783",
+      "name": "Hotel BonBon & BonBon Budget",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/686495081.jpg?k=2e1bb712d1ac3957a0d2a0cf7ba171517719cedb8cc855fbb286dcc97c12865d&o=",
+      "rating": 7.3,
+      "reviews": 244,
+      "pricePerNightTry": 4497.0475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9154036,
+      "lon": 4.4758939,
+      "distanceKm": 0.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13813783,
+        "cityId": "rotterdam",
+        "lat": 51.9154036,
+        "lon": 4.4758939,
+        "address": "Witte de Withstraat 79B",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/bonbon.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/bonbon.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/bonbon.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13813783,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14108.38,
+        "displayNightlyTry": 3527.1,
+        "excludedTaxesTry": 3879.81,
+        "knownTotalTry": 17988.19,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-11742",
+      "name": "Bastion Hotel Rotterdam Alexander",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/688983541.jpg?k=413257e8da5518cb9143a23967cccbd7e5704ba764587bc6b1e9713a757e5566&o=",
+      "rating": 7.5,
+      "reviews": 1922,
+      "pricePerNightTry": 4552.675,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe İki Yataklı Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.9459050099526,
+      "lon": 4.53523993492126,
+      "distanceKm": 4.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Prins Alexander, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 11742,
+        "cityId": "rotterdam",
+        "lat": 51.9459050099526,
+        "lon": 4.53523993492126,
+        "address": "Hoofdweg 40",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/bastion-deluxe-rotterdam-terbregseplein.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/bastion-deluxe-rotterdam-terbregseplein.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/bastion-deluxe-rotterdam-terbregseplein.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 11742,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14282.9,
+        "displayNightlyTry": 3570.73,
+        "excludedTaxesTry": 3927.8,
+        "knownTotalTry": 18210.7,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10980812",
+      "name": "Hotel Rose Rotterdam",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/687165583.jpg?k=180c0a40bb4cf9bea51482592afb1f8d572011920b5ba46366bde85e3a14e391&o=",
+      "rating": 8.4,
+      "reviews": 3205,
+      "pricePerNightTry": 4568.6325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Comfort İki Yataklı Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.9097363,
+      "lon": 4.4785131,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10980812,
+        "cityId": "rotterdam",
+        "lat": 51.9097363,
+        "lon": 4.4785131,
+        "address": "Van Vollenhovenstraat 50",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/sonder-rose.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/sonder-rose.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/sonder-rose.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10980812,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14332.96,
+        "displayNightlyTry": 3583.24,
+        "excludedTaxesTry": 3941.57,
+        "knownTotalTry": 18274.53,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Comfort İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-8904022",
+      "name": "Motel One Rotterdam",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/818927198.jpg?k=f4f0abe602088278d1b62c67d7dd658c8dc7e4e34dc2f6377c716d70bf51846d&o=",
+      "rating": 8.6,
+      "reviews": 7919,
+      "pricePerNightTry": 4699.065,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.920772192263,
+      "lon": 4.48425304166414,
+      "distanceKm": 0.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 8904022,
+        "cityId": "rotterdam",
+        "lat": 51.920772192263,
+        "lon": 4.48425304166414,
+        "address": "Grotekerkplein 70",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/motel-one-rotterdam.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/motel-one-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/motel-one-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 8904022,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14742.16,
+        "displayNightlyTry": 3685.54,
+        "excludedTaxesTry": 4054.1,
+        "knownTotalTry": 18796.26,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17628",
+      "name": "ss Rotterdam by WestCord",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/886548120.jpg?k=2d4c6d8ae8d9203da06116e07334ebfd93d4bebdffb3046b4a4f1b3cf7f6f026&o=",
+      "rating": 8.2,
+      "reviews": 4827,
+      "pricePerNightTry": 4703.455,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.8981116296976,
+      "lon": 4.47336673736572,
+      "distanceKm": 2.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Feijenoord, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17628,
+        "cityId": "rotterdam",
+        "lat": 51.8981116296976,
+        "lon": 4.47336673736572,
+        "address": "Derde Katendrechtsehoofd 25",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/cruise.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/cruise.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/cruise.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17628,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14755.94,
+        "displayNightlyTry": 3688.98,
+        "excludedTaxesTry": 4057.88,
+        "knownTotalTry": 18813.82,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7152499",
+      "name": "Mr.Lewis Rotterdam",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/729323062.jpg?k=5f71819cf8f66c2da6c360c01fbe43c8f1109b66fae209462d4165eb4fbf4291&o=",
+      "rating": 7.9,
+      "reviews": 1105,
+      "pricePerNightTry": 4716.4825,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tiny Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9188463261117,
+      "lon": 4.4559472883606,
+      "distanceKm": 1.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Delfshaven, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7152499,
+        "cityId": "rotterdam",
+        "lat": 51.9188463261117,
+        "lon": 4.4559472883606,
+        "address": "Heemraadssingel 90",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/mr-lewis-rotterdam.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/mr-lewis-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/mr-lewis-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7152499,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14796.81,
+        "displayNightlyTry": 3699.2,
+        "excludedTaxesTry": 4069.12,
+        "knownTotalTry": 18865.93,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tiny Oda"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-2882068",
+      "name": "The James Rotterdam",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/479236493.jpg?k=f880c731951d1fc4873917cb02064a3711bec573302dcd51bc26aa14a5fd884c&o=",
+      "rating": 8.7,
+      "reviews": 6895,
+      "pricePerNightTry": 4728.34,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.921119,
+      "lon": 4.477833,
+      "distanceKm": 0.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2882068,
+        "cityId": "rotterdam",
+        "lat": 51.921119,
+        "lon": 4.477833,
+        "address": "25 Aert van Nesstraat",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/the-james-rotterdam.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/the-james-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/the-james-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2882068,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14834.01,
+        "displayNightlyTry": 3708.5,
+        "excludedTaxesTry": 4079.35,
+        "knownTotalTry": 18913.36,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10325745",
+      "name": "ibis Styles Rotterdam Ahoy",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/878604837.jpg?k=ec5618975bab55e9756effe98a0294b81780e096f5885971ec194fac287a1583&o=",
+      "rating": 8.2,
+      "reviews": 9185,
+      "pricePerNightTry": 4938.8475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.883296,
+      "lon": 4.488366,
+      "distanceKm": 4.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Charlois, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10325745,
+        "cityId": "rotterdam",
+        "lat": 51.883296,
+        "lon": 4.488366,
+        "address": "Jacob Kleiboerweg 80",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/ibis-styles-rotterdam-ahoy.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/ibis-styles-rotterdam-ahoy.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/ibis-styles-rotterdam-ahoy.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10325745,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15494.42,
+        "displayNightlyTry": 3873.6,
+        "excludedTaxesTry": 4260.97,
+        "knownTotalTry": 19755.39,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-4813342",
+      "name": "hotel emma next",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/814990174.jpg?k=446b8258de3a57073ad086a8c503f9855fee37bcc23ec972e90274e887f7e950&o=",
+      "rating": 7.8,
+      "reviews": 2049,
+      "pricePerNightTry": 4972.515,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "The Standard Double",
+      "roomTypeTag": "hotel",
+      "lat": 51.916927,
+      "lon": 4.473975,
+      "distanceKm": 0.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 4813342,
+        "cityId": "rotterdam",
+        "lat": 51.916927,
+        "lon": 4.473975,
+        "address": "Eendrachtsplein 12",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/unplugged.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/unplugged.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/unplugged.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 4813342,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15600.05,
+        "displayNightlyTry": 3900.01,
+        "excludedTaxesTry": 4290.01,
+        "knownTotalTry": 19890.06,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "The Standard Double"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-6375723",
+      "name": "Hotel 171 - Smart Stay",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/902997517.jpg?k=500ef2ac2a6a0d5929ae6fadf7d142166334e6cadae622d56d97d29a2f000e55&o=",
+      "rating": 8,
+      "reviews": 1354,
+      "pricePerNightTry": 5002.0875,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Smart Room S",
+      "roomTypeTag": "hotel",
+      "lat": 51.914114,
+      "lon": 4.464551,
+      "distanceKm": 1.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 6375723,
+        "cityId": "rotterdam",
+        "lat": 51.914114,
+        "lon": 4.464551,
+        "address": "171 Nieuwe Binnenweg",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/171-urban-desgin.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/171-urban-desgin.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/171-urban-desgin.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 6375723,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15692.82,
+        "displayNightlyTry": 3923.21,
+        "excludedTaxesTry": 4315.53,
+        "knownTotalTry": 20008.35,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Smart Room S"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-1014054",
+      "name": "ibis Rotterdam City Centre",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/909904169.jpg?k=caf7e467882f3002ee1d1e32e2a3e6d970f07af364e012662b284244bfc9910e&o=",
+      "rating": 8.3,
+      "reviews": 3103,
+      "pricePerNightTry": 5005.305,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 51.9176357129772,
+      "lon": 4.48926642548031,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1014054,
+        "cityId": "rotterdam",
+        "lat": 51.9176357129772,
+        "lon": 4.48926642548031,
+        "address": "Wijnhaven 12",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/ibis-rotterdam-city-centre.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/ibis-rotterdam-city-centre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/ibis-rotterdam-city-centre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1014054,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15702.92,
+        "displayNightlyTry": 3925.73,
+        "excludedTaxesTry": 4318.3,
+        "knownTotalTry": 20021.22,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15418362",
+      "name": "Numa Rotterdam Coolsingel",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/838224372.jpg?k=7951af2b47dba4f49b10e6e6895e4b3c42ec045247369ac9562e6791e7334936&o=",
+      "rating": 8.5,
+      "reviews": 2293,
+      "pricePerNightTry": 5013.815,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Superior Stüdyo",
+      "roomTypeTag": "luxury",
+      "lat": 51.9183337,
+      "lon": 4.479713,
+      "distanceKm": 0.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Centrum, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15418362,
+        "cityId": "rotterdam",
+        "lat": 51.9183337,
+        "lon": 4.479713,
+        "address": "Coolsingel 137",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/numa-rotterdam-coolsingel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/numa-rotterdam-coolsingel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/numa-rotterdam-coolsingel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15418362,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15729.61,
+        "displayNightlyTry": 3932.4,
+        "excludedTaxesTry": 4325.65,
+        "knownTotalTry": 20055.26,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Superior Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1285708",
+      "name": "Fletcher Hotel-Restaurant Wings-Rotterdam",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/49395486.jpg?k=e959a4e34992b49e59187f0946f8abffa57d82e04d444f6ec05cf95b2156d255&o=",
+      "rating": 7.8,
+      "reviews": 1025,
+      "pricePerNightTry": 5065.0325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Comfort Çift Kişilik Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.94792055874,
+      "lon": 4.43611022507025,
+      "distanceKm": 4.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Overschie, Rotterdam",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1285708,
+        "cityId": "rotterdam",
+        "lat": 51.94792055874,
+        "lon": 4.43611022507025,
+        "address": "Rotterdam Airportplein 55",
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "propertyPath": "/hotel/nl/worldhotelwings-rotterdam.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/nl/worldhotelwings-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/nl/worldhotelwings-rotterdam.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1285708,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15890.3,
+        "displayNightlyTry": 3972.58,
+        "excludedTaxesTry": 4369.83,
+        "knownTotalTry": 20260.13,
+        "checkedAt": "2026-10-23T18:53:36.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Comfort Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    }
+  ]
+}

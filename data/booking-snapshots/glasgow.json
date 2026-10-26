@@ -1,0 +1,1341 @@
+{
+  "version": 1,
+  "cityId": "glasgow",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:49:52.844Z",
+  "hotels": [
+    {
+      "id": "booking-9930296",
+      "name": "Culbin Lodge",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/450012125.jpg?k=08e5c33141cd83baf84d9f901ce3d7b11d065aefe600090af6e19b94b47e9061&o=",
+      "rating": 6.1,
+      "reviews": 304,
+      "pricePerNightTry": 2200.3125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "apartment",
+      "lat": 55.8975153,
+      "lon": -4.3674098,
+      "distanceKm": 8.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9930296,
+        "cityId": "glasgow",
+        "lat": 55.8975153,
+        "lon": -4.3674098,
+        "address": "G13 4PW",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/culbin-drive-glasgow-glasgow.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/culbin-drive-glasgow-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/culbin-drive-glasgow-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9930296,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 7334.37,
+        "displayNightlyTry": 1833.59,
+        "excludedTaxesTry": 1466.88,
+        "knownTotalTry": 8801.25,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10566604",
+      "name": "Rangers GuestHouse",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/482643808.jpg?k=ea817bd175c1936f0d9397e1d23caab25cd2acae909167ee1743085651de2337&o=",
+      "rating": 6.8,
+      "reviews": 891,
+      "pricePerNightTry": 3233.3125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 55.851195,
+      "lon": -4.3007198,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "South, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10566604,
+        "cityId": "glasgow",
+        "lat": 55.851195,
+        "lon": -4.3007198,
+        "address": "490 Paisley Road West",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/rangers-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/rangers-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/rangers-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10566604,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10777.71,
+        "displayNightlyTry": 2694.43,
+        "excludedTaxesTry": 2155.54,
+        "knownTotalTry": 12933.25,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14486430",
+      "name": "Whitefield Guesthouse",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/705773861.jpg?k=602af9f72504c4db970d3c7981dcbc6c289bb249979fde4ce3ba69aab09c99fa&o=",
+      "rating": 6.7,
+      "reviews": 315,
+      "pricePerNightTry": 3233.3125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "guesthouse",
+      "lat": 55.8511823,
+      "lon": -4.3007968,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "South, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14486430,
+        "cityId": "glasgow",
+        "lat": 55.8511823,
+        "lon": -4.3007968,
+        "address": "492 Paisley Road West",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/whitefield-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/whitefield-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/whitefield-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14486430,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10777.71,
+        "displayNightlyTry": 2694.43,
+        "excludedTaxesTry": 2155.54,
+        "knownTotalTry": 12933.25,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-343611",
+      "name": "Glasgow Youth Hostel",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/562815106.jpg?k=67a3a8f1e19d02d0750f5159dba8760f4e8abbf28c1e3860e3467b145060ac0d&o=",
+      "rating": 8.3,
+      "reviews": 1986,
+      "pricePerNightTry": 3354.355,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Kişilik Özel İki Yataklı Oda - En-Suite Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 55.8689822710168,
+      "lon": -4.28110733628273,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "North West, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 343611,
+        "cityId": "glasgow",
+        "lat": 55.8689822710168,
+        "lon": -4.28110733628273,
+        "address": "8 Park Terrace",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/glasgow-youth-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/glasgow-youth-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/glasgow-youth-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 343611,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11181.18,
+        "displayNightlyTry": 2795.29,
+        "excludedTaxesTry": 2236.24,
+        "knownTotalTry": 13417.42,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Kişilik Özel İki Yataklı Oda - En-Suite Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T00:00:00Z",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-14928966",
+      "name": "Cozy Room In Sauchiehall Street",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/746202099.jpg?k=7db3fa32189206bc4f4ff22cadfdea47ec5bbc30d9a1ddd2e03803031c43a5fc&o=",
+      "rating": 7.2,
+      "reviews": 61,
+      "pricePerNightTry": 3380.8825,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 55.8659529,
+      "lon": -4.2687811,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow Şehir Merkezi, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14928966,
+        "cityId": "glasgow",
+        "lat": 55.8659529,
+        "lon": -4.2687811,
+        "address": "2 2, 415 Sauchiehall Street",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/cozy-room-in-sauchiehall-street.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/cozy-room-in-sauchiehall-street.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/cozy-room-in-sauchiehall-street.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14928966,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11324.88,
+        "displayNightlyTry": 2748.32,
+        "excludedTaxesTry": 2198.65,
+        "knownTotalTry": 13523.53,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-11674347",
+      "name": "Campsie Glen Holiday Park",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/769771400.jpg?k=2e08f6b58e62f6c1e9991ee73e8ff2d21f0d3df432b7b543839e47cba0ad1e7a&o=",
+      "rating": 8.6,
+      "reviews": 332,
+      "pricePerNightTry": 3402.4375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Camping Pod Sleep 6 Pet Friendly",
+      "roomTypeTag": "hotel",
+      "lat": 56.0683562,
+      "lon": -4.2452252,
+      "distanceKm": 23,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 11674347,
+        "cityId": "glasgow",
+        "lat": 56.0683562,
+        "lon": -4.2452252,
+        "address": "Campsie Glen Holiday Park",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/campsie-glen-holiday-park.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/campsie-glen-holiday-park.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/campsie-glen-holiday-park.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 11674347,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11341.46,
+        "displayNightlyTry": 2835.37,
+        "excludedTaxesTry": 2268.29,
+        "knownTotalTry": 13609.75,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Camping Pod Sleep 6 Pet Friendly",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9156554",
+      "name": "Ibrox Argyll Inn",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/402674591.jpg?k=689745f44c8537b6ce49def8cade565891206fe812f731e72ef5e4095b1cb89d&o=",
+      "rating": 6.6,
+      "reviews": 654,
+      "pricePerNightTry": 3427.6425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 55.8560207,
+      "lon": -4.3035613,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "South, Glasgow",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9156554,
+        "cityId": "glasgow",
+        "lat": 55.8560207,
+        "lon": -4.3035613,
+        "address": "90 Copland Road",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/ibrox-argyll-sky-suite.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/ibrox-argyll-sky-suite.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/ibrox-argyll-sky-suite.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9156554,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11425.48,
+        "displayNightlyTry": 2856.37,
+        "excludedTaxesTry": 2285.09,
+        "knownTotalTry": 13710.57,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe Çift Kişilik Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-12171387",
+      "name": "For Students Only - Rooms in Glasgow",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/563657562.jpg?k=ee940cfb31a021b7526eeae0d24a07f2e4764d360a387f20b2012af2f7ab8dc5&o=",
+      "rating": 7.8,
+      "reviews": 69,
+      "pricePerNightTry": 3457.3625,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 55.8597042300316,
+      "lon": -4.23747360304108,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "East End, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12171387,
+        "cityId": "glasgow",
+        "lat": 55.8597042300316,
+        "lon": -4.23747360304108,
+        "address": "6 Havannah Street",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/cityscape-studios-your-urban-living-in-glasgow-student-only.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/cityscape-studios-your-urban-living-in-glasgow-student-only.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/cityscape-studios-your-urban-living-in-glasgow-student-only.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12171387,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12271.94,
+        "displayNightlyTry": 1946.9,
+        "excludedTaxesTry": 1557.51,
+        "knownTotalTry": 13829.45,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16795723",
+      "name": "For Students Only - City Wharf in Glasgow",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/890733814.jpg?k=1294b817e5d6151b3ca721cb1c0d20d6b0b7625fa7459f761bd7dde98a27b280&o=",
+      "rating": 6.6,
+      "reviews": 48,
+      "pricePerNightTry": 3606.7175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 55.857619,
+      "lon": -4.27045,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow Şehir Merkezi, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16795723,
+        "cityId": "glasgow",
+        "lat": 55.857619,
+        "lon": -4.27045,
+        "address": "1 Piccadilly St",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/city-wharf-in-glasgow.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/city-wharf-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/city-wharf-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16795723,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13072.53,
+        "displayNightlyTry": 1692.93,
+        "excludedTaxesTry": 1354.34,
+        "knownTotalTry": 14426.87,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-15639849",
+      "name": "For Students Only Merchant Apartments in Glasgow",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/808562479.jpg?k=b3eb82ac7f468f0277b8df018a0c7d926939e08b42addcf921b13e854dec3d52&o=",
+      "rating": 7.9,
+      "reviews": 83,
+      "pricePerNightTry": 3638.885,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 55.8590237581929,
+      "lon": -4.23736204390917,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "East End, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15639849,
+        "cityId": "glasgow",
+        "lat": 55.8590237581929,
+        "lon": -4.23736204390917,
+        "address": "10 Havannah Street",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/for-students-only-collegelands-in-glasgow.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/for-students-only-collegelands-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/for-students-only-collegelands-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15639849,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12682.32,
+        "displayNightlyTry": 2341.53,
+        "excludedTaxesTry": 1873.22,
+        "knownTotalTry": 14555.54,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-16144696",
+      "name": "Celtic City Stay",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/851461619.jpg?k=b6dd798b6d0ffec9f1331bcf5e14703b7343252c832ae3bddfad8dc8e0c391f0&o=",
+      "rating": 5.5,
+      "reviews": 33,
+      "pricePerNightTry": 3647.84,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 55.8438304,
+      "lon": -4.1899245,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16144696,
+        "cityId": "glasgow",
+        "lat": 55.8438304,
+        "lon": -4.1899245,
+        "address": "Glenisla Str",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/celtic-cozy-stay.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/celtic-cozy-stay.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/celtic-cozy-stay.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16144696,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12159.46,
+        "displayNightlyTry": 3039.87,
+        "excludedTaxesTry": 2431.9,
+        "knownTotalTry": 14591.36,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15541494",
+      "name": "The Nest Retreat",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/851128189.jpg?k=92bcc110c88e8ebc28ddf8b88a3ed8b44d73382d8f63643b0bad71c35935f7c6&o=",
+      "rating": 5.9,
+      "reviews": 36,
+      "pricePerNightTry": 3664.4225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "apartment",
+      "lat": 55.8659048434564,
+      "lon": -4.26844500957819,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow Şehir Merkezi, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15541494,
+        "cityId": "glasgow",
+        "lat": 55.8659048434564,
+        "lon": -4.26844500957819,
+        "address": "405 Sauchiehall St 405",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/the-nest-retreat-glasgow-city.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/the-nest-retreat-glasgow-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/the-nest-retreat-glasgow-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15541494,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12270.01,
+        "displayNightlyTry": 2984.6,
+        "excludedTaxesTry": 2387.68,
+        "knownTotalTry": 14657.69,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-4570605",
+      "name": "Glades House",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/745889852.jpg?k=bd07312ef773a6a879df7450f419be6ecfe365eaf16ecc1bac05a2231d9ca69f&o=",
+      "rating": 8.1,
+      "reviews": 719,
+      "pricePerNightTry": 3685.975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik veya İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": 55.83233,
+      "lon": -4.253794,
+      "distanceKm": 3.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "South, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 4570605,
+        "cityId": "glasgow",
+        "lat": 55.83233,
+        "lon": -4.253794,
+        "address": "142 Albert Road Crosshill",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/glades-house.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/glades-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/glades-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 4570605,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14743.9,
+        "displayNightlyTry": 3685.98,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 14743.9,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik veya İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-08T00:00:00Z",
+        "deals": [],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-16277656",
+      "name": "Cozy Room in Polloksheilds",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/860209374.jpg?k=bfe266096855d1c9addd15d3d95822f98ec7285a1a986e92dc6e30f329322a79&o=",
+      "rating": 7.2,
+      "reviews": 5,
+      "pricePerNightTry": 3747.3275,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 55.846469121717,
+      "lon": -4.28963883347124,
+      "distanceKm": 3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "South, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16277656,
+        "cityId": "glasgow",
+        "lat": 55.846469121717,
+        "lon": -4.28963883347124,
+        "address": "23 Maxwell Gardens",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/cozy-room-in-polloksheilds.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/cozy-room-in-polloksheilds.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/cozy-room-in-polloksheilds.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16277656,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12601.63,
+        "displayNightlyTry": 2984.6,
+        "excludedTaxesTry": 2387.68,
+        "knownTotalTry": 14989.31,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15438249",
+      "name": "The Cozy Corner",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/871675390.jpg?k=b20b23a3db38b68573fac5e645673c5800c15529e1efac2e83eaf2eb1d0c8968&o=",
+      "rating": 5.6,
+      "reviews": 31,
+      "pricePerNightTry": 3783.805,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 55.865909,
+      "lon": -4.2684482,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow Şehir Merkezi, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15438249,
+        "cityId": "glasgow",
+        "lat": 55.865909,
+        "lon": -4.2684482,
+        "address": "405 Sauchiehall Street 3/2",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/the-cozy-corner-glasgow-city.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/the-cozy-corner-glasgow-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/the-cozy-corner-glasgow-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15438249,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12667.95,
+        "displayNightlyTry": 3084.08,
+        "excludedTaxesTry": 2467.27,
+        "knownTotalTry": 15135.22,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-256546",
+      "name": "Sandyford Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/638269301.jpg?k=a106fdbe8fd46657587651b610f66f3af96d08533ba75c867c4546feb0e082ca&o=",
+      "rating": 7.8,
+      "reviews": 5172,
+      "pricePerNightTry": 3797.565,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 55.8655997415777,
+      "lon": -4.28426027297974,
+      "distanceKm": 2.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "North West, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 256546,
+        "cityId": "glasgow",
+        "lat": 55.8655997415777,
+        "lon": -4.28426027297974,
+        "address": "904 Sauchiehall Street",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/sandyford.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/sandyford.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/sandyford.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 256546,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12477.71,
+        "displayNightlyTry": 3119.43,
+        "excludedTaxesTry": 2712.55,
+        "knownTotalTry": 15190.26,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17330497",
+      "name": "For Students Only - West View in Glasgow",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/922034616.jpg?k=7d06bf4dae874830091f624ecf8480e085d1e9546924c17bc3898d68dfc83068&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 3832.5525,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 55.868473091575,
+      "lon": -4.30479690996182,
+      "distanceKm": 3.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "North West, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17330497,
+        "cityId": "glasgow",
+        "lat": 55.868473091575,
+        "lon": -4.30479690996182,
+        "address": "2 Beith Street",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/for-students-only-west-view-in-glasgow.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/for-students-only-west-view-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/for-students-only-west-view-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17330497,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13825.31,
+        "displayNightlyTry": 1881.12,
+        "excludedTaxesTry": 1504.9,
+        "knownTotalTry": 15330.21,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-261344",
+      "name": "ibis budget Glasgow",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/931062031.jpg?k=0d0bd8287bbad24b09222f6b80493493e6ff736eaf9d4fe549d9ac2aa94f94ea&o=",
+      "rating": 7.2,
+      "reviews": 8086,
+      "pricePerNightTry": 3883.125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Üç Kişilik Oda - Çift Kişilik Yataklı ve Ranzalı",
+      "roomTypeTag": "hotel",
+      "lat": 55.8541458675715,
+      "lon": -4.27606880664825,
+      "distanceKm": 1.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "South, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 261344,
+        "cityId": "glasgow",
+        "lat": 55.8541458675715,
+        "lon": -4.27606880664825,
+        "address": "2A Springfield Quay",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/etap-glasgow.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/etap-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/etap-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 261344,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12943.75,
+        "displayNightlyTry": 3235.94,
+        "excludedTaxesTry": 2588.75,
+        "knownTotalTry": 15532.5,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Üç Kişilik Oda - Çift Kişilik Yataklı ve Ranzalı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15830785",
+      "name": "For Students Only West End in Glasgow",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/825357175.jpg?k=ea77f04fdbdcb55405718bb6991c6e170e2c82cb1f6a2b8baba1be03e684b1fc&o=",
+      "rating": 9.2,
+      "reviews": 32,
+      "pricePerNightTry": 3898.05,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 55.8640162877141,
+      "lon": -4.29237048430863,
+      "distanceKm": 2.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "North West, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15830785,
+        "cityId": "glasgow",
+        "lat": 55.8640162877141,
+        "lon": -4.29237048430863,
+        "address": "31 Gilbert St",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/for-students-only-west-end-in-glasgow.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/for-students-only-west-end-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/for-students-only-west-end-in-glasgow.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15830785,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13932.98,
+        "displayNightlyTry": 1908.04,
+        "excludedTaxesTry": 1659.22,
+        "knownTotalTry": 15592.2,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-11953782",
+      "name": "Dobbies Point in Central Glasgow For Students Only",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/550249927.jpg?k=64e522bc783756ab1fa090388662fc97e58d094b231c23605887b31431968dfb&o=",
+      "rating": 8.2,
+      "reviews": 189,
+      "pricePerNightTry": 3958.2375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo Daire",
+      "roomTypeTag": "apartment",
+      "lat": 55.8665961557882,
+      "lon": -4.24781477362805,
+      "distanceKm": 0.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow Şehir Merkezi, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 11953782,
+        "cityId": "glasgow",
+        "lat": 55.8665961557882,
+        "lon": -4.24781477362805,
+        "address": "200 N Hanover St",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/for-students-only-cosy-ensuite-rooms-with-private-bathrooms-at-dobbies-point-in.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/for-students-only-cosy-ensuite-rooms-with-private-bathrooms-at-dobbies-point-in.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/for-students-only-cosy-ensuite-rooms-with-private-bathrooms-at-dobbies-point-in.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 11953782,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13597.82,
+        "displayNightlyTry": 2570.4,
+        "excludedTaxesTry": 2235.13,
+        "knownTotalTry": 15832.95,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T18:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-2013383",
+      "name": "Crosshill House",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/92419599.jpg?k=8a64972ad1fc723e58f11979227a2e966c191916e3cf05e404305f437d36c277&o=",
+      "rating": 7.3,
+      "reviews": 2083,
+      "pricePerNightTry": 3982.28,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Küçük Çift Kişilik Oda",
+      "roomTypeTag": "luxury",
+      "lat": 55.8329778011564,
+      "lon": -4.26156020112103,
+      "distanceKm": 3.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "South, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2013383,
+        "cityId": "glasgow",
+        "lat": 55.8329778011564,
+        "lon": -4.26156020112103,
+        "address": "46-48, Queen Mary Avenue",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/crosshill.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/crosshill.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/crosshill.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2013383,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13084.69,
+        "displayNightlyTry": 3271.17,
+        "excludedTaxesTry": 2844.43,
+        "knownTotalTry": 15929.12,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Küçük Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-703930",
+      "name": "Glasgow House",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/148785142.jpg?k=6644d0be4a83763bb74cace81d53913f755507abdb920a4f188e60d5cd1fbf93&o=",
+      "rating": 7.2,
+      "reviews": 548,
+      "pricePerNightTry": 3982.28,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 55.8749536269209,
+      "lon": -4.28227007389069,
+      "distanceKm": 2.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "North West, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 703930,
+        "cityId": "glasgow",
+        "lat": 55.8749536269209,
+        "lon": -4.28227007389069,
+        "address": "3 Bank Street",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/glasgow-house.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/glasgow-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/glasgow-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 703930,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13084.69,
+        "displayNightlyTry": 3271.17,
+        "excludedTaxesTry": 2844.43,
+        "knownTotalTry": 15929.12,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16081283",
+      "name": "Springfield garden-Celtic park",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/844405827.jpg?k=ac0848a0996bd351a6d343e134c0d7f5fd1788c560690c459ac7146e36289fc6&o=",
+      "rating": 4,
+      "reviews": 22,
+      "pricePerNightTry": 3988.745,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "King Oda - Bahçe Manzaralı",
+      "roomTypeTag": "hotel",
+      "lat": 55.8496522,
+      "lon": -4.2022268,
+      "distanceKm": 3.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "East End, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16081283,
+        "cityId": "glasgow",
+        "lat": 55.8496522,
+        "lon": -4.2022268,
+        "address": "11 Springfield Gardens",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/springfield-garden-celtic-park.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/springfield-garden-celtic-park.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/springfield-garden-celtic-park.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16081283,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13295.82,
+        "displayNightlyTry": 3323.96,
+        "excludedTaxesTry": 2659.16,
+        "knownTotalTry": 15954.98,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "King Oda - Bahçe Manzaralı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-34248",
+      "name": "Leonardo Inn Glasgow West End",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/616001638.jpg?k=09a777ae9326375bb0ed25a2376c9e78f6988cbf850c4a9bfdc80e4fb966a6c0&o=",
+      "rating": 6.9,
+      "reviews": 3498,
+      "pricePerNightTry": 4021.08,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 55.8845155472716,
+      "lon": -4.31102871894836,
+      "distanceKm": 4.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "North West, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 34248,
+        "cityId": "glasgow",
+        "lat": 55.8845155472716,
+        "lon": -4.31102871894836,
+        "address": "4 Shelley Road",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/leonardo-inn-glasgow-west-end.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/leonardo-inn-glasgow-west-end.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/leonardo-inn-glasgow-west-end.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 34248,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13403.6,
+        "displayNightlyTry": 3350.9,
+        "excludedTaxesTry": 2680.72,
+        "knownTotalTry": 16084.32,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-367057",
+      "name": "easyHotel Glasgow City",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/534465470.jpg?k=7076be37c953fbce41241d4c9271cb07d135429020a38b09f546e834b9c80711&o=",
+      "rating": 6.6,
+      "reviews": 1964,
+      "pricePerNightTry": 4344.2475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 55.8664448371603,
+      "lon": -4.25999566912651,
+      "distanceKm": 0.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Glasgow Şehir Merkezi, Glasgow",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 367057,
+        "cityId": "glasgow",
+        "lat": 55.8664448371603,
+        "lon": -4.25999566912651,
+        "address": "1 Hill Street",
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "propertyPath": "/hotel/gb/easy-glasgow-city.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/easy-glasgow-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/easy-glasgow-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 367057,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14480.82,
+        "displayNightlyTry": 3620.2,
+        "excludedTaxesTry": 2896.17,
+        "knownTotalTry": 17376.99,
+        "checkedAt": "2026-10-23T18:49:52.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    }
+  ]
+}

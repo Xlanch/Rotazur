@@ -1,0 +1,446 @@
+{
+  "madrid": {
+    "name": "Toledo, Spain",
+    "lat": 39.85666667,
+    "lon": -4.02444444,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Toledo%2C_Spain"
+  },
+  "milano": {
+    "name": "Como",
+    "lat": 45.81666667,
+    "lon": 9.08333333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Como"
+  },
+  "venedik": {
+    "name": "Padua",
+    "lat": 45.4078,
+    "lon": 11.8733,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Padua"
+  },
+  "munih": {
+    "name": "Dachau",
+    "lat": 48.26888889,
+    "lon": 11.46861111,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dachau_concentration_camp"
+  },
+  "frankfurt": {
+    "name": "Heidelberg",
+    "lat": 49.41666667,
+    "lon": 8.71666667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Heidelberg"
+  },
+  "hamburg": {
+    "name": "Lübeck",
+    "lat": 53.86972222,
+    "lon": 10.68638889,
+    "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%BCbeck"
+  },
+  "bruksel": {
+    "name": "Bruges",
+    "lat": 51.20888889,
+    "lon": 3.22416667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bruges"
+  },
+  "dublin": {
+    "name": "Howth",
+    "lat": 53.386,
+    "lon": -6.066,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Howth"
+  },
+  "edinburgh": {
+    "name": "North Berwick",
+    "lat": 56.058,
+    "lon": -2.717,
+    "sourceUrl": "https://en.wikipedia.org/wiki/North_Berwick"
+  },
+  "manchester": {
+    "name": "Chester",
+    "lat": 53.19138889,
+    "lon": -2.89027778,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chester"
+  },
+  "liverpool": {
+    "name": "Chester",
+    "lat": 53.19138889,
+    "lon": -2.89027778,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chester"
+  },
+  "glasgow": {
+    "name": "Stirling",
+    "lat": 56.1166,
+    "lon": -3.9369,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stirling"
+  },
+  "stockholm": {
+    "name": "Uppsala",
+    "lat": 59.85805556,
+    "lon": 17.64472222,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Uppsala"
+  },
+  "kopenhag": {
+    "name": "Roskilde",
+    "lat": 55.65,
+    "lon": 12.08333333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roskilde"
+  },
+  "oslo": {
+    "name": "Drøbak",
+    "lat": 59.66666667,
+    "lon": 10.63333333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dr%C3%B8bak"
+  },
+  "zurih": {
+    "name": "Lucerne",
+    "lat": 47.05,
+    "lon": 8.3,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lucerne"
+  },
+  "cenevre": {
+    "name": "Lausanne",
+    "lat": 46.52,
+    "lon": 6.63333333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lausanne"
+  },
+  "nice": {
+    "name": "Antibes",
+    "lat": 43.5808,
+    "lon": 7.1239,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Antibes"
+  },
+  "rotterdam": {
+    "name": "Delft",
+    "lat": 52.01166667,
+    "lon": 4.35916667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Delft"
+  },
+  "reykjavik": {
+    "name": "Þingvellir",
+    "lat": 64.25380556,
+    "lon": -21.03725,
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%9Eingvellir"
+  },
+  "cork": {
+    "name": "Cobh",
+    "lat": 51.851,
+    "lon": -8.2967,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cobh"
+  },
+  "galway": {
+    "name": "Clifden",
+    "lat": 53.489,
+    "lon": -10.021,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Clifden"
+  },
+  "belfast": {
+    "name": "Bangor, County Down",
+    "lat": 54.66,
+    "lon": -5.67,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bangor%2C_County_Down"
+  },
+  "oxford": {
+    "name": "Woodstock, Oxfordshire",
+    "lat": 51.84777778,
+    "lon": -1.35416667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Woodstock%2C_Oxfordshire"
+  },
+  "bath": {
+    "name": "Bradford-on-Avon",
+    "lat": 51.347,
+    "lon": -2.251,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bradford_on_Avon"
+  },
+  "goteborg": {
+    "name": "Marstrand",
+    "lat": 57.88333333,
+    "lon": 11.58333333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marstrand"
+  },
+  "seul": {
+    "name": "Suwon",
+    "lat": 37.26666667,
+    "lon": 127.01666667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Suwon"
+  },
+  "singapur": {
+    "name": "Pulau Ubin",
+    "lat": 1.40944444,
+    "lon": 103.96,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pulau_Ubin"
+  },
+  "kuala-lumpur": {
+    "name": "Batu Caves",
+    "lat": 3.2374,
+    "lon": 101.6839,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Batu_Caves"
+  },
+  "hong-kong": {
+    "name": "Lantau Island",
+    "lat": 22.27055556,
+    "lon": 113.95277778,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lantau_Island"
+  },
+  "manila": {
+    "name": "Tagaytay",
+    "lat": 14.1,
+    "lon": 120.93,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tagaytay"
+  },
+  "hanoi": {
+    "name": "Ninh Bình",
+    "lat": 20.25,
+    "lon": 105.83333333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ninh_B%C3%ACnh_province"
+  },
+  "ho-chi-minh": {
+    "name": "Củ Chi tunnels",
+    "lat": 11.06083333,
+    "lon": 106.52861111,
+    "sourceUrl": "https://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels"
+  },
+  "da-nang": {
+    "name": "Japanese Covered Bridge",
+    "lat": 15.87707,
+    "lon": 108.32601,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_Bridge"
+  },
+  "siem-reap": {
+    "name": "Banteay Srei",
+    "lat": 13.59888889,
+    "lon": 103.96277778,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Banteay_Srei"
+  },
+  "phnom-penh": {
+    "name": "Oudong",
+    "lat": 11.82388889,
+    "lon": 104.7425,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Oudong"
+  },
+  "mumbai": {
+    "name": "Elephanta Island",
+    "lat": 18.96,
+    "lon": 72.935,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elephanta_Island"
+  },
+  "yeni-delhi": {
+    "name": "Agra",
+    "lat": 27.18,
+    "lon": 78.02,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Agra"
+  },
+  "jaipur": {
+    "name": "Amer, India",
+    "lat": 26.98333333,
+    "lon": 75.86666667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Amber%2C_India"
+  },
+  "kolombo": {
+    "name": "Negombo",
+    "lat": 7.21111111,
+    "lon": 79.83861111,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Negombo"
+  },
+  "kandy": {
+    "name": "Nuwara Eliya",
+    "lat": 6.96666667,
+    "lon": 80.76666667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nuwara_Eliya"
+  },
+  "katmandu": {
+    "name": "Bhaktapur",
+    "lat": 27.67222222,
+    "lon": 85.42777778,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bhaktapur"
+  },
+  "doha": {
+    "name": "Zubarah",
+    "lat": 25.97861111,
+    "lon": 51.02638889,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Zubarah"
+  },
+  "abu-dabi": {
+    "name": "Al Ain",
+    "lat": 24.2075,
+    "lon": 55.74472222,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Al_Ain"
+  },
+  "sharjah": {
+    "name": "Dubai",
+    "lat": 25.20472222,
+    "lon": 55.27083333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dubai"
+  },
+  "pattaya": {
+    "name": "Ko Lan",
+    "lat": 12.91583333,
+    "lon": 100.7775,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Lan"
+  },
+  "johor-bahru": {
+    "name": "Kota Tinggi",
+    "lat": 1.73333333,
+    "lon": 103.9,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kota_Tinggi"
+  },
+  "bengaluru": {
+    "name": "Nandi Hills, India",
+    "lat": 13.38626,
+    "lon": 77.70093,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nandi_Hills%2C_India"
+  },
+  "haydarabad": {
+    "name": "Ramoji Film City",
+    "lat": 17.252,
+    "lon": 78.681,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ramoji_Film_City"
+  },
+  "new-york": {
+    "name": "Beacon, New York",
+    "lat": 41.50416667,
+    "lon": -73.96555556,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beacon%2C_New_York"
+  },
+  "miami": {
+    "name": "Everglades National Park",
+    "lat": 25.3125,
+    "lon": -80.6875,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Everglades_National_Park"
+  },
+  "las-vegas": {
+    "name": "Red Rock Canyon National Conservation Area",
+    "lat": 36.135574,
+    "lon": -115.42724,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Red_Rock_Canyon_National_Conservation_Area"
+  },
+  "toronto": {
+    "name": "Niagara Falls, Ontario",
+    "lat": 43.06,
+    "lon": -79.10666667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Niagara_Falls%2C_Ontario"
+  },
+  "vancouver": {
+    "name": "Bowen Island",
+    "lat": 49.38333333,
+    "lon": -123.38333333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bowen_Island"
+  },
+  "montreal": {
+    "name": "Quebec City",
+    "lat": 46.81388889,
+    "lon": -71.20805556,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Quebec_City"
+  },
+  "quebec": {
+    "name": "Montmorency Falls",
+    "lat": 46.89083333,
+    "lon": -71.1475,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Montmorency_Falls"
+  },
+  "ottawa": {
+    "name": "Gatineau Park",
+    "lat": 45.58333333,
+    "lon": -76,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gatineau_Park"
+  },
+  "niagara": {
+    "name": "Niagara-on-the-Lake",
+    "lat": 43.25527778,
+    "lon": -79.07166667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Niagara-on-the-Lake"
+  },
+  "victoria": {
+    "name": "Sidney, British Columbia",
+    "lat": 48.65055556,
+    "lon": -123.39861111,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sidney%2C_British_Columbia"
+  },
+  "halifax": {
+    "name": "Peggys Cove, Nova Scotia",
+    "lat": 44.49277778,
+    "lon": -63.9175,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Peggys_Cove%2C_Nova_Scotia"
+  },
+  "banff": {
+    "name": "Lake Louise, Alberta",
+    "lat": 51.42527778,
+    "lon": -116.18055556,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Louise%2C_Alberta"
+  },
+  "sidney": {
+    "name": "Blue Mountains (New South Wales)",
+    "lat": -33.6,
+    "lon": 150.35,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blue_Mountains_(New_South_Wales)"
+  },
+  "melbourne": {
+    "name": "Geelong",
+    "lat": -38.14916667,
+    "lon": 144.35972222,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geelong"
+  },
+  "brisbane": {
+    "name": "Gold Coast, Queensland",
+    "lat": -27.9983,
+    "lon": 153.3344,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gold_Coast%2C_Queensland"
+  },
+  "perth": {
+    "name": "Fremantle",
+    "lat": -32.0542,
+    "lon": 115.7475,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fremantle"
+  },
+  "adelaide": {
+    "name": "Hahndorf, South Australia",
+    "lat": -35.030267,
+    "lon": 138.807646,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hahndorf%2C_South_Australia"
+  },
+  "auckland": {
+    "name": "Waiheke Island",
+    "lat": -36.8,
+    "lon": 175.1,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Waiheke_Island"
+  },
+  "wellington": {
+    "name": "Lower Hutt",
+    "lat": -41.21666667,
+    "lon": 174.91666667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lower_Hutt"
+  },
+  "queenstown": {
+    "name": "Arrowtown",
+    "lat": -44.9425,
+    "lon": 168.83583333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arrowtown"
+  },
+  "christchurch": {
+    "name": "Akaroa",
+    "lat": -43.80416667,
+    "lon": 172.96666667,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Akaroa"
+  },
+  "kahire": {
+    "name": "Giza",
+    "lat": 29.987,
+    "lon": 31.2118,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Giza"
+  },
+  "cape-town": {
+    "name": "Stellenbosch",
+    "lat": -33.93666667,
+    "lon": 18.86138889,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stellenbosch"
+  },
+  "durban": {
+    "name": "Umhlanga, KwaZulu-Natal",
+    "lat": -29.73333333,
+    "lon": 31.07083333,
+    "sourceUrl": "https://en.wikipedia.org/wiki/UMhlanga%2C_KwaZulu-Natal"
+  },
+  "nairobi": {
+    "name": "Nairobi National Park",
+    "lat": -1.37333333,
+    "lon": 36.85888889,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nairobi_National_Park"
+  }
+}

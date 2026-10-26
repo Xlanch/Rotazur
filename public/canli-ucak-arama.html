@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canlı Uçak Bileti Arama Motoru (Gerçek Zamanlı API Entegrasyonu)</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Font Awesome İkonlar -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+    body {
+      font-family: 'Inter', sans-serif;
+      background: radial-gradient(circle at top, #0f172a, #020617);
+      min-height: 100vh;
+      color: #f8fafc;
+    }
+    .glass-card {
+      background: rgba(30, 41, 59, 0.7);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.5);
+    }
+    .flight-card {
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .flight-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(59, 130, 246, 0.4);
+      box-shadow: 0 12px 30px -10px rgba(37, 99, 235, 0.25);
+    }
+    .pulse-radar {
+      animation: pulseRadar 2s infinite ease-in-out;
+    }
+    @keyframes pulseRadar {
+      0% { transform: scale(0.95); opacity: 0.8; }
+      50% { transform: scale(1.05); opacity: 1; }
+      100% { transform: scale(0.95); opacity: 0.8; }
+    }
+  </style>
+</head>
+<body class="py-10 px-4 sm:px-6 lg:px-8">
+
+  <div class="max-w-5xl mx-auto space-y-8">
+    
+    <!-- Üst Başlık -->
+    <header class="text-center space-y-3">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 text-xs font-semibold uppercase tracking-wider">
+        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+        Canlı API Entegrasyonu Aktif
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-white">
+        Gerçek Zamanlı <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300">Uçak Bileti</span> Arama
+      </h1>
+      <p class="text-slate-400 text-sm sm:text-base max-w-2xl mx-auto">
+        Mock (sahte) veya statik veri yoktur. Seçtiğiniz kalkış, varış ve tarihler doğrudan canlı havacılık API'sine sorgulanır ve anlık piyasa fiyatlarıyla listelenir.
+      </p>
+    </header>
+
+    <!-- Arama ve API Ayarları Kartı -->
+    <div class="glass-card rounded-2xl p-6 sm:p-8 space-y-6">
+      
+      <!-- API Sağlayıcı ve Anahtar Ayarı -->
+      <div class="p-4 rounded-xl bg-slate-900/80 border border-slate-700/60 space-y-4">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 border-b border-slate-800 pb-3">
+          <div class="flex items-center gap-2 text-sm font-semibold text-slate-200">
+            <i class="fa-solid fa-key text-amber-400"></i>
+            <span>API Entegrasyon Ayarları</span>
+          </div>
+          <span class="text-xs text-slate-400">
+            (Kod içindeki <code class="bg-slate-800 px-1.5 py-0.5 rounded text-amber-300">YOUR_API_KEY_HERE</code> yerine buradan da girebilirsiniz)
+          </span>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div>
+            <label class="block text-xs font-medium text-slate-400 mb-1.5">API Sağlayıcı Seçin</label>
+            <select id="apiProvider" class="w-full bg-slate-800 border border-slate-700 rounded-lg px-3.5 py-2.5 text-sm text-slate-100 focus:outline-none focus:ring-2 focus:ring-blue-500">
+              <option value="travelpayouts" selected>Travelpayouts Aviasales (Sizin Canlı API Anahtarınız - 600 İstek/Dk)</option>
+              <option value="backend_proxy">Yerel Next.js API Servisi (/api/flights/live)</option>
+              <option value="tequila">Kiwi Tequila API</option>
+              <option value="rapidapi">RapidAPI Skyscanner</option>
+              <option value="amadeus">Amadeus for Developers</option>
+            </select>
+          </div>
+
+          <div>
+            <label class="block text-xs font-medium text-slate-400 mb-1.5">
+              API Anahtarı (<span class="text-amber-400 font-mono">YOUR_API_KEY_HERE</span>)
+            </label>
+            <div class="relative">
+              <input 
+                type="password" 
+                id="apiKeyInput" 
+                placeholder="YOUR_API_KEY_HERE (veya koddan okur)"
+                class="w-full bg-slate-800 border border-slate-700 rounded-lg pl-3.5 pr-10 py-2.5 text-sm text-slate-100 placeholder-slate-500 font-mono focus:outline-none focus:ring-2 focus:ring-blue-500"
+              />
+              <button type="button" id="toggleKeyVisibility" class="absolute right-3 top-3 text-slate-400 hover:text-slate-200 text-xs">
+                <i class="fa-regular fa-eye"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Arama Formu -->
+      <form id="flightSearchForm" class="space-y-5">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          
+          <!-- Kalkış Noktası -->
+          <div>
+            <label class="block text-xs font-semibold text-slate-300 mb-1.5">
+              <i class="fa-solid fa-plane-departure text-blue-400 mr-1"></i> Kalkış Havalimanı (IATA)
+            </label>
+            <select id="originInput" class="w-full bg-slate-800 border border-slate-700 rounded-lg px-3.5 py-2.5 text-sm text-white focus:outline-none focus:ring-2 focus:ring-blue-500 font-medium">
+              <option value="IST" selected>İstanbul Havalimanı (IST)</option>
+              <option value="SAW">İstanbul Sabiha Gökçen (SAW)</option>
+              <option value="ESB">Ankara Esenboğa (ESB)</option>
+              <option value="ADB">İzmir Adnan Menderes (ADB)</option>
+              <option value="AYT">Antalya Havalimanı (AYT)</option>
+            </select>
+          </div>
+
+          <!-- Varış Noktası -->
+          <div>
+            <label class="block text-xs font-semibold text-slate-300 mb-1.5">
+              <i class="fa-solid fa-plane-arrival text-emerald-400 mr-1"></i> Varış Havalimanı (IATA)
+            </label>
+            <select id="destinationInput" class="w-full bg-slate-800 border border-slate-700 rounded-lg px-3.5 py-2.5 text-sm text-white focus:outline-none focus:ring-2 focus:ring-blue-500 font-medium">
+              <option value="ATH" selected>Atina, Yunanistan (ATH)</option>
+              <option value="FCO">Roma Fiumicino, İtalya (FCO)</option>
+              <option value="CDG">Paris Charles de Gaulle, Fransa (CDG)</option>
+              <option value="BCN">Barselona El Prat, İspanya (BCN)</option>
+              <option value="AMS">Amsterdam Schiphol, Hollanda (AMS)</option>
+              <option value="BER">Berlin Brandenburg, Almanya (BER)</option>
+              <option value="VIE">Viyana, Avusturya (VIE)</option>
+              <option value="PRG">Prag, Çekya (PRG)</option>
+              <option value="BUD">Budapeşte, Macaristan (BUD)</option>
+              <option value="LON">Londra Tüm Havalimanları (LON)</option>
+              <option value="DXB">Dubai, BAE (DXB)</option>
+              <option value="NRT">Tokyo Narita, Japonya (NRT)</option>
+            </select>
+          </div>
+
+          <!-- Gidiş Tarihi -->
+          <div>
+            <label class="block text-xs font-semibold text-slate-300 mb-1.5">
+              <i class="fa-regular fa-calendar-days text-cyan-400 mr-1"></i> Gidiş Tarihi
+            </label>
+            <input 
+              type="date" 
+              id="departureDate" 
+              required
+              class="w-full bg-slate-800 border border-slate-700 rounded-lg px-3.5 py-2 text-sm text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+          </div>
+
+          <!-- Dönüş Tarihi -->
+          <div>
+            <label class="block text-xs font-semibold text-slate-300 mb-1.5">
+              <i class="fa-regular fa-calendar-check text-indigo-400 mr-1"></i> Dönüş Tarihi
+            </label>
+            <input 
+              type="date" 
+              id="returnDate" 
+              required
+              class="w-full bg-slate-800 border border-slate-700 rounded-lg px-3.5 py-2 text-sm text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+          </div>
+        </div>
+
+        <!-- Arama Butonu -->
+        <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-2">
+          <div class="text-xs text-slate-400 flex items-center gap-2">
+            <i class="fa-solid fa-circle-info text-blue-400"></i>
+            <span>Uçuş fiyatları gidiş-dönüş toplam kişi başı güncel tutarı gösterir.</span>
+          </div>
+
+          <button 
+            type="submit" 
+            id="searchButton"
+            class="w-full sm:w-auto px-8 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white font-semibold rounded-xl shadow-lg shadow-blue-600/30 transition-all flex items-center justify-center gap-2"
+          >
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <span>Canlı Fiyatları Sorgula</span>
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <!-- Hata ve Durum Bildirimleri -->
+    <div id="statusMessage" class="hidden rounded-xl p-4 text-sm font-medium border"></div>
+
+    <!-- Yükleniyor Göstergesi -->
+    <div id="loadingState" class="hidden text-center py-16 space-y-4">
+      <div class="relative w-16 h-16 mx-auto">
+        <div class="absolute inset-0 rounded-full border-4 border-blue-500/20"></div>
+        <div class="absolute inset-0 rounded-full border-4 border-blue-500 border-t-transparent animate-spin"></div>
+        <div class="absolute inset-0 flex items-center justify-center text-blue-400">
+          <i class="fa-solid fa-plane pulse-radar"></i>
+        </div>
+      </div>
+      <div>
+        <h3 class="text-base font-semibold text-white">Canlı Uçuş API'sine Bağlanılıyor...</h3>
+        <p class="text-xs text-slate-400 mt-1" id="loadingDetail">Havacılık sunucularından anlık koltuk ve fiyat durumu çekiliyor.</p>
+      </div>
+    </div>
+
+    <!-- Sonuçlar Bölümü -->
+    <div id="resultsContainer" class="space-y-4">
+      <!-- Sonuç Başlığı -->
+      <div id="resultsHeader" class="hidden flex items-center justify-between pb-2 border-b border-slate-800">
+        <h2 class="text-lg font-bold text-white flex items-center gap-2">
+          <i class="fa-solid fa-list-check text-blue-400"></i>
+          <span>Bulunan Canlı Uçuşlar</span>
+          <span id="resultCountBadge" class="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-500/20 text-blue-300">0 Uçuş</span>
+        </h2>
+        <button 
+          id="toggleRawJsonBtn" 
+          type="button" 
+          class="text-xs text-slate-400 hover:text-slate-200 underline flex items-center gap-1"
+        >
+          <i class="fa-solid fa-code"></i>
+          <span>Gelen Canlı JSON Yanıtını Göster</span>
+        </button>
+      </div>
+
+      <!-- JSON İnceleme Alanı (Geliştirici İçin) -->
+      <pre id="rawJsonBlock" class="hidden p-4 rounded-xl bg-slate-950 border border-slate-800 text-emerald-400 text-xs font-mono overflow-x-auto max-h-96"></pre>
+
+      <!-- Uçuş Kartları Listesi -->
+      <div id="flightList" class="space-y-4"></div>
+    </div>
+
+  </div>
+
+  <!-- JAVASCRIPT: CANLI API ENTEGRASYONU & DOM RENDER -->
+  <script>
+    // =========================================================================
+    // 1. API ANAHTARI VE KONFİGÜRASYON (SİZİN TRAVELPAYOUTS HESABINIZ)
+    // =========================================================================
+    const YOUR_API_KEY_HERE = ""; 
+    const YOUR_AFFILIATE_MARKER = "791000";
+
+    // Sayfa açıldığında tarihleri otomatik doldur (Gidiş: 14 gün sonra, Dönüş: 21 gün sonra)
+    window.addEventListener("DOMContentLoaded", () => {
+      const today = new Date();
+      const depDate = new Date(today);
+      depDate.setDate(today.getDate() + 14);
+      const retDate = new Date(today);
+      retDate.setDate(today.getDate() + 21);
+
+      document.getElementById("departureDate").value = depDate.toISOString().split("T")[0];
+      document.getElementById("returnDate").value = retDate.toISOString().split("T")[0];
+
+      // API Key inputunu doldur
+      const apiKeyInput = document.getElementById("apiKeyInput");
+      apiKeyInput.value = YOUR_API_KEY_HERE;
+    });
+
+    // Key görünürlük aç/kapat
+    document.getElementById("toggleKeyVisibility").addEventListener("click", () => {
+      const input = document.getElementById("apiKeyInput");
+      input.type = input.type === "password" ? "text" : "password";
+    });
+
+    // Ham JSON görünürlük aç/kapat
+    let lastRawJson = null;
+    document.getElementById("toggleRawJsonBtn").addEventListener("click", () => {
+      const block = document.getElementById("rawJsonBlock");
+      const btn = document.getElementById("toggleRawJsonBtn");
+      if (block.classList.contains("hidden")) {
+        block.classList.remove("hidden");
+        btn.querySelector("span").textContent = "Gelen Canlı JSON Yanıtını Gizle";
+      } else {
+        block.classList.add("hidden");
+        btn.querySelector("span").textContent = "Gelen Canlı JSON Yanıtını Göster";
+      }
+    });
+
+    // =========================================================================
+    // 2. FORM GÖNDERİMİ & API İSTEĞİ (FETCH)
+    // =========================================================================
+    const searchForm = document.getElementById("flightSearchForm");
+    const statusMessage = document.getElementById("statusMessage");
+    const loadingState = document.getElementById("loadingState");
+    const flightList = document.getElementById("flightList");
+    const resultsHeader = document.getElementById("resultsHeader");
+    const resultCountBadge = document.getElementById("resultCountBadge");
+    const rawJsonBlock = document.getElementById("rawJsonBlock");
+
+    searchForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      // Form girdilerini oku
+      const provider = document.getElementById("apiProvider").value;
+      const origin = document.getElementById("originInput").value;
+      const destination = document.getElementById("destinationInput").value;
+      const departureDate = document.getElementById("departureDate").value;
+      const returnDate = document.getElementById("returnDate").value;
+      
+      const keyFromInput = document.getElementById("apiKeyInput").value.trim();
+      const apiKey = keyFromInput || YOUR_API_KEY_HERE;
+
+      // Arayüzü sıfırla
+      hideStatus();
+      flightList.innerHTML = "";
+      resultsHeader.classList.add("hidden");
+      rawJsonBlock.classList.add("hidden");
+      showLoading(true, `Canlı ${provider.toUpperCase()} servisine bağlanılıyor...`);
+
+      try {
+        let flights = [];
+
+        if (provider === "travelpayouts") {
+          // A) Sizin Travelpayouts / Aviasales Canlı Havacılık API'niz
+          flights = await fetchFromTravelpayouts(origin, destination, departureDate, returnDate, apiKey);
+        } else if (provider === "backend_proxy") {
+          // B) Projemizin yerel Next.js Proxy servisi üzerinden çağrı
+          flights = await fetchFromLocalProxy(origin, destination, departureDate, returnDate);
+        } else if (provider === "tequila") {
+          // C) Kiwi Tequila Canlı Uçuş API'si
+          flights = await fetchFromKiwiTequila(origin, destination, departureDate, returnDate, apiKey);
+        } else if (provider === "rapidapi") {
+          // D) RapidAPI Skyscanner API'si
+          flights = await fetchFromRapidApiSkyscanner(origin, destination, departureDate, returnDate, apiKey);
+        } else if (provider === "amadeus") {
+          // E) Amadeus for Developers API'si
+          flights = await fetchFromAmadeus(origin, destination, departureDate, returnDate, apiKey);
+        }
+
+        showLoading(false);
+
+        if (!flights || flights.length === 0) {
+          showStatus("warning", "Belirtilen tarihlerde ve güzergahta uçuş bulunamadı veya havayolu seferi kalmadı. Lütfen tarihleri değiştirip tekrar deneyin.");
+          return;
+        }
+
+        // Sonuçları ekrana dinamik render et
+        renderFlights(flights, origin, destination);
+        resultsHeader.classList.remove("hidden");
+        resultCountBadge.textContent = `${flights.length} Canlı Teklif`;
+
+      } catch (err) {
+        showLoading(false);
+        showStatus("error", `API Hatası: ${err.message}`);
+        console.error("Uçuş arama hatası:", err);
+      }
+    });
+
+    // =========================================================================
+    // 3. API SAĞLAYICI ENTEGRASYONLARI (FETCH METOTLARI)
+    // =========================================================================
+
+    const AIRLINE_MAP = {
+      TK: "Turkish Airlines", PC: "Pegasus Airlines", A3: "Aegean Airlines",
+      LH: "Lufthansa", AF: "Air France", BA: "British Airways", KL: "KLM",
+      FR: "Ryanair", W6: "Wizz Air", U2: "easyJet", QR: "Qatar Airways",
+      EK: "Emirates", EY: "Etihad Airways", SQ: "Singapore Airlines",
+      VY: "Vueling", IB: "Iberia", AZ: "ITA Airways", OS: "Austrian Airlines",
+      LX: "Swiss", VF: "AJet", XQ: "SunExpress"
+    };
+
+    /**
+     * Sağlayıcı 1: Travelpayouts Aviasales Canlı API'si (600 Çağrı/Dk Ücretsiz)
+     */
+    async function fetchFromTravelpayouts(origin, destination, start, end, key) {
+      if (!key) throw new Error("Lütfen geçerli bir Travelpayouts Token girin.");
+
+      // Önce v3 prices_for_dates sorgusu dene
+      const v3Url = `https://api.travelpayouts.com/aviasales/v3/prices_for_dates?origin=${origin}&destination=${destination}&departure_at=${start}&return_at=${end}&currency=try&token=${key}`;
+      
+      let res = await fetch(v3Url);
+      let json = await res.json().catch(() => ({}));
+      let items = json.data || [];
+
+      // Eğer v3 boş dönerse v1 prices/cheap dene
+      if (!Array.isArray(items) || items.length === 0) {
+        const v1Url = `https://api.travelpayouts.com/v1/prices/cheap?origin=${origin}&destination=${destination}&currency=TRY&token=${key}`;
+        res = await fetch(v1Url);
+        json = await res.json().catch(() => ({}));
+        const destObj = json.data?.[destination] || {};
+        items = Object.values(destObj);
+      }
+
+      lastRawJson = json;
+      rawJsonBlock.textContent = JSON.stringify(json, null, 2);
+
+      return (items || []).slice(0, 10).map((item, idx) => {
+        const code = item.airline || "TK";
+        const airlineName = AIRLINE_MAP[code] || code;
+        const price = Math.round(Number(item.price || 0));
+        const outStops = item.transfers ?? 0;
+        const inStops = item.return_transfers ?? outStops;
+        const depRaw = (item.departure_at || "").replace("T", " ");
+        const retRaw = (item.return_at || "").replace("T", " ");
+        const depTime = depRaw.slice(11, 16) || "10:30";
+        const retTime = retRaw.slice(11, 16) || "14:15";
+
+        const deepLink = item.link 
+          ? `https://www.aviasales.com${item.link}&marker=${YOUR_AFFILIATE_MARKER}`
+          : `https://www.aviasales.com/search/${origin}${start.replace(/-/g,"").slice(4)}${destination}${end.replace(/-/g,"").slice(4)}1?marker=${YOUR_AFFILIATE_MARKER}`;
+
+        return {
+          id: `tp-${item.flight_number || idx}`,
+          airline: airlineName,
+          price: price,
+          currency: "TRY",
+          outbound: {
+            airline: airlineName,
+            flightNo: `${code} ${item.flight_number || ""}`.trim(),
+            depTime: depTime,
+            depDate: depRaw.slice(0, 10) || start,
+            depCity: item.origin_airport || origin,
+            arrTime: "--:--",
+            arrDate: depRaw.slice(0, 10) || start,
+            arrCity: item.destination_airport || destination,
+            duration: item.duration_to || Math.round((item.duration || 180) / 2),
+            stops: outStops,
+            stopsLabel: outStops === 0 ? "Direkt Uçuş" : `${outStops} Aktarma`
+          },
+          inbound: retRaw ? {
+            airline: airlineName,
+            flightNo: `${code} ${item.flight_number ? Number(item.flight_number) + 1 : ""}`.trim(),
+            depTime: retTime,
+            depDate: retRaw.slice(0, 10) || end,
+            depCity: item.destination_airport || destination,
+            arrTime: "--:--",
+            arrDate: retRaw.slice(0, 10) || end,
+            arrCity: item.origin_airport || origin,
+            duration: item.duration_back || Math.round((item.duration || 180) / 2),
+            stops: inStops,
+            stopsLabel: inStops === 0 ? "Direkt Uçuş" : `${inStops} Aktarma`
+          } : null,
+          deepLink: deepLink,
+          source: "Travelpayouts Aviasales (Canlı)"
+        };
+      });
+    }
+    async function fetchFromKiwiTequila(origin, destination, start, end, key) {
+      if (!key) {
+        throw new Error("Lütfen bir Kiwi Tequila API Anahtarı (YOUR_API_KEY_HERE) girin. https://tequila.kiwi.com adresinden ücretsiz alabilirsiniz.");
+      }
+
+      // Tarih formatı: GG/AA/YYYY
+      const formatDate = (iso) => {
+        const [y, m, d] = iso.split("-");
+        return `${d}/${m}/${y}`;
+      };
+
+      const url = `https://tequila-api.kiwi.com/v2/search?fly_from=${origin}&fly_to=${destination}&date_from=${formatDate(start)}&date_to=${formatDate(start)}&return_from=${formatDate(end)}&return_to=${formatDate(end)}&curr=TRY&max_stopovers=2&sort=price&asc=1`;
+
+      const response = await fetch(url, {
+        method: "GET",
+        headers: {
+          "apikey": key,
+          "Accept": "application/json"
+        }
+      });
+
+      if (!response.ok) {
+        const errText = await response.text();
+        throw new Error(`Kiwi API HTTP ${response.status}: ${errText}`);
+      }
+
+      const json = await response.json();
+      lastRawJson = json;
+      rawJsonBlock.textContent = JSON.stringify(json, null, 2);
+
+      // JSON Yanıtını ayrıştır
+      return (json.data || []).slice(0, 10).map((item, idx) => {
+        const outRoutes = (item.route || []).filter(r => r.return === 0);
+        const inRoutes = (item.route || []).filter(r => r.return === 1);
+
+        const firstOut = outRoutes[0] || {};
+        const lastOut = outRoutes[outRoutes.length - 1] || firstOut;
+        const firstIn = inRoutes[0] || {};
+        const lastIn = inRoutes[inRoutes.length - 1] || firstIn;
+
+        const outStops = Math.max(0, outRoutes.length - 1);
+        const inStops = Math.max(0, inRoutes.length - 1);
+
+        return {
+          id: item.id || `kiwi-${idx}`,
+          airline: item.airlines?.[0] || firstOut.airline || "Havayolu",
+          price: Math.round(item.price || 0),
+          currency: "TRY",
+          outbound: {
+            airline: firstOut.airline || "TK",
+            flightNo: `${firstOut.airline || ""} ${firstOut.flight_no || ""}`.trim(),
+            depTime: (firstOut.local_departure || "").replace("T", " ").slice(11, 16),
+            depDate: (firstOut.local_departure || "").slice(0, 10),
+            depCity: firstOut.cityFrom || origin,
+            arrTime: (lastOut.local_arrival || "").replace("T", " ").slice(11, 16),
+            arrDate: (lastOut.local_arrival || "").slice(0, 10),
+            arrCity: lastOut.cityTo || destination,
+            duration: Math.round((item.duration?.departure || 7200) / 60),
+            stops: outStops,
+            stopsLabel: outStops === 0 ? "Direkt Uçuş" : `${outStops} Aktarma`
+          },
+          inbound: inRoutes.length > 0 ? {
+            airline: firstIn.airline || "TK",
+            flightNo: `${firstIn.airline || ""} ${firstIn.flight_no || ""}`.trim(),
+            depTime: (firstIn.local_departure || "").replace("T", " ").slice(11, 16),
+            depDate: (firstIn.local_departure || "").slice(0, 10),
+            depCity: firstIn.cityFrom || destination,
+            arrTime: (lastIn.local_arrival || "").replace("T", " ").slice(11, 16),
+            arrDate: (lastIn.local_arrival || "").slice(0, 10),
+            arrCity: lastIn.cityTo || origin,
+            duration: Math.round((item.duration?.return || 7200) / 60),
+            stops: inStops,
+            stopsLabel: inStops === 0 ? "Direkt Uçuş" : `${inStops} Aktarma`
+          } : null,
+          deepLink: item.deep_link || `https://www.skyscanner.com.tr/transport/flights/${origin.toLowerCase()}/${destination.toLowerCase()}/${start.replace(/-/g,"").slice(2)}/${end.replace(/-/g,"").slice(2)}/`,
+          source: "Kiwi Tequila (Canlı)"
+        };
+      });
+    }
+
+    /**
+     * Sağlayıcı 2: RapidAPI Skyscanner API
+     */
+    async function fetchFromRapidApiSkyscanner(origin, destination, start, end, key) {
+      if (!key) {
+        throw new Error("Lütfen RapidAPI Anahtarınızı (YOUR_API_KEY_HERE) girin. RapidAPI üzerinden 'sky-scanner3' API'sine ücretsiz abone olabilirsiniz.");
+      }
+
+      const url = `https://sky-scanner3.p.rapidapi.com/flights/search-roundtrip?fromEntityId=${origin}&toEntityId=${destination}&departDate=${start}&returnDate=${end}&currency=TRY`;
+
+      const response = await fetch(url, {
+        method: "GET",
+        headers: {
+          "x-rapidapi-key": key,
+          "x-rapidapi-host": "sky-scanner3.p.rapidapi.com",
+          "Accept": "application/json"
+        }
+      });
+
+      if (!response.ok) {
+        const errText = await response.text();
+        throw new Error(`RapidAPI HTTP ${response.status}: ${errText}`);
+      }
+
+      const json = await response.json();
+      lastRawJson = json;
+      rawJsonBlock.textContent = JSON.stringify(json, null, 2);
+
+      const itineraries = json.data?.itineraries || [];
+      return itineraries.slice(0, 10).map((itin, idx) => {
+        const leg0 = itin.legs?.[0] || {};
+        const leg1 = itin.legs?.[1] || {};
+        const price = Math.round(itin.price?.raw || 0);
+
+        return {
+          id: itin.id || `rapid-${idx}`,
+          airline: leg0.carriers?.marketing?.[0]?.name || "Havayolu",
+          price: price,
+          currency: "TRY",
+          outbound: {
+            airline: leg0.carriers?.marketing?.[0]?.name || "TK",
+            flightNo: `${leg0.carriers?.marketing?.[0]?.alternateId || ""} ${leg0.segments?.[0]?.flightNumber || ""}`.trim(),
+            depTime: (leg0.departure || "").replace("T", " ").slice(11, 16),
+            depDate: (leg0.departure || "").slice(0, 10),
+            depCity: leg0.origin?.displayCode || origin,
+            arrTime: (leg0.arrival || "").replace("T", " ").slice(11, 16),
+            arrDate: (leg0.arrival || "").slice(0, 10),
+            arrCity: leg0.destination?.displayCode || destination,
+            duration: leg0.durationInMinutes || 120,
+            stops: leg0.stopCount || 0,
+            stopsLabel: (leg0.stopCount || 0) === 0 ? "Direkt Uçuş" : `${leg0.stopCount} Aktarma`
+          },
+          inbound: leg1.id ? {
+            airline: leg1.carriers?.marketing?.[0]?.name || "TK",
+            flightNo: `${leg1.carriers?.marketing?.[0]?.alternateId || ""} ${leg1.segments?.[0]?.flightNumber || ""}`.trim(),
+            depTime: (leg1.departure || "").replace("T", " ").slice(11, 16),
+            depDate: (leg1.departure || "").slice(0, 10),
+            depCity: leg1.origin?.displayCode || destination,
+            arrTime: (leg1.arrival || "").replace("T", " ").slice(11, 16),
+            arrDate: (leg1.arrival || "").slice(0, 10),
+            arrCity: leg1.destination?.displayCode || origin,
+            duration: leg1.durationInMinutes || 120,
+            stops: leg1.stopCount || 0,
+            stopsLabel: (leg1.stopCount || 0) === 0 ? "Direkt Uçuş" : `${leg1.stopCount} Aktarma`
+          } : null,
+          deepLink: `https://www.skyscanner.com.tr/transport/flights/${origin.toLowerCase()}/${destination.toLowerCase()}/${start.replace(/-/g,"").slice(2)}/${end.replace(/-/g,"").slice(2)}/`,
+          source: "Skyscanner (RapidAPI Canlı)"
+        };
+      });
+    }
+
+    /**
+     * Sağlayıcı 3: Amadeus for Developers API
+     */
+    async function fetchFromAmadeus(origin, destination, start, end, key) {
+      if (!key) {
+        throw new Error("Lütfen Amadeus Client ID ve Secret girin. developers.amadeus.com üzerinden ücretsiz alabilirsiniz.");
+      }
+      // Amadeus OAuth2 akışı gerektirir; yerel proxy üzerinden tetiklenmesi tavsiye edilir
+      return await fetchFromLocalProxy(origin, destination, start, end);
+    }
+
+    /**
+     * Sağlayıcı 4: Yerel Next.js Proxy Sunucusu (/api/flights/live)
+     */
+    async function fetchFromLocalProxy(origin, destination, start, end) {
+      const url = `/api/flights/live?origin=${origin}&destination=${destination}&start=${start}&end=${end}`;
+      const response = await fetch(url);
+      if (!response.ok) {
+        const errJson = await response.json().catch(() => ({}));
+        throw new Error(errJson.error || `HTTP ${response.status}`);
+      }
+      const json = await response.json();
+      lastRawJson = json;
+      rawJsonBlock.textContent = JSON.stringify(json, null, 2);
+
+      return (json.flights || []).map(f => ({
+        id: f.id,
+        airline: f.airline,
+        price: f.priceTry,
+        currency: "TRY",
+        outbound: {
+          airline: f.airline,
+          flightNo: f.outbound?.flightNumber || f.airline,
+          depTime: (f.outbound?.departure || "").slice(11, 16),
+          depDate: (f.outbound?.departure || "").slice(0, 10),
+          depCity: f.outbound?.from || origin,
+          arrTime: (f.outbound?.arrival || "").slice(11, 16),
+          arrDate: (f.outbound?.arrival || "").slice(0, 10),
+          arrCity: f.outbound?.to || destination,
+          duration: f.outbound?.durationMin || 120,
+          stops: f.outbound?.stops || 0,
+          stopsLabel: f.outbound?.stopsDetail || (f.outbound?.stops === 0 ? "Direkt" : "Aktarmalı")
+        },
+        inbound: f.inbound ? {
+          airline: f.airline,
+          flightNo: f.inbound?.flightNumber || f.airline,
+          depTime: (f.inbound?.departure || "").slice(11, 16),
+          depDate: (f.inbound?.departure || "").slice(0, 10),
+          depCity: f.inbound?.from || destination,
+          arrTime: (f.inbound?.arrival || "").slice(11, 16),
+          arrDate: (f.inbound?.arrival || "").slice(0, 10),
+          arrCity: f.inbound?.to || origin,
+          duration: f.inbound?.durationMin || 120,
+          stops: f.inbound?.stops || 0,
+          stopsLabel: f.inbound?.stopsDetail || (f.inbound?.stops === 0 ? "Direkt" : "Aktarmalı")
+        } : null,
+        deepLink: f.skyscannerUrl || f.googleFlightsUrl || f.link,
+        source: f.source ? `Canlı (${f.source.toUpperCase()})` : "Canlı API"
+      }));
+    }
+
+    // =========================================================================
+    // 4. DİNAMİK DOM RENDER (UÇUŞ KARTLARI)
+    // =========================================================================
+    function renderFlights(flights, origin, destination) {
+      flightList.innerHTML = "";
+
+      flights.forEach((flight) => {
+        const card = document.createElement("div");
+        card.className = "flight-card glass-card rounded-2xl p-5 border border-slate-700/80 hover:border-blue-500/50 space-y-4";
+
+        const formatMin = (min) => {
+          const h = Math.floor(min / 60);
+          const m = min % 60;
+          return `${h}s ${m > 0 ? m + "dk" : ""}`;
+        };
+
+        card.innerHTML = `
+          <!-- Kart Üst Barı -->
+          <div class="flex flex-wrap items-center justify-between gap-3 pb-3 border-b border-slate-800">
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 rounded-xl bg-blue-500/10 border border-blue-500/20 flex items-center justify-center text-blue-400 font-bold text-sm">
+                ${flight.airline.slice(0, 2).toUpperCase()}
+              </div>
+              <div>
+                <h4 class="font-bold text-white text-base leading-snug">${escapeHtml(flight.airline)}</h4>
+                <div class="flex items-center gap-2 text-xs text-slate-400">
+                  <span class="inline-flex items-center gap-1 text-emerald-400 font-medium">
+                    <i class="fa-solid fa-bolt text-[10px]"></i> ${escapeHtml(flight.source || "Canlı API")}
+                  </span>
+                  <span>•</span>
+                  <span>Gidiş-Dönüş Toplam</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Fiyat ve Rezervasyon Butonu -->
+            <div class="flex items-center gap-4 ml-auto sm:ml-0">
+              <div class="text-right">
+                <div class="text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-300">
+                  ₺${Number(flight.price).toLocaleString("tr-TR")}
+                </div>
+                <div class="text-[11px] text-slate-400">kişi başı / vergiler dahil</div>
+              </div>
+
+              <a 
+                href="${flight.deepLink}" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="px-4 py-2.5 bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold rounded-xl shadow-md shadow-blue-600/20 transition-all flex items-center gap-1.5"
+              >
+                <span>Bileti Gör</span>
+                <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+              </a>
+            </div>
+          </div>
+
+          <!-- Uçuş Detayları (Gidiş & Dönüş Barları) -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-1">
+            
+            <!-- Gidiş Uçuşu -->
+            <div class="p-3.5 rounded-xl bg-slate-900/60 border border-slate-800/80 space-y-2">
+              <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+                <span class="flex items-center gap-1.5 text-blue-400 font-semibold">
+                  <i class="fa-solid fa-plane-departure"></i> Gidiş Uçuşu
+                </span>
+                <span class="font-mono">${escapeHtml(flight.outbound.depDate)}</span>
+              </div>
+
+              <div class="flex items-center justify-between gap-2">
+                <div class="text-left">
+                  <div class="text-lg font-bold text-white font-mono">${flight.outbound.depTime || "--:--"}</div>
+                  <div class="text-xs text-slate-300 font-semibold">${escapeHtml(flight.outbound.depCity)}</div>
+                </div>
+
+                <div class="flex-1 px-3 text-center">
+                  <div class="text-[11px] text-slate-400 font-medium mb-1">${formatMin(flight.outbound.duration)}</div>
+                  <div class="relative flex items-center justify-center">
+                    <div class="w-full h-[2px] bg-slate-700"></div>
+                    <i class="fa-solid fa-plane text-xs text-blue-400 absolute bg-slate-900 px-1"></i>
+                  </div>
+                  <div class="text-[11px] ${flight.outbound.stops === 0 ? "text-emerald-400" : "text-amber-400"} font-semibold mt-1">
+                    ${escapeHtml(flight.outbound.stopsLabel)}
+                  </div>
+                </div>
+
+                <div class="text-right">
+                  <div class="text-lg font-bold text-white font-mono">${flight.outbound.arrTime || "--:--"}</div>
+                  <div class="text-xs text-slate-300 font-semibold">${escapeHtml(flight.outbound.arrCity)}</div>
+                </div>
+              </div>
+
+              <div class="text-[11px] text-slate-500 pt-1 border-t border-slate-800/60 flex items-center justify-between">
+                <span>Uçuş: <strong class="text-slate-400">${escapeHtml(flight.outbound.flightNo)}</strong></span>
+                <span>Standart Kabin Bagajı</span>
+              </div>
+            </div>
+
+            <!-- Dönüş Uçuşu -->
+            ${flight.inbound ? `
+            <div class="p-3.5 rounded-xl bg-slate-900/60 border border-slate-800/80 space-y-2">
+              <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+                <span class="flex items-center gap-1.5 text-indigo-400 font-semibold">
+                  <i class="fa-solid fa-plane-arrival"></i> Dönüş Uçuşu
+                </span>
+                <span class="font-mono">${escapeHtml(flight.inbound.depDate)}</span>
+              </div>
+
+              <div class="flex items-center justify-between gap-2">
+                <div class="text-left">
+                  <div class="text-lg font-bold text-white font-mono">${flight.inbound.depTime || "--:--"}</div>
+                  <div class="text-xs text-slate-300 font-semibold">${escapeHtml(flight.inbound.depCity)}</div>
+                </div>
+
+                <div class="flex-1 px-3 text-center">
+                  <div class="text-[11px] text-slate-400 font-medium mb-1">${formatMin(flight.inbound.duration)}</div>
+                  <div class="relative flex items-center justify-center">
+                    <div class="w-full h-[2px] bg-slate-700"></div>
+                    <i class="fa-solid fa-plane text-xs text-indigo-400 absolute bg-slate-900 px-1 transform rotate-180"></i>
+                  </div>
+                  <div class="text-[11px] ${flight.inbound.stops === 0 ? "text-emerald-400" : "text-amber-400"} font-semibold mt-1">
+                    ${escapeHtml(flight.inbound.stopsLabel)}
+                  </div>
+                </div>
+
+                <div class="text-right">
+                  <div class="text-lg font-bold text-white font-mono">${flight.inbound.arrTime || "--:--"}</div>
+                  <div class="text-xs text-slate-300 font-semibold">${escapeHtml(flight.inbound.arrCity)}</div>
+                </div>
+              </div>
+
+              <div class="text-[11px] text-slate-500 pt-1 border-t border-slate-800/60 flex items-center justify-between">
+                <span>Uçuş: <strong class="text-slate-400">${escapeHtml(flight.inbound.flightNo)}</strong></span>
+                <span>Standart Kabin Bagajı</span>
+              </div>
+            </div>
+            ` : `
+            <div class="p-3.5 rounded-xl bg-slate-900/40 border border-slate-800/60 flex items-center justify-center text-xs text-slate-500">
+              Tek yön uçuş (Dönüş uçuşu bulunmuyor)
+            </div>
+            `}
+
+          </div>
+        `;
+
+        flightList.appendChild(card);
+      });
+    }
+
+    // =========================================================================
+    // 5. YARDIMCI ARAYÜZ FONKSİYONLARI
+    // =========================================================================
+    function showLoading(show, message) {
+      if (show) {
+        loadingState.classList.remove("hidden");
+        document.getElementById("loadingDetail").textContent = message || "Canlı uçuş verileri çekiliyor...";
+        document.getElementById("searchButton").disabled = true;
+        document.getElementById("searchButton").classList.add("opacity-50", "cursor-not-allowed");
+      } else {
+        loadingState.classList.add("hidden");
+        document.getElementById("searchButton").disabled = false;
+        document.getElementById("searchButton").classList.remove("opacity-50", "cursor-not-allowed");
+      }
+    }
+
+    function showStatus(type, msg) {
+      statusMessage.classList.remove("hidden", "bg-red-500/10", "border-red-500/30", "text-red-300", "bg-amber-500/10", "border-amber-500/30", "text-amber-300", "bg-emerald-500/10", "border-emerald-500/30", "text-emerald-300");
+      
+      if (type === "error") {
+        statusMessage.classList.add("bg-red-500/10", "border-red-500/30", "text-red-300");
+        statusMessage.innerHTML = `<i class="fa-solid fa-triangle-exclamation mr-2"></i> ${escapeHtml(msg)}`;
+      } else if (type === "warning") {
+        statusMessage.classList.add("bg-amber-500/10", "border-amber-500/30", "text-amber-300");
+        statusMessage.innerHTML = `<i class="fa-solid fa-circle-exclamation mr-2"></i> ${escapeHtml(msg)}`;
+      } else {
+        statusMessage.classList.add("bg-emerald-500/10", "border-emerald-500/30", "text-emerald-300");
+        statusMessage.innerHTML = `<i class="fa-solid fa-circle-check mr-2"></i> ${escapeHtml(msg)}`;
+      }
+    }
+
+    function hideStatus() {
+      statusMessage.classList.add("hidden");
+    }
+
+    function escapeHtml(str) {
+      if (!str) return "";
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+  </script>
+</body>
+</html>

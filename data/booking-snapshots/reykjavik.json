@@ -1,0 +1,1317 @@
+{
+  "version": 1,
+  "cityId": "reykjavik",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:50:08.888Z",
+  "hotels": [
+    {
+      "id": "booking-2437333",
+      "name": "Lækur Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/121293179.jpg?k=57965dbf7098ee5ddefb2c30c85fe8dcca215be1a86dbc848d1296d93728c5ec&o=",
+      "rating": 7.9,
+      "reviews": 302,
+      "pricePerNightTry": 3854.0675,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × 8 Yataklı Karma Yatakhanede 1 Yatak",
+      "roomTypeTag": "hostel",
+      "lat": 64.1487169695438,
+      "lon": -21.8851679563522,
+      "distanceKm": 2.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2437333,
+        "cityId": "reykjavik",
+        "lat": 64.1487169695438,
+        "lon": -21.8851679563522,
+        "address": "Laugarnesvegur 74a",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/laekur-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/laekur-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/laekur-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2437333,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11445.45,
+        "excludedTaxesTry": 3970.82,
+        "knownTotalTry": 15416.27,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "8 Yataklı Karma Yatakhanede 1 Yatak",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-3299419",
+      "name": "Móar guesthouse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/137835748.jpg?k=14945e5de8a9195b6a8825bfe25f6d894d076ed48104572a45bf944cfe3a2999&o=",
+      "rating": 8.4,
+      "reviews": 850,
+      "pricePerNightTry": 3951.0375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 64.311106,
+      "lon": -21.98656,
+      "distanceKm": 18.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Akranes",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 3299419,
+        "cityId": "reykjavik",
+        "lat": 64.311106,
+        "lon": -21.98656,
+        "address": "Móar 301 Akranes",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/moar-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/moar-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/moar-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 3299419,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13136.58,
+        "excludedTaxesTry": 2667.57,
+        "knownTotalTry": 15804.15,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16881645",
+      "name": "ASKA Vellir",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/894562503.jpg?k=f07bee594df6128bc19e7ba640ef467785e64a6b38b84a0fa308b7a059b7991b&o=",
+      "rating": 7.3,
+      "reviews": 24,
+      "pricePerNightTry": 4081.9025,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 64.0431622,
+      "lon": -21.9818918,
+      "distanceKm": 11.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Hafnarfjördur",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16881645,
+        "cityId": "reykjavik",
+        "lat": 64.0431622,
+        "lon": -21.9818918,
+        "address": "Norðurhella 17",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/aska-vellir.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/aska-vellir.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/aska-vellir.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16881645,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13669.96,
+        "excludedTaxesTry": 2657.65,
+        "knownTotalTry": 16327.61,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-318371",
+      "name": "Hotel Cabin",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/667821602.jpg?k=1f0c8262afa5a163de57906a52f5bd93f0d078fb87f5bd8c526a192d39fb0bd0&o=",
+      "rating": 7,
+      "reviews": 2705,
+      "pricePerNightTry": 4086.68,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Budget no window Twin Room",
+      "roomTypeTag": "hotel",
+      "lat": 64.146122658572,
+      "lon": -21.8939709663391,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 318371,
+        "cityId": "reykjavik",
+        "lat": 64.146122658572,
+        "lon": -21.8939709663391,
+        "address": "Borgartún 32",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/cabin.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/cabin.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/cabin.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 318371,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14450.96,
+        "excludedTaxesTry": 1895.76,
+        "knownTotalTry": 16346.72,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Budget no window Twin Room"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13410886",
+      "name": "Hostel Fjordur",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/815076157.jpg?k=dc5a3517e3da210ec7c0a214dcc9b69142d18eeef23b0bf64de96f7348eddd65&o=",
+      "rating": 8.1,
+      "reviews": 741,
+      "pricePerNightTry": 4123.58,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 64.0652024,
+      "lon": -21.9542282,
+      "distanceKm": 9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Hafnarfjördur",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13410886,
+        "cityId": "reykjavik",
+        "lat": 64.0652024,
+        "lon": -21.9542282,
+        "address": "Sudurgata 18",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/hostel-fjordur.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/hostel-fjordur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/hostel-fjordur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13410886,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13638.25,
+        "excludedTaxesTry": 2856.07,
+        "knownTotalTry": 16494.32,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1422775",
+      "name": "ASKA Heiðmörk",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/861849775.jpg?k=bc9bff95ad221db7f3d6461fd2eaf67fc1f6d6fab807a79ac122d8bdb2c56891&o=",
+      "rating": 8.1,
+      "reviews": 2048,
+      "pricePerNightTry": 4298.905,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "hotel",
+      "lat": 64.0952227319613,
+      "lon": -21.8045656486877,
+      "distanceKm": 8.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kópavogur, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1422775,
+        "cityId": "reykjavik",
+        "lat": 64.0952227319613,
+        "lon": -21.8045656486877,
+        "address": "Ögurhvarf 4",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/heidmork.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/heidmork.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/heidmork.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1422775,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14500.3,
+        "excludedTaxesTry": 2695.32,
+        "knownTotalTry": 17195.62,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T00:00:00Z",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-5202563",
+      "name": "Refurinn Reykjavik Guesthouse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/817700142.jpg?k=3f24b6fbe49f8c2262d0bd058d72317d348158c9e674cbb5a32bcf55ab53c54f&o=",
+      "rating": 8.6,
+      "reviews": 1084,
+      "pricePerNightTry": 4531.8825,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hostel",
+      "lat": 64.148557,
+      "lon": -21.948061,
+      "distanceKm": 0.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Vesturbær, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 5202563,
+        "cityId": "reykjavik",
+        "lat": 64.148557,
+        "lon": -21.948061,
+        "address": "26 Ægisgata",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/refurinn-reykjavik-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/refurinn-reykjavik-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/refurinn-reykjavik-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 5202563,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15095.13,
+        "excludedTaxesTry": 3032.4,
+        "knownTotalTry": 18127.53,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-300078",
+      "name": "Dalur - HI Eco Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/863641715.jpg?k=d4161b11ebe52527daef00b83e19c416e10cf52f11745a864476d9fd8f7ab0c7&o=",
+      "rating": 8.4,
+      "reviews": 2624,
+      "pricePerNightTry": 4574.95,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 64.1465799883574,
+      "lon": -21.8748736381531,
+      "distanceKm": 3.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 300078,
+        "cityId": "reykjavik",
+        "lat": 64.1465799883574,
+        "lon": -21.8748736381531,
+        "address": "Sundlaugavegur 34",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/reykjavik-city-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/reykjavik-city-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/reykjavik-city-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 300078,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15252.09,
+        "excludedTaxesTry": 3047.71,
+        "knownTotalTry": 18299.8,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-320056",
+      "name": "Igdlo Guesthouse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/14454647.jpg?k=a77f799d75a6915b16a8b678f193f1a65f8c338f8e4d89535135f672b218fdb5&o=",
+      "rating": 8.3,
+      "reviews": 1465,
+      "pricePerNightTry": 4611.405,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": 64.1368375861718,
+      "lon": -21.9218981266022,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 320056,
+        "cityId": "reykjavik",
+        "lat": 64.1368375861718,
+        "lon": -21.9218981266022,
+        "address": "Gunnarsbraut 46",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/igdlo-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/igdlo-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/igdlo-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 320056,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15516.29,
+        "excludedTaxesTry": 2929.33,
+        "knownTotalTry": 18445.62,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-2368856",
+      "name": "Ubak Guesthouse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/110313343.jpg?k=34eaf038ce674e3d2f58c0fa732c8073d64dad63314ec4761333cebe5505e2d5&o=",
+      "rating": 8.6,
+      "reviews": 305,
+      "pricePerNightTry": 4676.225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": 64.1084422474395,
+      "lon": -21.8383419513702,
+      "distanceKm": 6.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík South-East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2368856,
+        "cityId": "reykjavik",
+        "lat": 64.1084422474395,
+        "lon": -21.8383419513702,
+        "address": "Urðarbakki 30, 109 Reykjavík, Iceland",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/ubak-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/ubak-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/ubak-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2368856,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15749.87,
+        "excludedTaxesTry": 2955.03,
+        "knownTotalTry": 18704.9,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16133428",
+      "name": "ASKA Hraun",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/863578671.jpg?k=410d5e6727b1cb75c870095eaf5ad2d26ea0176341d7467fe0c29b2804f1753d&o=",
+      "rating": 8.2,
+      "reviews": 150,
+      "pricePerNightTry": 4690.12,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Dört Kişilik Oda - Ortak Banyolu ",
+      "roomTypeTag": "hotel",
+      "lat": 64.07895220414,
+      "lon": -21.9432366377742,
+      "distanceKm": 7.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Hafnarfjördur",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16133428,
+        "cityId": "reykjavik",
+        "lat": 64.07895220414,
+        "lon": -21.9432366377742,
+        "address": "Dalshraun 15",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/aska-hraun.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/aska-hraun.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/aska-hraun.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16133428,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16020.22,
+        "excludedTaxesTry": 2740.26,
+        "knownTotalTry": 18760.48,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Dört Kişilik Oda - Ortak Banyolu "
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-15T00:00:00Z",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-98518",
+      "name": "Stay Apartments Einholt",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/200586833.jpg?k=80a7636c10cd0f1111f2675e7c8d3b5271371b4fa6e58a60535eabcf82b93836&o=",
+      "rating": 8,
+      "reviews": 1793,
+      "pricePerNightTry": 4754.4425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo Daire - Bodrum",
+      "roomTypeTag": "apartment",
+      "lat": 64.1416744,
+      "lon": -21.9119026,
+      "distanceKm": 1.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 98518,
+        "cityId": "reykjavik",
+        "lat": 64.1416744,
+        "lon": -21.9119026,
+        "address": "Einholt 2",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/einholt-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/einholt-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/einholt-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 98518,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16011.69,
+        "excludedTaxesTry": 3006.08,
+        "knownTotalTry": 19017.77,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo Daire - Bodrum",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1200132",
+      "name": "B14 Hostel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/265439820.jpg?k=120b4b1c7b72196cd84c62f06c1d01d918482078194cb9c6c361b0707e30446b&o=",
+      "rating": 8.3,
+      "reviews": 610,
+      "pricePerNightTry": 4851.27,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Kadın Yatakhanesinde Ranza ",
+      "roomTypeTag": "hostel",
+      "lat": 64.1295098156785,
+      "lon": -21.8641823530197,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1200132,
+        "cityId": "reykjavik",
+        "lat": 64.1295098156785,
+        "lon": -21.8641823530197,
+        "address": "Fákafen 11",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/b14-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/b14-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/b14-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1200132,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15279.28,
+        "excludedTaxesTry": 4125.8,
+        "knownTotalTry": 19405.08,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Kadın Yatakhanesinde Ranza ",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1664848",
+      "name": "Nordurey Guesthouse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/61981112.jpg?k=e840b5ef25b2e8589bd8a309c394b1db07fa5385be5b91158fc261516f3acda6&o=",
+      "rating": 7.5,
+      "reviews": 172,
+      "pricePerNightTry": 4861.275,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik veya İki Yataklı Oda - Balkonlu",
+      "roomTypeTag": "guesthouse",
+      "lat": 64.1385166921894,
+      "lon": -21.9212141633034,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1664848,
+        "cityId": "reykjavik",
+        "lat": 64.1385166921894,
+        "lon": -21.9212141633034,
+        "address": "Snorrabraut 71",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/nordurey-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/nordurey-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/nordurey-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1664848,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16416.72,
+        "excludedTaxesTry": 3028.38,
+        "knownTotalTry": 19445.1,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik veya İki Yataklı Oda - Balkonlu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-11721707",
+      "name": "Nordic Hostel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/924188456.jpg?k=2338322c61d62ff8181ddfc4f0e12ee291141188d89aad4f984073b9effb0480&o=",
+      "rating": 9.2,
+      "reviews": 1527,
+      "pricePerNightTry": 4887.81,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Dört Yataklı Yatakhanede Yatak",
+      "roomTypeTag": "hostel",
+      "lat": 64.1407676,
+      "lon": -21.9196673,
+      "distanceKm": 1.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík 101, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 11721707,
+        "cityId": "reykjavik",
+        "lat": 64.1407676,
+        "lon": -21.9196673,
+        "address": "56 Snorrabraut",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/nordic-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/nordic-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/nordic-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 11721707,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16367.95,
+        "excludedTaxesTry": 3183.29,
+        "knownTotalTry": 19551.24,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Dört Yataklı Yatakhanede Yatak",
+            "unitType": "Yatakhanede yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-6886608",
+      "name": "SM Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/329805874.jpg?k=6915501e04f127cc33695d4f7a4300ef3a36bd41eaae43b01e879731ece73605&o=",
+      "rating": 8.1,
+      "reviews": 457,
+      "pricePerNightTry": 4951.2975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik veya İki Yataklı Oda",
+      "roomTypeTag": "hostel",
+      "lat": 64.131229,
+      "lon": -21.915436,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 6886608,
+        "cityId": "reykjavik",
+        "lat": 64.131229,
+        "lon": -21.915436,
+        "address": "Skógarhlíð 20 105",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/sm-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/sm-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/sm-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 6886608,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16741.13,
+        "excludedTaxesTry": 3064.06,
+        "knownTotalTry": 19805.19,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik veya İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12086094",
+      "name": "Summerday Guesthouse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/558232298.jpg?k=5fd58dad60097f2c0871366ecf9e17f97656fe2293d52e422e4264f043655ff6&o=",
+      "rating": 7.3,
+      "reviews": 135,
+      "pricePerNightTry": 4951.2975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 64.1290347,
+      "lon": -21.876526,
+      "distanceKm": 3.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12086094,
+        "cityId": "reykjavik",
+        "lat": 64.1290347,
+        "lon": -21.876526,
+        "address": "24 Grensásvegur",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/summerday-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/summerday-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/summerday-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12086094,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16741.13,
+        "excludedTaxesTry": 3064.06,
+        "knownTotalTry": 19805.19,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17511443",
+      "name": "Grytubakki 22",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/931326825.jpg?k=c21666823634034bce7d9f0c81ef8e6ea7e926ac25c351a65c636e0a6acf500c&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 4951.2975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 64.108713,
+      "lon": -21.828397,
+      "distanceKm": 6.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík South-East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17511443,
+        "cityId": "reykjavik",
+        "lat": 64.108713,
+        "lon": -21.828397,
+        "address": "Grýtubakki 22 2nd floor.",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/grytubakki-22.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/grytubakki-22.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/grytubakki-22.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17511443,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16741.13,
+        "excludedTaxesTry": 3064.06,
+        "knownTotalTry": 19805.19,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16939897",
+      "name": "105 Guesthouse Hotel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/898740552.jpg?k=6adaf4574b491d697c5c51d0a139e0a35dbe46d49994bc2163f08a81f8cc1338&o=",
+      "rating": 5.6,
+      "reviews": 31,
+      "pricePerNightTry": 4973.5275,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": 64.1408251187177,
+      "lon": -21.9140041302754,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16939897,
+        "cityId": "reykjavik",
+        "lat": 64.1408251187177,
+        "lon": -21.9140041302754,
+        "address": "Þverholt 18A 001/Ground Floor",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/105-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/105-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/105-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16939897,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16821.23,
+        "excludedTaxesTry": 3072.88,
+        "knownTotalTry": 19894.11,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-08T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-98165",
+      "name": "Stay Apartments Bolholt",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/493225670.jpg?k=95e78e88418327e56ce6bcaf0524eaf098ec310f70c8d10f7ad8edcbcaaa93da&o=",
+      "rating": 8.5,
+      "reviews": 1410,
+      "pricePerNightTry": 4984.0825,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo Daire",
+      "roomTypeTag": "apartment",
+      "lat": 64.139979,
+      "lon": -21.8963229999999,
+      "distanceKm": 2.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 98165,
+        "cityId": "reykjavik",
+        "lat": 64.139979,
+        "lon": -21.8963229999999,
+        "address": "Bolholt 6",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/bolholt.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/bolholt.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/bolholt.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 98165,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16832.12,
+        "excludedTaxesTry": 3104.21,
+        "knownTotalTry": 19936.33,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1333673",
+      "name": "Blue Mountain Apartments by Heimaleiga",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/671301779.jpg?k=937e572ac74a9ee8f9bd39aacd44ce07a337d3492aa7776c1713835bb0639de0&o=",
+      "rating": 8.8,
+      "reviews": 1662,
+      "pricePerNightTry": 5000.6175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Stüdyo",
+      "roomTypeTag": "hotel",
+      "lat": 64.0953994038102,
+      "lon": -21.8064024719361,
+      "distanceKm": 8.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kópavogur, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1333673,
+        "cityId": "reykjavik",
+        "lat": 64.0953994038102,
+        "lon": -21.8064024719361,
+        "address": "Urðarhvarf 2",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/blue-mountain-apartments.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/blue-mountain-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/blue-mountain-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1333673,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 17163.47,
+        "excludedTaxesTry": 2839,
+        "knownTotalTry": 20002.47,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-8400435",
+      "name": "Hotel Ísland - Comfort",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/351416540.jpg?k=dca3ace2bb9c560781cc7120a05e6beea15c6c0fa7d6f8b515669d9be376c54f&o=",
+      "rating": 7.6,
+      "reviews": 1201,
+      "pricePerNightTry": 5031.46,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 64.098403,
+      "lon": -21.885602,
+      "distanceKm": 6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kópavogur, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 8400435,
+        "cityId": "reykjavik",
+        "lat": 64.098403,
+        "lon": -21.885602,
+        "address": "Hlíðasmári 13",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/island-comfort-kopavogur.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/island-comfort-kopavogur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/island-comfort-kopavogur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 8400435,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 17029.99,
+        "excludedTaxesTry": 3095.85,
+        "knownTotalTry": 20125.84,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7501605",
+      "name": "Hostel B47",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/680308272.jpg?k=b5cd3e201cbfbba146f67bfef299c841bf22a8f062f35560195ba0c592706668&o=",
+      "rating": 7.9,
+      "reviews": 3406,
+      "pricePerNightTry": 5106.06,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 64.1409733589452,
+      "lon": -21.9220392169189,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík 101, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7501605,
+        "cityId": "reykjavik",
+        "lat": 64.1409733589452,
+        "lon": -21.9220392169189,
+        "address": "Baronstigur 47",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/hostel-b47-reykjvik.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/hostel-b47-reykjvik.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/hostel-b47-reykjvik.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7501605,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 17298.83,
+        "excludedTaxesTry": 3125.41,
+        "knownTotalTry": 20424.24,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-226535",
+      "name": "Arctic Comfort Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/738067938.jpg?k=a88d7f08b9132be6d7a5fecfd31b9967b24f53a320b70923fa8ac4ad000a51ed&o=",
+      "rating": 7.1,
+      "reviews": 286,
+      "pricePerNightTry": 5345.845,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 64.1345956948992,
+      "lon": -21.8777918815613,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík East, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 226535,
+        "cityId": "reykjavik",
+        "lat": 64.1345956948992,
+        "lon": -21.8777918815613,
+        "address": "Sidumula 19",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/hotelvik.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/hotelvik.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/hotelvik.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 226535,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 18537.39,
+        "excludedTaxesTry": 2845.99,
+        "knownTotalTry": 21383.38,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-17T00:00:00Z",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-13515443",
+      "name": "City Guesthouse",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/642329586.jpg?k=77909e68aae65d36e5cd4ad8a22f38c45b5d9bdc183ba437deb1c632a2a0ee76&o=",
+      "rating": 7.6,
+      "reviews": 724,
+      "pricePerNightTry": 5401.4175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik veya İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "apartment",
+      "lat": 64.1467386,
+      "lon": -21.9375928,
+      "distanceKm": 0.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Reykjavík 101, Reykjavík",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13515443,
+        "cityId": "reykjavik",
+        "lat": 64.1467386,
+        "lon": -21.9375928,
+        "address": "Lækjargata 6a",
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "propertyPath": "/hotel/is/city-apartments.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/is/city-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/is/city-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13515443,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 18363.18,
+        "excludedTaxesTry": 3242.49,
+        "knownTotalTry": 21605.67,
+        "checkedAt": "2026-10-23T18:50:08.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik veya İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    }
+  ]
+}

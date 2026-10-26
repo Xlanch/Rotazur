@@ -1,0 +1,1348 @@
+{
+  "version": 1,
+  "cityId": "paris",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:49:03.432Z",
+  "hotels": [
+    {
+      "id": "booking-6824919",
+      "name": "Art Beaubourg",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/272844237.jpg?k=987bb1327ea99d101fbfe99cc230751a776c7a097a94104fd768d1465f663f54&o=",
+      "rating": 3.7,
+      "reviews": 785,
+      "pricePerNightTry": 3166.0825,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Erkek Yatakhane Odasında Yatak",
+      "roomTypeTag": "hotel",
+      "lat": 48.864537,
+      "lon": 2.3550178,
+      "distanceKm": 0.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "03. Le Marais, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 6824919,
+        "cityId": "paris",
+        "lat": 48.864537,
+        "lon": 2.3550178,
+        "address": "95 Rue Beaubourg",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/l-amp-d.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/l-amp-d.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/l-amp-d.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 6824919,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9852.98,
+        "displayNightlyTry": 2463.25,
+        "excludedTaxesTry": 2811.35,
+        "knownTotalTry": 12664.33,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Erkek Yatakhane Odasında Yatak",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1388383",
+      "name": "HotelF1 Paris Saint Ouen Marché Aux Puces",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/871791241.jpg?k=73aab7f38cc117e36bdb22d508ce2566ea19ce1405b0867ff904c7ede1b64730&o=",
+      "rating": 5.9,
+      "reviews": 17409,
+      "pricePerNightTry": 3178.6125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tandem Room with Shared Bathroom",
+      "roomTypeTag": "hotel",
+      "lat": 48.9011062920533,
+      "lon": 2.33284405732502,
+      "distanceKm": 5.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1388383,
+        "cityId": "paris",
+        "lat": 48.9011062920533,
+        "lon": 2.33284405732502,
+        "address": "29 rue du docteur Babinski",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/hotelf1-paris-porte-de-montmartre.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/hotelf1-paris-porte-de-montmartre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/hotelf1-paris-porte-de-montmartre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1388383,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10507.81,
+        "displayNightlyTry": 2626.95,
+        "excludedTaxesTry": 2206.64,
+        "knownTotalTry": 12714.45,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tandem Room with Shared Bathroom"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-4798495",
+      "name": "Le Coffice Auberge de Jeunesse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/273422308.jpg?k=7bf55bb707d20f27b8ce1308ca9cb6bdb15f28908017fa1c3e0f991ce952c9b3&o=",
+      "rating": 5.1,
+      "reviews": 3185,
+      "pricePerNightTry": 3323.0925,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Dört Yataklı Kadın Yatakhanesinde Yatak + Karma Yatakhanede Ranza",
+      "roomTypeTag": "hostel",
+      "lat": 48.826639,
+      "lon": 2.372673,
+      "distanceKm": 3.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "13. Place d'Italie, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 4798495,
+        "cityId": "paris",
+        "lat": 48.826639,
+        "lon": 2.372673,
+        "address": "79 Rue de Patay",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/coffice-paris.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/coffice-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/coffice-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 4798495,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11760.66,
+        "displayNightlyTry": 2940.17,
+        "excludedTaxesTry": 1531.71,
+        "knownTotalTry": 13292.37,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Dört Yataklı Kadın Yatakhanesinde Yatak",
+            "unitType": "Yatakhanede yatak"
+          },
+          {
+            "name": "Karma Yatakhanede Ranza",
+            "unitType": "Yatakhanede yatak"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-07T23:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1129920",
+      "name": "Hotel De La Poste",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/534666943.jpg?k=d7d711e28d02f9239ce0f2d4ced258d485db0b0f97916966faae7c4d5c12f746&o=",
+      "rating": 6.2,
+      "reviews": 3021,
+      "pricePerNightTry": 3339.3475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda - Ortak Banyolu ",
+      "roomTypeTag": "hotel",
+      "lat": 48.8901161148825,
+      "lon": 2.36100799999997,
+      "distanceKm": 3.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "18. Montmartre, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1129920,
+        "cityId": "paris",
+        "lat": 48.8901161148825,
+        "lon": 2.36100799999997,
+        "address": "94 rue Riquet",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/de-la-poste-paris.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/de-la-poste-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/de-la-poste-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1129920,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11045.42,
+        "displayNightlyTry": 2761.35,
+        "excludedTaxesTry": 2311.97,
+        "knownTotalTry": 13357.39,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda - Ortak Banyolu "
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-3208397",
+      "name": "Auberge Internationale des Jeunes",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/143190856.jpg?k=503329f3c62a7ab37e59f37c81475712d4a6d3ef99351633ada54cc4134a186a&o=",
+      "rating": 6.6,
+      "reviews": 4854,
+      "pricePerNightTry": 3643.455,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 48.851051,
+      "lon": 2.37878,
+      "distanceKm": 2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "11. Bastille, Paris",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 3208397,
+        "cityId": "paris",
+        "lat": 48.851051,
+        "lon": 2.37878,
+        "address": "10 Rue Trousseau",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/auberge-internationale-des-jeunes.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/auberge-internationale-des-jeunes.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/auberge-internationale-des-jeunes.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 3208397,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12102.47,
+        "displayNightlyTry": 3025.62,
+        "excludedTaxesTry": 2471.35,
+        "knownTotalTry": 14573.82,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-299982",
+      "name": "Résidence Internationale De Paris",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/125327554.jpg?k=c5eb8479a0d92d91fb04e0a27953b609f0903638b0cbe9d362512982a4aa8711&o=",
+      "rating": 7.7,
+      "reviews": 7287,
+      "pricePerNightTry": 3775.0175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik İki Yataklı Oda",
+      "roomTypeTag": "hostel",
+      "lat": 48.8602522378803,
+      "lon": 2.41138637065887,
+      "distanceKm": 4.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "20. Ménilmontant, Paris",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 299982,
+        "cityId": "paris",
+        "lat": 48.8602522378803,
+        "lon": 2.41138637065887,
+        "address": "44 Rue Louis Lumière",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/residence-internationale-de-paris.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/residence-internationale-de-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/residence-internationale-de-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 299982,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12577.14,
+        "displayNightlyTry": 3144.28,
+        "excludedTaxesTry": 2522.93,
+        "knownTotalTry": 15100.07,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik İki Yataklı Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-50561",
+      "name": "Hôtel Richard",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/98303151.jpg?k=b7badb8cafc91263046ecd7b94c47749ac56b511e80a6bd6c0078b17b6216231&o=",
+      "rating": 6.9,
+      "reviews": 4771,
+      "pricePerNightTry": 3841.9025,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 48.8559980004896,
+      "lon": 2.38143280148506,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "11. Bastille, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 50561,
+        "cityId": "paris",
+        "lat": 48.8559980004896,
+        "lon": 2.38143280148506,
+        "address": "35, Rue Richard Lenoir",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/richard.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/richard.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/richard.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 50561,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12083.92,
+        "displayNightlyTry": 3020.98,
+        "excludedTaxesTry": 3283.69,
+        "knownTotalTry": 15367.61,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-3208211",
+      "name": "Bastille Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/143529065.jpg?k=b35fe459d7d6a8b0a5c87e75e1866d32446d51db3e574001f1c0589e0cb5bf66&o=",
+      "rating": 6.8,
+      "reviews": 1880,
+      "pricePerNightTry": 3943.2575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 48.850975,
+      "lon": 2.378718,
+      "distanceKm": 2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "11. Bastille, Paris",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 3208211,
+        "cityId": "paris",
+        "lat": 48.850975,
+        "lon": 2.378718,
+        "address": "6 Rue Trousseau",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/bastille-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/bastille-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/bastille-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 3208211,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13216.8,
+        "displayNightlyTry": 3220.84,
+        "excludedTaxesTry": 2556.23,
+        "knownTotalTry": 15773.03,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-251553",
+      "name": "Peace & Love Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/568877658.jpg?k=f304ffc8da41fc778b4be6614efe3c64608d268dae036263f87a5d2ba60f7908&o=",
+      "rating": 5.9,
+      "reviews": 2537,
+      "pricePerNightTry": 3975.3475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hostel",
+      "lat": 48.8825679339779,
+      "lon": 2.36914426088333,
+      "distanceKm": 3.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "10. République, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 251553,
+        "cityId": "paris",
+        "lat": 48.8825679339779,
+        "lon": 2.36914426088333,
+        "address": "245 Rue La Fayette",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/peace-love.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/peace-love.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/peace-love.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 251553,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13299.9,
+        "displayNightlyTry": 3324.97,
+        "excludedTaxesTry": 2601.49,
+        "knownTotalTry": 15901.39,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-906588",
+      "name": "Hotel de France - Gare de l'Est",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/930727266.jpg?k=862d4fe53220712f7fe02161afe8b69cf3b7031abad379775898f200ff5a5265&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 4019.8025,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Comfort Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 48.8739111760343,
+      "lon": 2.35625356435776,
+      "distanceKm": 1.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "10. République, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 906588,
+        "cityId": "paris",
+        "lat": 48.8739111760343,
+        "lon": 2.35625356435776,
+        "address": "3, Rue Jarry",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/de-france-paris2.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/de-france-paris2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/de-france-paris2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 906588,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13199.67,
+        "displayNightlyTry": 3299.92,
+        "excludedTaxesTry": 2879.54,
+        "knownTotalTry": 16079.21,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Comfort Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-367366",
+      "name": "FM Hotel",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/233200904.jpg?k=38bff19ab9cae98bd8ad7c200ef7e25eae156c745bbd56a320d40e37c32b8a2b&o=",
+      "rating": 5.1,
+      "reviews": 507,
+      "pricePerNightTry": 4148.5875,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 48.8872202672178,
+      "lon": 2.35410310328007,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "18. Montmartre, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 367366,
+        "cityId": "paris",
+        "lat": 48.8872202672178,
+        "lon": 2.35410310328007,
+        "address": "28 rue Myrha",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/fm.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/fm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/fm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 367366,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13664.29,
+        "displayNightlyTry": 3416.07,
+        "excludedTaxesTry": 2930.06,
+        "knownTotalTry": 16594.35,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1431915",
+      "name": "Hotel Tolbiac",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/50275545.jpg?k=d40d09e08a47bd20c055fd90c1533828be22aef02cac5c6694fc4c3984b07eae&o=",
+      "rating": 6.1,
+      "reviews": 2023,
+      "pricePerNightTry": 4278.9,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda - Ortak Banyolu ",
+      "roomTypeTag": "hotel",
+      "lat": 48.8262802683662,
+      "lon": 2.36031052453689,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "13. Place d'Italie, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1431915,
+        "cityId": "paris",
+        "lat": 48.8262802683662,
+        "lon": 2.36031052453689,
+        "address": "122 rue de tolbiac",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/tolbiac-paris2.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/tolbiac-paris2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/tolbiac-paris2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1431915,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14246.16,
+        "displayNightlyTry": 3561.54,
+        "excludedTaxesTry": 2869.44,
+        "knownTotalTry": 17115.6,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda - Ortak Banyolu "
+          }
+        ],
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17240062",
+      "name": "Paris Studio - Montmartre",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/916941782.jpg?k=197d366626c3424d67b9fc01c1239e27b7e6a66024856bc42e9903f4340586e0&o=",
+      "rating": 4.5,
+      "reviews": 2,
+      "pricePerNightTry": 4303.905,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 48.8818848,
+      "lon": 2.3390362,
+      "distanceKm": 3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "09. Opera, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17240062,
+        "cityId": "paris",
+        "lat": 48.8818848,
+        "lon": 2.3390362,
+        "address": "3-5 Boulevard de Clichy",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/paris-studio-montmartre-paris.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/paris-studio-montmartre-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/paris-studio-montmartre-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17240062,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15048.39,
+        "displayNightlyTry": 3067.47,
+        "excludedTaxesTry": 2167.23,
+        "knownTotalTry": 17215.62,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-183024",
+      "name": "ibis budget Paris Porte De Montmartre",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/763631085.jpg?k=8c342fd1aa3b4182dbf5d859d2e8a15f4563d1ed749729c8913fcba4c6975b58&o=",
+      "rating": 5.8,
+      "reviews": 18744,
+      "pricePerNightTry": 4379.0675,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Üç Kişilik Oda - 1 Çift Kişilik Yataklı, 1 Ranzalı",
+      "roomTypeTag": "hotel",
+      "lat": 48.9011076694154,
+      "lon": 2.33411192893982,
+      "distanceKm": 5.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "18. Montmartre, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 183024,
+        "cityId": "paris",
+        "lat": 48.9011076694154,
+        "lon": 2.33411192893982,
+        "address": "45 rue du Docteur Babinski",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/etap-paris-porte-de-montmartre.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/etap-paris-porte-de-montmartre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/etap-paris-porte-de-montmartre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 183024,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14739.73,
+        "displayNightlyTry": 3684.93,
+        "excludedTaxesTry": 2776.54,
+        "knownTotalTry": 17516.27,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Üç Kişilik Oda - 1 Çift Kişilik Yataklı, 1 Ranzalı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-583060",
+      "name": "Hotel de France 18",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/671563727.jpg?k=2e6995750b60c95214fe5af9d04099caf39645dd0e85424269ee595dde422587&o=",
+      "rating": 5.9,
+      "reviews": 2043,
+      "pricePerNightTry": 4400.045,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 48.8891007434977,
+      "lon": 2.34936833381653,
+      "distanceKm": 3.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "18. Montmartre, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 583060,
+        "cityId": "paris",
+        "lat": 48.8891007434977,
+        "lon": 2.34936833381653,
+        "address": "51 Boulevard Barbes",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/de-france-paris1.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/de-france-paris1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/de-france-paris1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 583060,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14949.38,
+        "displayNightlyTry": 3737.34,
+        "excludedTaxesTry": 2650.8,
+        "knownTotalTry": 17600.18,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-07T23:00:00Z",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-12603856",
+      "name": "Studio lumineux Paris Est -II",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/587161498.jpg?k=1b287a8d9a561e81f633d7641cfeba8eb5b8f91eec8742e825d5b5855e058166&o=",
+      "rating": 5.7,
+      "reviews": 21,
+      "pricePerNightTry": 4492.5175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 48.8772734,
+      "lon": 2.4062958,
+      "distanceKm": 4.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "19. La Villette, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12603856,
+        "cityId": "paris",
+        "lat": 48.8772734,
+        "lon": 2.4062958,
+        "address": "1 Boulevard Sérurier",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/studio-lumineux-paris-est-ii.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/studio-lumineux-paris-est-ii.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/studio-lumineux-paris-est-ii.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12603856,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14782.77,
+        "displayNightlyTry": 2792.68,
+        "excludedTaxesTry": 3187.3,
+        "knownTotalTry": 17970.07,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16797809",
+      "name": "Votre Cocon parisien au Bassin de la Villette",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/892132367.jpg?k=e3969aaa3d9ebabd7b1133074440f7012c66c8f46d0ca15699e7eaea1d4a9669&o=",
+      "rating": 4.9,
+      "reviews": 12,
+      "pricePerNightTry": 4570.4875,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 48.8835526,
+      "lon": 2.3722733,
+      "distanceKm": 3.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "19. La Villette, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16797809,
+        "cityId": "paris",
+        "lat": 48.8835526,
+        "lon": 2.3722733,
+        "address": "15 Avenue Jean Jaurès",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/votre-cocon-parisien-au-bassin-de-la-villette.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/votre-cocon-parisien-au-bassin-de-la-villette.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/votre-cocon-parisien-au-bassin-de-la-villette.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16797809,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14457.99,
+        "displayNightlyTry": 3350.54,
+        "excludedTaxesTry": 3823.96,
+        "knownTotalTry": 18281.95,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12304407",
+      "name": "Paris Rooms & Dreams Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/686500745.jpg?k=a59592c20ab8ab13330ded008ba917b77d67a1d1880d28d11c7359e17d7a2401&o=",
+      "rating": 6.8,
+      "reviews": 2834,
+      "pricePerNightTry": 4582.3125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik veya İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 48.888785,
+      "lon": 2.3584935,
+      "distanceKm": 3.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "18. Montmartre, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12304407,
+        "cityId": "paris",
+        "lat": 48.888785,
+        "lon": 2.3584935,
+        "address": "11 Rue Doudeauville",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/paris-rooms-amp-dreams.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/paris-rooms-amp-dreams.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/paris-rooms-amp-dreams.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12304407,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14314.86,
+        "displayNightlyTry": 3578.72,
+        "excludedTaxesTry": 4014.39,
+        "knownTotalTry": 18329.25,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik veya İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16552112",
+      "name": "Small Studio - Porte Maillot",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/874934989.jpg?k=e5c5584c681dc5cd887ff03a73ce92b1e61c27074db683ec6ce29af859c2247a&o=",
+      "rating": 2.8,
+      "reviews": 10,
+      "pricePerNightTry": 4623.435,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 48.8820406,
+      "lon": 2.2853493,
+      "distanceKm": 5.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "17. Batignolles, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16552112,
+        "cityId": "paris",
+        "lat": 48.8820406,
+        "lon": 2.2853493,
+        "address": "2 Rue des Dardanelles",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/small-studio-porte-maillot.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/small-studio-porte-maillot.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/small-studio-porte-maillot.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16552112,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15761.71,
+        "displayNightlyTry": 3940.43,
+        "excludedTaxesTry": 2732.03,
+        "knownTotalTry": 18493.74,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1012237",
+      "name": "Hotel d'Orléans Paris Gare de l'Est",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/28402475.jpg?k=22435cc7cb7296e413337f400059f0e02c7288ab2b7d04e55e8f7d5b36cf1986&o=",
+      "rating": 5.4,
+      "reviews": 1199,
+      "pricePerNightTry": 4715.4025,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Double Room with Shared Bathroom and Shared Toilet",
+      "roomTypeTag": "hotel",
+      "lat": 48.8696942785647,
+      "lon": 2.35082776686477,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "02. Bourse, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1012237,
+        "cityId": "paris",
+        "lat": 48.8696942785647,
+        "lon": 2.35082776686477,
+        "address": "13 rue de la Lune",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/d-39-orlean-paris-gare-de-l-39-est.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/d-39-orlean-paris-gare-de-l-39-est.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/d-39-orlean-paris-gare-de-l-39-est.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1012237,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14686.78,
+        "displayNightlyTry": 3671.69,
+        "excludedTaxesTry": 4174.83,
+        "knownTotalTry": 18861.61,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Double Room with Shared Bathroom and Shared Toilet"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-380202",
+      "name": "LPL Paris Hotel",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/551594134.jpg?k=940489aa200909b7b178b1e323923158dbc34ea34ec0edaed18155838c0bea1a&o=",
+      "rating": 4.5,
+      "reviews": 219,
+      "pricePerNightTry": 4734.575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 48.8558431417228,
+      "lon": 2.38151259720325,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "11. Bastille, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 380202,
+        "cityId": "paris",
+        "lat": 48.8558431417228,
+        "lon": 2.38151259720325,
+        "address": "31 Rue Richard Lenoir",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/lpl-paris.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/lpl-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/lpl-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 380202,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16165.86,
+        "displayNightlyTry": 4041.46,
+        "excludedTaxesTry": 2772.44,
+        "knownTotalTry": 18938.3,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1680045",
+      "name": "Hotel Europe BLV",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/262042481.jpg?k=42e88c857972eb3a51a4821164a5c86f55cf940873c1e8b23bec32201fd09b43&o=",
+      "rating": 4.6,
+      "reviews": 2788,
+      "pricePerNightTry": 4774.8625,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Üç Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 48.8707969950232,
+      "lon": 2.37665488710252,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "11. Bastille, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1680045,
+        "cityId": "paris",
+        "lat": 48.8707969950232,
+        "lon": 2.37665488710252,
+        "address": "10, Rue Louis Bonnet",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/de-l-39-europe-belleville.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/de-l-39-europe-belleville.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/de-l-39-europe-belleville.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1680045,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16049.66,
+        "displayNightlyTry": 4012.42,
+        "excludedTaxesTry": 3049.79,
+        "knownTotalTry": 19099.45,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Üç Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10943138",
+      "name": "Beau studio spacieux",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/500270672.jpg?k=2a214fbf3645c875f1b13ebac7b77f58901247b8d123d27f729a6e4cf9c447b6&o=",
+      "rating": 8.2,
+      "reviews": 27,
+      "pricePerNightTry": 4785.03,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 48.893368,
+      "lon": 2.3620054,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "18. Montmartre, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10943138,
+        "cityId": "paris",
+        "lat": 48.893368,
+        "lon": 2.3620054,
+        "address": "16 Rue des Roses",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/beau-studio-spacieux.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/beau-studio-spacieux.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/beau-studio-spacieux.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10943138,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14891.28,
+        "displayNightlyTry": 3722.82,
+        "excludedTaxesTry": 4248.84,
+        "knownTotalTry": 19140.12,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7781407",
+      "name": "Dormir à Paris",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/321388673.jpg?k=73d0123126f65532ceca653eb4ff0348861683988efd3e64eb822fb8fd0aae35&o=",
+      "rating": 1.9,
+      "reviews": 39,
+      "pricePerNightTry": 4816.8225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Altı Yataklı Yatakhanede Tek Kişilik Yatak",
+      "roomTypeTag": "hostel",
+      "lat": 48.821764,
+      "lon": 2.367023,
+      "distanceKm": 4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "13. Place d'Italie, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7781407,
+        "cityId": "paris",
+        "lat": 48.821764,
+        "lon": 2.367023,
+        "address": "Etage12 porte 1206 84 bd masséna",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/dortoir-a-paris.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/dortoir-a-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/dortoir-a-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7781407,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14872.19,
+        "displayNightlyTry": 3718.04,
+        "excludedTaxesTry": 4395.1,
+        "knownTotalTry": 19267.29,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Altı Yataklı Yatakhanede Tek Kişilik Yatak",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12580546",
+      "name": "Chez Mia Paris",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/585984125.jpg?k=ff50fc10e6dd7b6bfbada5d1db03ba580dfddaa7325e4645a2c05226195405da&o=",
+      "rating": 5.4,
+      "reviews": 1159,
+      "pricePerNightTry": 4823.8475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "hostel",
+      "lat": 48.8596753,
+      "lon": 2.3875558,
+      "distanceKm": 2.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "11. Bastille, Paris",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12580546,
+        "cityId": "paris",
+        "lat": 48.8596753,
+        "lon": 2.3875558,
+        "address": "167 Rue de la Roquette",
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "propertyPath": "/hotel/fr/chez-mia-paris-paris.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/fr/chez-mia-paris-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/fr/chez-mia-paris-paris.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12580546,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15012.07,
+        "displayNightlyTry": 3753.02,
+        "excludedTaxesTry": 4283.32,
+        "knownTotalTry": 19295.39,
+        "checkedAt": "2026-10-23T18:49:02.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "deals": []
+      }
+    }
+  ]
+}

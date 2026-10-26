@@ -1,0 +1,1391 @@
+{
+  "version": 1,
+  "cityId": "niagara",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:51:22.536Z",
+  "hotels": [
+    {
+      "id": "booking-47178",
+      "name": "Howard Johnson by Wyndham Niagara Falls",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/181369481.jpg?k=8c3152179074aab06a06a0aa08a0c153466c7548120a55173929bc4513f263ce&o=",
+      "rating": 6.2,
+      "reviews": 2194,
+      "pricePerNightTry": 1740.05,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe Queen Oda - İki Queen Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.088661239001,
+      "lon": -79.1335974633694,
+      "distanceKm": 3.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Lundy's Lane, Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 47178,
+        "cityId": "niagara",
+        "lat": 43.088661239001,
+        "lon": -79.1335974633694,
+        "address": "8100 Lundy's Lane",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/howard-johnson-express-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/howard-johnson-express-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/howard-johnson-express-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 47178,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 6159.47,
+        "displayNightlyTry": 1425.8,
+        "excludedTaxesTry": 800.73,
+        "knownTotalTry": 6960.2,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe Queen Oda - İki Queen Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-295963",
+      "name": "Advance Inn",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/599513578.jpg?k=951bcfbd2fefd1a51028b9d691031e2feec9c5023195741022762f4dfbae301f&o=",
+      "rating": 6.5,
+      "reviews": 412,
+      "pricePerNightTry": 2106.86,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0896230073997,
+      "lon": -79.0940295159817,
+      "distanceKm": 3.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Lundy's Lane, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 295963,
+        "cityId": "niagara",
+        "lat": 43.0896230073997,
+        "lon": -79.0940295159817,
+        "address": "6019 Lundy's Lane",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/advance-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/advance-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/advance-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 295963,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 7231.79,
+        "displayNightlyTry": 1755.29,
+        "excludedTaxesTry": 1195.65,
+        "knownTotalTry": 8427.44,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-10-25T04:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76405",
+      "name": "Days Inn by Wyndham Fallsview",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/308757479.jpg?k=31555e479c803fae4214c06d986e92c4ea79a3368a5286755e17ad16edd4216f&o=",
+      "rating": 6.8,
+      "reviews": 1544,
+      "pricePerNightTry": 2178.23,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - İki Çift Kişilik Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.0803924470303,
+      "lon": -79.0844915807247,
+      "distanceKm": 2.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76405,
+        "cityId": "niagara",
+        "lat": 43.0803924470303,
+        "lon": -79.0844915807247,
+        "address": "6519 Stanley Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/d-i-fallsview-casino-niagara-falls-ontario.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/d-i-fallsview-casino-niagara-falls-ontario.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/d-i-fallsview-casino-niagara-falls-ontario.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76405,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 7443.49,
+        "displayNightlyTry": 1669.09,
+        "excludedTaxesTry": 1269.43,
+        "knownTotalTry": 8712.92,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - İki Çift Kişilik Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76380",
+      "name": "Ritz Inn Niagara",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/87156641.jpg?k=38db30a3239067f3e959d89542e16d9a3b4edbca7b7535662204a1cd7967d681&o=",
+      "rating": 5.2,
+      "reviews": 525,
+      "pricePerNightTry": 2280.785,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0790156567824,
+      "lon": -79.0857321023942,
+      "distanceKm": 2.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76380,
+        "cityId": "niagara",
+        "lat": 43.0790156567824,
+        "lon": -79.0857321023942,
+        "address": "5630 Dunn St",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/a-ritz-inn-niagara-wedding-chapel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/a-ritz-inn-niagara-wedding-chapel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/a-ritz-inn-niagara-wedding-chapel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76380,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 7841.91,
+        "displayNightlyTry": 1782.25,
+        "excludedTaxesTry": 1281.23,
+        "knownTotalTry": 9123.14,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-245519",
+      "name": "Niagara Lodge & Suites",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/668216842.jpg?k=7eeacdf0569c797b2ad16642aa6ca01a1735139a81be5e03664e97d4d7f1e795&o=",
+      "rating": 6.2,
+      "reviews": 1704,
+      "pricePerNightTry": 2393.16,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - İki Kraliçe Yataklı",
+      "roomTypeTag": "hotel",
+      "lat": 43.0887740582242,
+      "lon": -79.125342965126,
+      "distanceKm": 3.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Lundy's Lane, Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 245519,
+        "cityId": "niagara",
+        "lat": 43.0887740582242,
+        "lon": -79.125342965126,
+        "address": "7720 Lundy's Lane",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/niagara-lodge-suites.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/niagara-lodge-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/niagara-lodge-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 245519,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 7905.57,
+        "displayNightlyTry": 1976.39,
+        "excludedTaxesTry": 1667.07,
+        "knownTotalTry": 9572.64,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - İki Kraliçe Yataklı"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76252",
+      "name": "Super 8 by Wyndham Niagara Falls North",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/132462095.jpg?k=76ab35b64b7263249731a4a6df77c330eaeff41e8f18136cccfffc02c56e8e10&o=",
+      "rating": 6.8,
+      "reviews": 258,
+      "pricePerNightTry": 2496.9725,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.115410787834,
+      "lon": -79.0666615962982,
+      "distanceKm": 7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76252,
+        "cityId": "niagara",
+        "lat": 43.115410787834,
+        "lon": -79.0666615962982,
+        "address": "4009 River Road",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/water-s-edge-inn-north-of-the-falls.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/water-s-edge-inn-north-of-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/water-s-edge-inn-north-of-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76252,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8540.63,
+        "displayNightlyTry": 2065.15,
+        "excludedTaxesTry": 1447.26,
+        "knownTotalTry": 9987.89,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-48328",
+      "name": "Super 8 by Wyndham Niagara Falls by the Falls",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/294216392.jpg?k=1e5996d388f37da2ae621f5b1ed5e36c03090675bec9dd60344a51b0af4dfeb4&o=",
+      "rating": 7.1,
+      "reviews": 3412,
+      "pricePerNightTry": 2556.5725,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "King Oda (Sigara içilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.0938890811797,
+      "lon": -79.0755718946457,
+      "distanceKm": 4.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 48328,
+        "cityId": "niagara",
+        "lat": 43.0938890811797,
+        "lon": -79.0755718946457,
+        "address": "5577 Ellen Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/super-8-by-wyndham-niagara-falls-by-the-falls.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/super-8-by-wyndham-niagara-falls-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/super-8-by-wyndham-niagara-falls-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 48328,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8757.97,
+        "displayNightlyTry": 2095.21,
+        "excludedTaxesTry": 1468.32,
+        "knownTotalTry": 10226.29,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "King Oda (Sigara içilmez)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76315",
+      "name": "Comfort Inn Fallsview",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/385135698.jpg?k=d934f7660c40ebad587c345da537baca49b3c8c0839bb577ce948283267db0db&o=",
+      "rating": 7.1,
+      "reviews": 5892,
+      "pricePerNightTry": 2619.09,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "luxury",
+      "lat": 43.080045784656,
+      "lon": -79.0830539166927,
+      "distanceKm": 2.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76315,
+        "cityId": "niagara",
+        "lat": 43.080045784656,
+        "lon": -79.0830539166927,
+        "address": "6645 Fallsview Boulevard",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/ci-fallsview-fallsview-canada.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/ci-fallsview-fallsview-canada.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/ci-fallsview-fallsview-canada.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76315,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9271.96,
+        "displayNightlyTry": 1718.6,
+        "excludedTaxesTry": 1204.4,
+        "knownTotalTry": 10476.36,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-276328",
+      "name": "Econo Lodge By the Falls",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/668907789.jpg?k=87a0b4dcc319eb2252e6c1b73a672a2f05f7096a901d571c31eb6ff534192f7f&o=",
+      "rating": 7,
+      "reviews": 480,
+      "pricePerNightTry": 2648.8825,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.0916758591985,
+      "lon": -79.0770913660526,
+      "distanceKm": 4.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Clifton Hill, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 276328,
+        "cityId": "niagara",
+        "lat": 43.0916758591985,
+        "lon": -79.0770913660526,
+        "address": "5781 Victoria Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/econo-lodge-by-the-falls.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/econo-lodge-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/econo-lodge-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 276328,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9015.94,
+        "displayNightlyTry": 2253.98,
+        "excludedTaxesTry": 1579.59,
+        "knownTotalTry": 10595.53,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-248247",
+      "name": "The Rex Motel At Niagara Falls",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/146789109.jpg?k=7b00ab66196923de9e716336432d11d4f04b033373e9288f0fbb91a4f457dcef&o=",
+      "rating": 8.6,
+      "reviews": 246,
+      "pricePerNightTry": 2756.41,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart King Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.071020343976,
+      "lon": -79.097788631916,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 248247,
+        "cityId": "niagara",
+        "lat": 43.071020343976,
+        "lon": -79.097788631916,
+        "address": "6247 McLeod Road",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/the-rex-motel-at-niagara-falls.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/the-rex-motel-at-niagara-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/the-rex-motel-at-niagara-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 248247,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9414.82,
+        "displayNightlyTry": 2298.54,
+        "excludedTaxesTry": 1610.82,
+        "knownTotalTry": 11025.64,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart King Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T05:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-243923",
+      "name": "Blue Moon Motel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/18211961.jpg?k=f78c36953d3a74e98b4a1ae23b409fd0913ddd75b486e30147bc414e40e795f8&o=",
+      "rating": 8.8,
+      "reviews": 695,
+      "pricePerNightTry": 2770.3325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.089244544022,
+      "lon": -79.1398349404335,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Lundy's Lane, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 243923,
+        "cityId": "niagara",
+        "lat": 43.089244544022,
+        "lon": -79.1398349404335,
+        "address": "8445 Lundy's Lane",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/blue-moon-motel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/blue-moon-motel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/blue-moon-motel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 243923,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9505.85,
+        "displayNightlyTry": 2298.54,
+        "excludedTaxesTry": 1575.48,
+        "knownTotalTry": 11081.33,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T05:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76980",
+      "name": "Hotel Berano",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/926186771.jpg?k=a1c411c43a4f2951780dc50f80672f46ad827fc89075d9f6be86ce7d317abffc&o=",
+      "rating": 7.4,
+      "reviews": 1067,
+      "pricePerNightTry": 2784.36,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standarad Double Queen",
+      "roomTypeTag": "hotel",
+      "lat": 43.0896370758142,
+      "lon": -79.08651933074,
+      "distanceKm": 3.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76980,
+        "cityId": "niagara",
+        "lat": 43.0896370758142,
+        "lon": -79.08651933074,
+        "address": "5553 Ferry Street",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/rodeway-inn-by-the-falls.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/rodeway-inn-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/rodeway-inn-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76980,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9477.06,
+        "displayNightlyTry": 2369.27,
+        "excludedTaxesTry": 1660.38,
+        "knownTotalTry": 11137.44,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standarad Double Queen"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-248261",
+      "name": "Niagara Inn & Suites",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/208527481.jpg?k=3e621c13feb195935d25fc50391b86bdf4bbd41835c9903875b4e7d924323a86&o=",
+      "rating": 6.2,
+      "reviews": 274,
+      "pricePerNightTry": 2888.0275,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Queen Oda - Sigara İçilmez",
+      "roomTypeTag": "hotel",
+      "lat": 43.089403623677,
+      "lon": -79.1166445612907,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Lundy's Lane, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 248261,
+        "cityId": "niagara",
+        "lat": 43.089403623677,
+        "lon": -79.1166445612907,
+        "address": "7225 Lundy's Lane",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/aa-niagara-inn-motel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/aa-niagara-inn-motel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/aa-niagara-inn-motel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 248261,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9759.96,
+        "displayNightlyTry": 2086.37,
+        "excludedTaxesTry": 1792.15,
+        "knownTotalTry": 11552.11,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Queen Oda - Sigara İçilmez"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76225",
+      "name": "Ramada by Wyndham Niagara Falls/Fallsview",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/135127189.jpg?k=7d0d26e10ba240f5d3fbd9c346e718f1daf95da6356813335601354b101f9e97&o=",
+      "rating": 6,
+      "reviews": 2129,
+      "pricePerNightTry": 2942.7575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.0873412731663,
+      "lon": -79.085081666708,
+      "distanceKm": 3.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76225,
+        "cityId": "niagara",
+        "lat": 43.0873412731663,
+        "lon": -79.085081666708,
+        "address": "6045 Stanley Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/c-president.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/c-president.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/c-president.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76225,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9646.8,
+        "displayNightlyTry": 2411.7,
+        "excludedTaxesTry": 2124.23,
+        "knownTotalTry": 11771.03,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76423",
+      "name": "Falcon Inn",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/260467597.jpg?k=5efa5c3bc5074280536c094441d4faa160e77880a87e9020a320fb912150baac&o=",
+      "rating": 6.7,
+      "reviews": 301,
+      "pricePerNightTry": 2948.4975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0892339387038,
+      "lon": -79.1286876797676,
+      "distanceKm": 3.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Lundy's Lane, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76423,
+        "cityId": "niagara",
+        "lat": 43.0892339387038,
+        "lon": -79.1286876797676,
+        "address": "7865 Lundy's Lane",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/f-inn-niagara-falls-ontario.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/f-inn-niagara-falls-ontario.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/f-inn-niagara-falls-ontario.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76423,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9907.06,
+        "displayNightlyTry": 2404.63,
+        "excludedTaxesTry": 1886.93,
+        "knownTotalTry": 11793.99,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-375059",
+      "name": "Falls Lodge by the Falls (Formerly Knights Inn)",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/889994406.jpg?k=4aa3d533c71f3674f36d104f950755171883b0113e1672b1e35923f1cab7295e&o=",
+      "rating": 7.5,
+      "reviews": 1001,
+      "pricePerNightTry": 2982.4475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.0838624630045,
+      "lon": -79.0865005552769,
+      "distanceKm": 3.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 375059,
+        "cityId": "niagara",
+        "lat": 43.0838624630045,
+        "lon": -79.0865005552769,
+        "address": "6276 Main Street",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/knights-inn-by-the-falls.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/knights-inn-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/knights-inn-by-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 375059,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10348.9,
+        "displayNightlyTry": 2255.84,
+        "excludedTaxesTry": 1580.89,
+        "knownTotalTry": 11929.79,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - İki Kraliçe Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76381",
+      "name": "The Glengate Hotel & Suites",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/326488886.jpg?k=db7042f3af91ab233f55ae29a39a498b048854002d327c484f6bfc4ce8b37ce1&o=",
+      "rating": 7.5,
+      "reviews": 3202,
+      "pricePerNightTry": 3020.2175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0942870316183,
+      "lon": -79.0848711133003,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76381,
+        "cityId": "niagara",
+        "lat": 43.0942870316183,
+        "lon": -79.0848711133003,
+        "address": "5534 Stanley Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/glengate.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/glengate.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/glengate.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76381,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10421.68,
+        "displayNightlyTry": 2439.99,
+        "excludedTaxesTry": 1659.19,
+        "knownTotalTry": 12080.87,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-296629",
+      "name": "Rainbow Motor Inn - Fallsview",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/10317795.jpg?k=ca4de91e33630b694e5c625eacebec0f600643256c62a5a4aeb3736ce335cbb5&o=",
+      "rating": 5.8,
+      "reviews": 438,
+      "pricePerNightTry": 3023.36,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0835230635996,
+      "lon": -79.0856409072876,
+      "distanceKm": 3.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 296629,
+        "cityId": "niagara",
+        "lat": 43.0835230635996,
+        "lon": -79.0856409072876,
+        "address": "5581 Murray Street",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/rainbow-motor-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/rainbow-motor-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/rainbow-motor-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 296629,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10243.5,
+        "displayNightlyTry": 2328.07,
+        "excludedTaxesTry": 1849.94,
+        "knownTotalTry": 12093.44,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T05:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-266978",
+      "name": "Olympia Motel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/318389405.jpg?k=ecb5e720d13036285823e67f6fa1ce5913fbd9fab2c95bb8fc536ec120816424&o=",
+      "rating": 6.8,
+      "reviews": 608,
+      "pricePerNightTry": 3042.5625,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0936107015857,
+      "lon": -79.0782795846462,
+      "distanceKm": 4.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 266978,
+        "cityId": "niagara",
+        "lat": 43.0936107015857,
+        "lon": -79.0782795846462,
+        "address": "5099 Centre Street",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/olympia-motel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/olympia-motel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/olympia-motel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 266978,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9759.96,
+        "displayNightlyTry": 2439.99,
+        "excludedTaxesTry": 2410.29,
+        "knownTotalTry": 12170.25,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T05:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76495",
+      "name": "Sunset Inn",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/880821506.jpg?k=776ff3f9b42bc860a609931678740caa18324370bd1f42d41574b4048504a9a4&o=",
+      "rating": 7.6,
+      "reviews": 1207,
+      "pricePerNightTry": 3053.27,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Süit",
+      "roomTypeTag": "hotel",
+      "lat": 43.0904437306081,
+      "lon": -79.0851835906505,
+      "distanceKm": 3.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76495,
+        "cityId": "niagara",
+        "lat": 43.0904437306081,
+        "lon": -79.0851835906505,
+        "address": "5803 Stanley Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/sunsetinn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/sunsetinn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/sunsetinn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76495,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10586,
+        "displayNightlyTry": 2514.25,
+        "excludedTaxesTry": 1627.08,
+        "knownTotalTry": 12213.08,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Süit",
+            "unitType": "Özel süit"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76373",
+      "name": "Diplomat Inn",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/267445761.jpg?k=ecc51d5272ab9165d841f6d8418699a2c266b77a73e4bb8c08acd7bdab5ca6e6&o=",
+      "rating": 8,
+      "reviews": 1973,
+      "pricePerNightTry": 3096.8425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Executive Room with 2 Queen Beds ",
+      "roomTypeTag": "hotel",
+      "lat": 43.0880115026797,
+      "lon": -79.0850400924683,
+      "distanceKm": 3.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76373,
+        "cityId": "niagara",
+        "lat": 43.0880115026797,
+        "lon": -79.0850400924683,
+        "address": "5983 Stanley Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/diplomat-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/diplomat-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/diplomat-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76373,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10255.03,
+        "displayNightlyTry": 2475.35,
+        "excludedTaxesTry": 2132.34,
+        "knownTotalTry": 12387.37,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Executive Room with 2 Queen Beds "
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76297",
+      "name": "Days Inn by Wyndham Niagara Falls Near The Falls",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/469600406.jpg?k=e7ca5a3e5f609e9d506bfd6c97d7d8619fd752ca29fd2cf4bd78fe0a915959a7&o=",
+      "rating": 7.9,
+      "reviews": 6698,
+      "pricePerNightTry": 3129.6075,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - İki Çift Kişilik Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 43.0897855859015,
+      "lon": -79.0803194046021,
+      "distanceKm": 3.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76297,
+        "cityId": "niagara",
+        "lat": 43.0897855859015,
+        "lon": -79.0803194046021,
+        "address": "5943 Victoria Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/near-the-falls.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/near-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/near-the-falls.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76297,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10675.41,
+        "displayNightlyTry": 2517.79,
+        "excludedTaxesTry": 1843.02,
+        "knownTotalTry": 12518.43,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - İki Çift Kişilik Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76516",
+      "name": "Niagara Falls Courtside Inn",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/314361867.jpg?k=37b133762f726db005f5fef3f7276eb8a1a1ea6d3aea1d662f15627bc7c42c6b&o=",
+      "rating": 5.2,
+      "reviews": 544,
+      "pricePerNightTry": 3146.785,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0926720654065,
+      "lon": -79.084907323122,
+      "distanceKm": 4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76516,
+        "cityId": "niagara",
+        "lat": 43.0926720654065,
+        "lon": -79.084907323122,
+        "address": "5640 Stanley Avenue",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/camelot-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/camelot-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/camelot-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76516,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10752.55,
+        "displayNightlyTry": 2439.99,
+        "excludedTaxesTry": 1834.59,
+        "knownTotalTry": 12587.14,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-46341",
+      "name": "Quality Inn & Suites",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/893609405.jpg?k=ef160a6bfe7e3f6b707acaf4f5a33b7a4da9ccb6f50c5cbfbe9adfca8ba7a79f&o=",
+      "rating": 6.6,
+      "reviews": 843,
+      "pricePerNightTry": 3171.7825,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen  Room - Non-Smoking",
+      "roomTypeTag": "hotel",
+      "lat": 43.0895054943923,
+      "lon": -79.0805433690547,
+      "distanceKm": 3.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Fallsview, Niagara Falls",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 46341,
+        "cityId": "niagara",
+        "lat": 43.0895054943923,
+        "lon": -79.0805433690547,
+        "address": "5234 Ferry Street",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/lodge-inn-suites.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/lodge-inn-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/lodge-inn-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 46341,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10795.72,
+        "displayNightlyTry": 2698.93,
+        "excludedTaxesTry": 1891.41,
+        "knownTotalTry": 12687.13,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen  Room - Non-Smoking"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-243335",
+      "name": "Villager Lodge Niagara Falls",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/150815868.jpg?k=4eada7fbe7a7366c40cd39abed34f08ab22592cc20ab600b4dce9b90fc783074&o=",
+      "rating": 7.3,
+      "reviews": 410,
+      "pricePerNightTry": 3216.7175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 43.0885104104077,
+      "lon": -79.1326090693474,
+      "distanceKm": 3.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Lundy's Lane, Niagara Falls",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 243335,
+        "cityId": "niagara",
+        "lat": 43.0885104104077,
+        "lon": -79.1326090693474,
+        "address": "8054 Lundy's Lane",
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "propertyPath": "/hotel/ca/villager-lodge.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/villager-lodge.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/villager-lodge.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 243335,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10820.82,
+        "displayNightlyTry": 2705.21,
+        "excludedTaxesTry": 2046.05,
+        "knownTotalTry": 12866.87,
+        "checkedAt": "2026-10-23T18:51:21.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    }
+  ]
+}

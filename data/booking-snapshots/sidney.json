@@ -1,0 +1,1267 @@
+{
+  "version": 1,
+  "cityId": "sidney",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:51:28.282Z",
+  "hotels": [
+    {
+      "id": "booking-12571526",
+      "name": "Rustic Queen Room - Conveniently Located - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/589181115.jpg?k=0217d6c7a5e654a046405d119ec12528613f90eb42658ba632992bed3682a9c9&o=",
+      "rating": 5.2,
+      "reviews": 78,
+      "pricePerNightTry": 2262.9675,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.8454439,
+      "lon": 151.0375083,
+      "distanceKm": 16.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/rustic-queen-room-conveniently-located-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/rustic-queen-room-conveniently-located-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12571526,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9051.87,
+        "displayNightlyTry": 1784.52,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 9051.87,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-15058851",
+      "name": "Cozy Queen Room in Two Story House - R2",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/759133186.jpg?k=15d904949734d5bc087831c6b070a346a91ac952cf296a22713b9f51d1b1bccb&o=",
+      "rating": 3.4,
+      "reviews": 5,
+      "pricePerNightTry": 2282.6275,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.8109519,
+      "lon": 151.0483739,
+      "distanceKm": 16.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15058851,
+        "cityId": "sidney",
+        "lat": -33.8109519,
+        "lon": 151.0483739,
+        "address": "10 Finch Avenue",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/cozy-queen-room-in-two-story-house-r2.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/cozy-queen-room-in-two-story-house-r2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/cozy-queen-room-in-two-story-house-r2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15058851,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8458.63,
+        "displayNightlyTry": 1679.71,
+        "excludedTaxesTry": 671.88,
+        "knownTotalTry": 9130.51,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13662757",
+      "name": "Double Room - Prime location - Convenient Spot in Auburn - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/837176175.jpg?k=1d4fb08f2ecc4f576cc2034fbc6ada64d27be44b13706dccc4255369ab03a0be&o=",
+      "rating": 7.1,
+      "reviews": 19,
+      "pricePerNightTry": 2318.12,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.8457665,
+      "lon": 151.0305222,
+      "distanceKm": 16.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/double-room-prime-location-convenient-spot-in-auburn-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/double-room-prime-location-convenient-spot-in-auburn-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13662757,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9272.48,
+        "displayNightlyTry": 1839.67,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 9272.48,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-14497207",
+      "name": "Peaceful Stay in Lidcombe - Double Room on a Quiet Street - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/841257334.jpg?k=cb0545c0b9d7ece10af2dd0110e1fc84d925226a7672fc90388a2cc21b677188&o=",
+      "rating": 4.7,
+      "reviews": 50,
+      "pricePerNightTry": 2318.12,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.8537928,
+      "lon": 151.0415519,
+      "distanceKm": 15.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/peaceful-stay-in-lidcombe-double-room-on-a-quiet-street-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/peaceful-stay-in-lidcombe-double-room-on-a-quiet-street-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14497207,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9272.48,
+        "displayNightlyTry": 1839.67,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 9272.48,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-15058913",
+      "name": "Queen Room in Rydalmere - R4",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/759170689.jpg?k=718618010781fd088be5f565b248c9f8fdcc0584abb7d0cfcb371c92d3524597&o=",
+      "rating": 3.2,
+      "reviews": 5,
+      "pricePerNightTry": 2359.18,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.8109519,
+      "lon": 151.0483739,
+      "distanceKm": 16.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15058913,
+        "cityId": "sidney",
+        "lat": -33.8109519,
+        "lon": 151.0483739,
+        "address": "10 Finch Avenue",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/queen-room-in-rydalmere-r4.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/queen-room-in-rydalmere-r4.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/queen-room-in-rydalmere-r4.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15058913,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8727.51,
+        "displayNightlyTry": 1773.02,
+        "excludedTaxesTry": 709.21,
+        "knownTotalTry": 9436.72,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15058817",
+      "name": "Standard Queen Room in Two Story House - R1",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/759111373.jpg?k=af062645383b5f439f5f6a3060888f02a445f68555e0fa65ed3104886498605a&o=",
+      "rating": 5.7,
+      "reviews": 7,
+      "pricePerNightTry": 2385.2775,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.8109519,
+      "lon": 151.0483739,
+      "distanceKm": 16.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15058817,
+        "cityId": "sidney",
+        "lat": -33.8109519,
+        "lon": 151.0483739,
+        "address": "10 Finch Avenue",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/standard-queen-room-in-two-story-house-r1.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/standard-queen-room-in-two-story-house-r1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/standard-queen-room-in-two-story-house-r1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15058817,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8831.9,
+        "displayNightlyTry": 1773.02,
+        "excludedTaxesTry": 709.21,
+        "knownTotalTry": 9541.11,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15072320",
+      "name": "Twin Room Ideal for Friends and Travelers - R5",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/760520437.jpg?k=c90249d1866c0bca7b00d2f7b48f3f00fce591bd0016a19171658f6d674231fd&o=",
+      "rating": 1.5,
+      "reviews": 2,
+      "pricePerNightTry": 2451.39,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.8109519,
+      "lon": 151.0483739,
+      "distanceKm": 16.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15072320,
+        "cityId": "sidney",
+        "lat": -33.8109519,
+        "lon": 151.0483739,
+        "address": "10 Finch Avenue",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/twin-room-ideal-for-friends-and-travelers-r5.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/twin-room-ideal-for-friends-and-travelers-r5.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/twin-room-ideal-for-friends-and-travelers-r5.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15072320,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9072.31,
+        "displayNightlyTry": 1833.12,
+        "excludedTaxesTry": 733.25,
+        "knownTotalTry": 9805.56,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16814463",
+      "name": "Auburn Double Room - Walk to Station & Dining - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/891602121.jpg?k=bbe598442e0210aef421be27d83bd23887f44c4b9c4dd63142c4272e9a90c2c6&o=",
+      "rating": 6.4,
+      "reviews": 7,
+      "pricePerNightTry": 2451.475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.8449244,
+      "lon": 151.0308937,
+      "distanceKm": 16.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/auburn-double-room-walk-to-station-dining-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/auburn-double-room-walk-to-station-dining-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16814463,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9805.9,
+        "displayNightlyTry": 1973.03,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 9805.9,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-13167047",
+      "name": "Bat and Ball Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/619492095.jpg?k=37f4d22ab5c7ca116687c042388be02de924e6d5a19c412d3beb000090fb939d&o=",
+      "rating": 8,
+      "reviews": 291,
+      "pricePerNightTry": 2505.325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Altı Yataklı Kadın Yatakhanesinde Yatak",
+      "roomTypeTag": "hostel",
+      "lat": -33.892302,
+      "lon": 151.2165052,
+      "distanceKm": 2.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13167047,
+        "cityId": "sidney",
+        "lat": -33.892302,
+        "lon": 151.2165052,
+        "address": "495 Cleveland Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/bat-and-ball.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/bat-and-ball.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/bat-and-ball.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13167047,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9110.27,
+        "displayNightlyTry": 2277.57,
+        "excludedTaxesTry": 911.03,
+        "knownTotalTry": 10021.3,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Altı Yataklı Kadın Yatakhanesinde Yatak",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17048095",
+      "name": "Spacious Queen Room - Easy City Access - CP9",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/905173390.jpg?k=ecb79d91d829b8f38b0578f62b4ce382e0065de52ca6dcd6419c1e610b9cab63&o=",
+      "rating": 5,
+      "reviews": 2,
+      "pricePerNightTry": 2532.8125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.878566,
+      "lon": 151.1156268,
+      "distanceKm": 8.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17048095,
+        "cityId": "sidney",
+        "lat": -33.878566,
+        "lon": 151.1156268,
+        "address": "35 Young Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/spacious-queen-room-easy-city-access-cp9.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/spacious-queen-room-easy-city-access-cp9.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/spacious-queen-room-easy-city-access-cp9.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17048095,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9368.39,
+        "displayNightlyTry": 1907.15,
+        "excludedTaxesTry": 762.86,
+        "knownTotalTry": 10131.25,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13987050",
+      "name": "Comfortable Family Room in Central Location - EW1",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/673361716.jpg?k=0e12d598cad9217493aae9a5342b3ec136a3fe2651e2cae861902dfe4f601f9a&o=",
+      "rating": 3.1,
+      "reviews": 9,
+      "pricePerNightTry": 2595.7925,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Üç Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.9254655,
+      "lon": 151.134533,
+      "distanceKm": 9.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13987050,
+        "cityId": "sidney",
+        "lat": -33.9254655,
+        "lon": 151.134533,
+        "address": "134 Homer Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/comfortable-family-room-in-central-location-ew1.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/comfortable-family-room-in-central-location-ew1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/comfortable-family-room-in-central-location-ew1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13987050,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9597.41,
+        "displayNightlyTry": 1964.4,
+        "excludedTaxesTry": 785.76,
+        "knownTotalTry": 10383.17,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Üç Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-16T13:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9211290",
+      "name": "Lil Roo - PodBed Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/863973346.jpg?k=8a0adaba9d75c7432b42f1ac9c29a49ccd1ceb10e5d4202de9cd7c1645ba46f4&o=",
+      "rating": 6.7,
+      "reviews": 444,
+      "pricePerNightTry": 2599.2725,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Bed in 12 Bed Mix Dormitory (18- 35 ages only)",
+      "roomTypeTag": "hostel",
+      "lat": -33.871057,
+      "lon": 151.224911,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Potts Point, Sidney",
+      "amenities": [
+        "Akşam yemeği dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9211290,
+        "cityId": "sidney",
+        "lat": -33.871057,
+        "lon": 151.224911,
+        "address": "87 Macleay Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/pod-bed-sydney-potts-point1.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/pod-bed-sydney-potts-point1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/pod-bed-sydney-potts-point1.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9211290,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9451.9,
+        "displayNightlyTry": 2362.98,
+        "excludedTaxesTry": 945.19,
+        "knownTotalTry": 10397.09,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Bed in 12 Bed Mix Dormitory (18- 35 ages only)",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "mealPlan": "Akşam yemeği dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1291131",
+      "name": "Cockatoo Island Accommodation",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/784878942.jpg?k=7f179d11cbac7ff0e7fa3ccbb813cd9ee79f7b06ac4388fd81cda22bdf8af02e&o=",
+      "rating": 8.4,
+      "reviews": 153,
+      "pricePerNightTry": 2635.81,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Unpowered Camping Site (Guest to provide own Tent and Camping gear)",
+      "roomTypeTag": "hotel",
+      "lat": -33.8457319419212,
+      "lon": 151.172985434532,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1291131,
+        "cityId": "sidney",
+        "lat": -33.8457319419212,
+        "lon": 151.172985434532,
+        "address": "Cockatoo Island",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/cockatoo-island-houses-and-apartments.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/cockatoo-island-houses-and-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/cockatoo-island-houses-and-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1291131,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9584.76,
+        "displayNightlyTry": 2396.19,
+        "excludedTaxesTry": 958.48,
+        "knownTotalTry": 10543.24,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Unpowered Camping Site (Guest to provide own Tent and Camping gear)",
+            "unitType": "Boş kamp alanı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14455052",
+      "name": "Queen Room in Auburn - Central Stay with Convenience - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/837180973.jpg?k=b78ddc08a1c9e1a39f2b63c150294960a2a16cd0a94801e2191317607c15a654&o=",
+      "rating": 4.8,
+      "reviews": 6,
+      "pricePerNightTry": 2649.2925,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.8449244,
+      "lon": 151.0308937,
+      "distanceKm": 16.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/queen-room-in-auburn-central-stay-with-convenience-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/queen-room-in-auburn-central-stay-with-convenience-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14455052,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10597.17,
+        "displayNightlyTry": 2170.85,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 10597.17,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-13677938",
+      "name": "Charming Double Room - Prime Location in Carlton Supermarkets Nearby for Convenience - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/838837837.jpg?k=9ab4505ef06db6d9cb509c86f124c09fae8e41426aa06fabf47afba2cedd8bb9&o=",
+      "rating": 7,
+      "reviews": 19,
+      "pricePerNightTry": 2672.2575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.9757935,
+      "lon": 151.1241767,
+      "distanceKm": 14.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/charming-double-room-prime-location-in-carlton-supermarkets-nearby-for-convenien.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/charming-double-room-prime-location-in-carlton-supermarkets-nearby-for-convenien.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13677938,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10689.03,
+        "displayNightlyTry": 2193.81,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 10689.03,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-13987147",
+      "name": "Twin Room in Great Earlwood Location Perfect for Travellers - EW4",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/673366483.jpg?k=56e286a5dc958d14dccc397d72366e2465e79911f548f0af8076cf4b51069fee&o=",
+      "rating": 3.2,
+      "reviews": 12,
+      "pricePerNightTry": 2674.085,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.9254655,
+      "lon": 151.134533,
+      "distanceKm": 9.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13987147,
+        "cityId": "sidney",
+        "lat": -33.9254655,
+        "lon": 151.134533,
+        "address": "134 Homer Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/twin-room-in-great-earlwood-location-perfect-for-travellers-ew4.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/twin-room-in-great-earlwood-location-perfect-for-travellers-ew4.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/twin-room-in-great-earlwood-location-perfect-for-travellers-ew4.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13987147,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9882.11,
+        "displayNightlyTry": 2035.58,
+        "excludedTaxesTry": 814.23,
+        "knownTotalTry": 10696.34,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1960107",
+      "name": "Secret Garden Backpackers, Sydney",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/80415128.jpg?k=cfc3e0c678c07793c9e6567c80c01133eb0e6894ee75a0ff94d3a5ee9e00f89a&o=",
+      "rating": 7.5,
+      "reviews": 1037,
+      "pricePerNightTry": 2707.315,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Dört Kişilik Karışık Yatakhanede 1 Yatak - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": -33.889918,
+      "lon": 151.2061779,
+      "distanceKm": 2.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1960107,
+        "cityId": "sidney",
+        "lat": -33.889918,
+        "lon": 151.2061779,
+        "address": "243-247 Cleveland Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/secret-garden-backpackers-sydney.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/secret-garden-backpackers-sydney.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/secret-garden-backpackers-sydney.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1960107,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9844.78,
+        "displayNightlyTry": 2461.19,
+        "excludedTaxesTry": 984.48,
+        "knownTotalTry": 10829.26,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Dört Kişilik Karışık Yatakhanede 1 Yatak - Ortak Banyolu",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17078772",
+      "name": "Spacious Queen Room Conveniently Located - CP11",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/907185909.jpg?k=7d93fa61c0a82bbfb1167f08a41b302deb839142160a095ea55dd5a3574e7531&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 2715.84,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.878566,
+      "lon": 151.1156268,
+      "distanceKm": 8.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17078772,
+        "cityId": "sidney",
+        "lat": -33.878566,
+        "lon": 151.1156268,
+        "address": "35 Young Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/spacious-queen-room-conveniently-located-cp11.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/spacious-queen-room-conveniently-located-cp11.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/spacious-queen-room-conveniently-located-cp11.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17078772,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10033.94,
+        "displayNightlyTry": 2073.53,
+        "excludedTaxesTry": 829.42,
+        "knownTotalTry": 10863.36,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16983404",
+      "name": "Comfortable Queen Room - Convenient Location - CP5",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/901448622.jpg?k=ec936edd340814dabffa02083124728c06e624a3f371bb68864ec00c2988dab8&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 2747.1575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.878566,
+      "lon": 151.1156268,
+      "distanceKm": 8.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16983404,
+        "cityId": "sidney",
+        "lat": -33.878566,
+        "lon": 151.1156268,
+        "address": "35 Young Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/comfortable-queen-room-convenient-location-cp5.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/comfortable-queen-room-convenient-location-cp5.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/comfortable-queen-room-convenient-location-cp5.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16983404,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10147.83,
+        "displayNightlyTry": 2102,
+        "excludedTaxesTry": 840.8,
+        "knownTotalTry": 10988.63,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16686131",
+      "name": "Double Bed Room with Easy Commute to Hurstville Station - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/884149960.jpg?k=5781448d09e05efddad259aaa3710116fb032364148cfa3ea60cc9f65e03158a&o=",
+      "rating": 5.5,
+      "reviews": 2,
+      "pricePerNightTry": 2778.0375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.9624014,
+      "lon": 151.0930483,
+      "distanceKm": 15.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/double-bed-room-with-easy-commute-to-hurstville-station-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/double-bed-room-with-easy-commute-to-hurstville-station-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16686131,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11112.15,
+        "displayNightlyTry": 2299.59,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 11112.15,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-14100262",
+      "name": "Double Room in Belmore - Ideal Stay with Great Convenience - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/680571994.jpg?k=c2be9372e94b400abace1f830e5a764bb348539e9b2d1baebb3950406502122f&o=",
+      "rating": 6.6,
+      "reviews": 51,
+      "pricePerNightTry": 2796.3925,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.9240657,
+      "lon": 151.0956727,
+      "distanceKm": 12.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/double-room-in-belmore-ideal-stay-with-great-convenience-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/double-room-in-belmore-ideal-stay-with-great-convenience-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14100262,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11185.57,
+        "displayNightlyTry": 2317.95,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 11185.57,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-16645357",
+      "name": "Double Bed Room - Easy Commute to Hurstville Station - Shared Bathroom",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/881650754.jpg?k=2f1cbc92f6441241f5a05d643ecadde8d9bc0e1ab5e6915cf29b74c7a2e6fe5e&o=",
+      "rating": 4,
+      "reviews": 4,
+      "pricePerNightTry": 2810.225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": -33.9624891,
+      "lon": 151.0931463,
+      "distanceKm": 15.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/double-bed-room-easy-commute-to-hurstville-station-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/double-bed-room-easy-commute-to-hurstville-station-shared-bathroom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16645357,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11240.9,
+        "displayNightlyTry": 2331.78,
+        "excludedTaxesTry": null,
+        "knownTotalTry": 11240.9,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ],
+        "disclaimer": "Ek ücret bilgisi sağlayıcıda doğrulanmalıdır."
+      }
+    },
+    {
+      "id": "booking-16243405",
+      "name": "London Gate Backpackers Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/871011147.jpg?k=ac00ab53222cdb5700458bb6f7059e0ae6c460ff93af2fd7054858707a1ac1ed&o=",
+      "rating": 5.4,
+      "reviews": 182,
+      "pricePerNightTry": 2818.49,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik/İki Yataklı Banyolu Oda",
+      "roomTypeTag": "hostel",
+      "lat": -33.8730019,
+      "lon": 151.2229417,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Potts Point, Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16243405,
+        "cityId": "sidney",
+        "lat": -33.8730019,
+        "lon": 151.2229417,
+        "address": "172-174 Victoria Street 1",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/london-gate-backpackers-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/london-gate-backpackers-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/london-gate-backpackers-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16243405,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10249.05,
+        "displayNightlyTry": 2562.26,
+        "excludedTaxesTry": 1024.91,
+        "knownTotalTry": 11273.96,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik/İki Yataklı Banyolu Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-14T13:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16983232",
+      "name": "Cozy Queen Room in Croydon - Train Station - CP2",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/901438738.jpg?k=06940c2011337f4b359364371f52d71f117e1c9ff5127dfbd515333102db55a2&o=",
+      "rating": 1,
+      "reviews": 2,
+      "pricePerNightTry": 2982.03,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.878566,
+      "lon": 151.1156268,
+      "distanceKm": 8.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16983232,
+        "cityId": "sidney",
+        "lat": -33.878566,
+        "lon": 151.1156268,
+        "address": "35 Young Street",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/cozy-queen-room-in-croydon-train-station-cp2.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/cozy-queen-room-in-croydon-train-station-cp2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/cozy-queen-room-in-croydon-train-station-cp2.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16983232,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10992.42,
+        "displayNightlyTry": 2339.25,
+        "excludedTaxesTry": 935.7,
+        "knownTotalTry": 11928.12,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-14T13:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16319625",
+      "name": "Room51",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/862276124.jpg?k=c98e508cd4bcf5cae9b052f2c374ccc7497d0539b99e45c4e2680c491740a75f&o=",
+      "rating": 3,
+      "reviews": 2,
+      "pricePerNightTry": 3069.0225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": -33.7852797,
+      "lon": 151.0868995,
+      "distanceKm": 14.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Sidney",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16319625,
+        "cityId": "sidney",
+        "lat": -33.7852797,
+        "lon": 151.0868995,
+        "address": "2 Vimiera Rd",
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "propertyPath": "/hotel/au/room51.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/au/room51.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/au/room51.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16319625,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11160.08,
+        "displayNightlyTry": 2790.02,
+        "excludedTaxesTry": 1116.01,
+        "knownTotalTry": 12276.09,
+        "checkedAt": "2026-10-23T18:51:27.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1360 @@
+{
+  "version": 1,
+  "cityId": "bath",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:50:19.711Z",
+  "hotels": [
+    {
+      "id": "booking-1203249",
+      "name": "Bath Backpackers",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/403064623.jpg?k=1db61d4b80cad6f661b8689d62c3555c793307c2e27293f6e422c7745b3d6c19&o=",
+      "rating": 8.8,
+      "reviews": 1717,
+      "pricePerNightTry": 2652.975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × 12 Yataklı Karışık Yatakhanede 1 Yatak",
+      "roomTypeTag": "hostel",
+      "lat": 51.3803373065081,
+      "lon": -2.35718965530396,
+      "distanceKm": 0.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath City Centre, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1203249,
+        "cityId": "bath",
+        "lat": 51.3803373065081,
+        "lon": -2.35718965530396,
+        "address": "13 Pierrepont Street",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/bath-backpackers-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/bath-backpackers-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/bath-backpackers-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1203249,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8843.25,
+        "displayNightlyTry": 2210.81,
+        "excludedTaxesTry": 1768.65,
+        "knownTotalTry": 10611.9,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "12 Yataklı Karışık Yatakhanede 1 Yatak",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7179668",
+      "name": "Bath YMCA Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/607068643.jpg?k=1a2a27022cb7e21c8d9e82d9fe8ee1e84b6d0f8275ffbb4f30d4afd5f57aa67d&o=",
+      "rating": 7.5,
+      "reviews": 3604,
+      "pricePerNightTry": 3101.16,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda - Ortak Banyo",
+      "roomTypeTag": "hostel",
+      "lat": 51.384969,
+      "lon": -2.360176,
+      "distanceKm": 0.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Artisan Quarter, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7179668,
+        "cityId": "bath",
+        "lat": 51.384969,
+        "lon": -2.360176,
+        "address": "International House Broad St Place",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/bath-ymca-bath.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/bath-ymca-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/bath-ymca-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7179668,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10189.52,
+        "displayNightlyTry": 2547.38,
+        "excludedTaxesTry": 2215.12,
+        "knownTotalTry": 12404.64,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda - Ortak Banyo"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-282901",
+      "name": "YHA Bath",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/36749684.jpg?k=5d0e3efe406df0b3b500cdce7d244169b08f13ca0150c4c8560d5892f82bf495&o=",
+      "rating": 8.1,
+      "reviews": 1361,
+      "pricePerNightTry": 3780.49,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "4 Bed Private Room Shared Bathroom",
+      "roomTypeTag": "hostel",
+      "lat": 51.3799909350037,
+      "lon": -2.34043657779694,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 282901,
+        "cityId": "bath",
+        "lat": 51.3799909350037,
+        "lon": -2.34043657779694,
+        "address": "Bathwick Hill",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/yha-bath-bath.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/yha-bath-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/yha-bath-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 282901,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12601.63,
+        "displayNightlyTry": 3150.41,
+        "excludedTaxesTry": 2520.33,
+        "knownTotalTry": 15121.96,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "4 Bed Private Room Shared Bathroom"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16914653",
+      "name": "Lamppost Villa",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/928264780.jpg?k=85441dcc3a7de3917d5d14a90345f1e8ebbee167971354b88617128152516fd7&o=",
+      "rating": 5.2,
+      "reviews": 28,
+      "pricePerNightTry": 4476.895,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.3839469,
+      "lon": -2.3701721,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Upper Town, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16914653,
+        "cityId": "bath",
+        "lat": 51.3839469,
+        "lon": -2.3701721,
+        "address": "United Kingdom 3 crescent gardens",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/lamp-post-villa.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/lamp-post-villa.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/lamp-post-villa.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16914653,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14922.98,
+        "displayNightlyTry": 3730.74,
+        "excludedTaxesTry": 2984.6,
+        "knownTotalTry": 17907.58,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-115603",
+      "name": "Brooks Guesthouse",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/13859733.jpg?k=49eba7145e34d3e6f2f162e07b24e1fd2b19d625ebdef8ef4b4c63dbdf781d31&o=",
+      "rating": 8.6,
+      "reviews": 1588,
+      "pricePerNightTry": 4902.6975,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Küçük Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.3840253560702,
+      "lon": -2.37155020236969,
+      "distanceKm": 0.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 115603,
+        "cityId": "bath",
+        "lat": 51.3840253560702,
+        "lon": -2.37155020236969,
+        "address": "1 Crescent Gardens, Upper Bristol Road",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/hotelstclair.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/hotelstclair.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/hotelstclair.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 115603,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16108.86,
+        "displayNightlyTry": 4027.21,
+        "excludedTaxesTry": 3501.93,
+        "knownTotalTry": 19610.79,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Küçük Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T00:00:00Z",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-115442",
+      "name": "Wentworth House - Free Parking",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/411089636.jpg?k=75489ce150c32bb5dec92ee95e86cf5085779ba52c263d4fd6542847ef82ab20&o=",
+      "rating": 6.9,
+      "reviews": 720,
+      "pricePerNightTry": 4991.2375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.3702909660363,
+      "lon": -2.36723721027374,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 115442,
+        "cityId": "bath",
+        "lat": 51.3702909660363,
+        "lon": -2.36723721027374,
+        "address": "106 Bloomfield Road",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/wentworthhouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/wentworthhouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/wentworthhouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 115442,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16399.8,
+        "displayNightlyTry": 4099.95,
+        "excludedTaxesTry": 3565.15,
+        "knownTotalTry": 19964.95,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-217129",
+      "name": "Holiday Inn Express Bath by IHG",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/890466918.jpg?k=fac1c3b87b50317fd25206a2ec46019a1fb056aaea2abb1967c83e391f23279c&o=",
+      "rating": 7.6,
+      "reviews": 5177,
+      "pricePerNightTry": 5040.6525,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standard Double Room with Free Hot Breakfast",
+      "roomTypeTag": "hotel",
+      "lat": 51.3805701725059,
+      "lon": -2.37378716468811,
+      "distanceKm": 1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 217129,
+        "cityId": "bath",
+        "lat": 51.3805701725059,
+        "lon": -2.37378716468811,
+        "address": "Lower Bristol Road, Brougham Hayes, North East Somerset",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/express-bath.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/express-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/express-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 217129,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16802.17,
+        "displayNightlyTry": 4200.54,
+        "excludedTaxesTry": 3360.44,
+        "knownTotalTry": 20162.61,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standard Double Room with Free Hot Breakfast"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-116986",
+      "name": "Old Mill Hotel & Lodge",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/357482646.jpg?k=0ab657915382dfb9c8729f444749368198f41a14b603e0ee605dae54e1c5853c&o=",
+      "rating": 7.2,
+      "reviews": 3289,
+      "pricePerNightTry": 5075.9675,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Old Mill Lodge - Basic Double Room",
+      "roomTypeTag": "hotel",
+      "lat": 51.4019332216244,
+      "lon": -2.32566833496094,
+      "distanceKm": 3.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 116986,
+        "cityId": "bath",
+        "lat": 51.4019332216244,
+        "lon": -2.32566833496094,
+        "address": "Toll Bridge Rd, Batheaston",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/tholdmillhotel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/tholdmillhotel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/tholdmillhotel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 116986,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16678.14,
+        "displayNightlyTry": 4169.54,
+        "excludedTaxesTry": 3625.73,
+        "knownTotalTry": 20303.87,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Old Mill Lodge - Basic Double Room"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-2806587",
+      "name": "Anabelle's Guest House",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/188598584.jpg?k=484be279cdfd18af6c57d64ca2602eb06078c0894407422770f7b178409e18b6&o=",
+      "rating": 8.5,
+      "reviews": 706,
+      "pricePerNightTry": 5252.89,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Double Room Third Floor Shared Bathroom",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.3791886948242,
+      "lon": -2.35717659940565,
+      "distanceKm": 0.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath City Centre, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2806587,
+        "cityId": "bath",
+        "lat": 51.3791886948242,
+        "lon": -2.35717659940565,
+        "address": "6 Manvers Street",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/anabelle-39-s-guest-house.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/anabelle-39-s-guest-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/anabelle-39-s-guest-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2806587,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 17509.63,
+        "displayNightlyTry": 4377.41,
+        "excludedTaxesTry": 3501.93,
+        "knownTotalTry": 21011.56,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Double Room Third Floor Shared Bathroom"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-15T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-221460",
+      "name": "Best Western Limpley Stoke Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/290027720.jpg?k=6b9991ae45448492b9f5a4852a5943b6ccdfb24827a056af2e7a61ab63fa2aac&o=",
+      "rating": 7.5,
+      "reviews": 3720,
+      "pricePerNightTry": 5372.275,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda - Sigara İçilmez",
+      "roomTypeTag": "hotel",
+      "lat": 51.3469555780085,
+      "lon": -2.31594264507294,
+      "distanceKm": 4.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 221460,
+        "cityId": "bath",
+        "lat": 51.3469555780085,
+        "lon": -2.31594264507294,
+        "address": "Woods Hill, Lower Limpley Stoke",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/limpleystokehotel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/limpleystokehotel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/limpleystokehotel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 221460,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 17907.58,
+        "displayNightlyTry": 4476.89,
+        "excludedTaxesTry": 3581.52,
+        "knownTotalTry": 21489.1,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda - Sigara İçilmez"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15305940",
+      "name": "For Students Only The Brook in Bath",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/780130369.jpg?k=5289fc78559d39f4097f4a8acb20a536a3c69b0d91952b1d53e4f50d92bf0cfe&o=",
+      "rating": 8.2,
+      "reviews": 46,
+      "pricePerNightTry": 5486.02,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 51.3819821664319,
+      "lon": -2.37924566321791,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15305940,
+        "cityId": "bath",
+        "lat": 51.3819821664319,
+        "lon": -2.37924566321791,
+        "address": "Lower Bristol Road",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/for-students-only-the-brook-in-bath.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/for-students-only-the-brook-in-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/for-students-only-the-brook-in-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15305940,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 19150.61,
+        "displayNightlyTry": 3212.45,
+        "excludedTaxesTry": 2793.47,
+        "knownTotalTry": 21944.08,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16024869",
+      "name": "The Richmond Arms Pub - Private Rooms",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/839572872.jpg?k=b9ee52c78960b797155d68a0d15c974cc67ce7dcee5d80200f78a791fc05759e&o=",
+      "rating": 8.6,
+      "reviews": 19,
+      "pricePerNightTry": 5523.16,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.3958279,
+      "lon": -2.3623867,
+      "distanceKm": 1.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16024869,
+        "cityId": "bath",
+        "lat": 51.3958279,
+        "lon": -2.3623867,
+        "address": "7 Richmond Place The Richmond Arms",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/the-richmond-arms-pub-private-rooms.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/the-richmond-arms-pub-private-rooms.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/the-richmond-arms-pub-private-rooms.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16024869,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 19018.51,
+        "displayNightlyTry": 3842.67,
+        "excludedTaxesTry": 3074.13,
+        "knownTotalTry": 22092.64,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-3722760",
+      "name": "The Z Hotel Bath",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/170467022.jpg?k=0e79f633292a22a3db2a2e277fd3dad64d3d425ed1fc273ceca23d30ec6f047d&o=",
+      "rating": 8.2,
+      "reviews": 11177,
+      "pricePerNightTry": 5561.295,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - Penceresiz",
+      "roomTypeTag": "hotel",
+      "lat": 51.381917,
+      "lon": -2.362413,
+      "distanceKm": 0.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath City Centre, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 3722760,
+        "cityId": "bath",
+        "lat": 51.381917,
+        "lon": -2.362413,
+        "address": "7 Saw Close",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/z-bath.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/z-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/z-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 3722760,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 18272.8,
+        "displayNightlyTry": 4568.2,
+        "excludedTaxesTry": 3972.38,
+        "knownTotalTry": 22245.18,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - Penceresiz"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-116990",
+      "name": "OYO Bailbrook Lodge, Bath",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/666429212.jpg?k=e00af9ca07ffff42e25552c553f8fde01a539722fb739e22afdc6fff13ffa099&o=",
+      "rating": 6.9,
+      "reviews": 1185,
+      "pricePerNightTry": 5782.715,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.3996658374873,
+      "lon": -2.33613967895508,
+      "distanceKm": 2.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 116990,
+        "cityId": "bath",
+        "lat": 51.3996658374873,
+        "lon": -2.33613967895508,
+        "address": "35-37 London Road West",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/bailbrooklodge.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/bailbrooklodge.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/bailbrooklodge.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 116990,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 19561.28,
+        "displayNightlyTry": 4461.97,
+        "excludedTaxesTry": 3569.58,
+        "knownTotalTry": 23130.86,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-6837134",
+      "name": "Lansdown Grove Hotel",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/894917469.jpg?k=8a1c176c176bb98898d3f45330c27355f2e0393b1e2d69229d30a1ec0040d720&o=",
+      "rating": 8.2,
+      "reviews": 5970,
+      "pricePerNightTry": 5959.575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "luxury",
+      "lat": 51.3903599321973,
+      "lon": -2.36404243418503,
+      "distanceKm": 1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 6837134,
+        "cityId": "bath",
+        "lat": 51.3903599321973,
+        "lon": -2.36404243418503,
+        "address": "Lansdown Road Lansdown Grove",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/lansdown-grove-bath.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/lansdown-grove-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/lansdown-grove-bath.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 6837134,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 19581.49,
+        "displayNightlyTry": 4895.37,
+        "excludedTaxesTry": 4256.81,
+        "knownTotalTry": 23838.3,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-3233955",
+      "name": "White Guest House",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/264962245.jpg?k=d88da649387ae31a40d9d25c42e6f64b64f7d6768c20095c8134a766fd917011&o=",
+      "rating": 9.5,
+      "reviews": 203,
+      "pricePerNightTry": 6267.65,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.37989,
+      "lon": -2.350508,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 3233955,
+        "cityId": "bath",
+        "lat": 51.37989,
+        "lon": -2.350508,
+        "address": "23 Pulteney Gardens",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/white-guest-house.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/white-guest-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/white-guest-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 3233955,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 20892.17,
+        "displayNightlyTry": 5223.04,
+        "excludedTaxesTry": 4178.43,
+        "knownTotalTry": 25070.6,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14111393",
+      "name": "New Crown Inn Bath",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/898471891.jpg?k=85d3032a8b6755d95a3283c0a0a446a21e2162ba5812e08adb2ffe3b8fd1f919&o=",
+      "rating": 8.5,
+      "reviews": 112,
+      "pricePerNightTry": 6267.65,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik veya İki Yataklı Oda - Bahçe Manzaralı",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.3857288957342,
+      "lon": -2.38872815729877,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14111393,
+        "cityId": "bath",
+        "lat": 51.3857288957342,
+        "lon": -2.38872815729877,
+        "address": "21 Newbridge Hill New Crown Inn",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/new-crown-inn-bath-and-north-east-somerset.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/new-crown-inn-bath-and-north-east-somerset.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/new-crown-inn-bath-and-north-east-somerset.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14111393,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 20892.17,
+        "displayNightlyTry": 5223.04,
+        "excludedTaxesTry": 4178.43,
+        "knownTotalTry": 25070.6,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik veya İki Yataklı Oda - Bahçe Manzaralı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-15T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-340596",
+      "name": "Henrietta House, a member of Radisson Individuals",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/593864431.jpg?k=8256312d26ec8e6fdf69f0ad51ac3cebdec151ba35187ecf5eea46807eb8bd5f&o=",
+      "rating": 8.3,
+      "reviews": 8112,
+      "pricePerNightTry": 6751.155,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Traditional Cosy Room",
+      "roomTypeTag": "luxury",
+      "lat": 51.3844011585148,
+      "lon": -2.35652714967728,
+      "distanceKm": 0.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath City Centre, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 340596,
+        "cityId": "bath",
+        "lat": 51.3844011585148,
+        "lon": -2.35652714967728,
+        "address": "27-29 Henrietta Street",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/henrietta-house.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/henrietta-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/henrietta-house.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 340596,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 22503.85,
+        "displayNightlyTry": 5625.96,
+        "excludedTaxesTry": 4500.77,
+        "knownTotalTry": 27004.62,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Traditional Cosy Room"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15614572",
+      "name": "Wentworth Studio - Spacious One-Bed Studio Near Royal Crescent",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/806460334.jpg?k=ac9e8bce96513aa4eca4e026e4a4c9667754efce921fd2df98cb550f55465f2d&o=",
+      "rating": 9.2,
+      "reviews": 15,
+      "pricePerNightTry": 6772.545,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 51.387649,
+      "lon": -2.3649067,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Upper Town, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15614572,
+        "cityId": "bath",
+        "lat": 51.387649,
+        "lon": -2.3649067,
+        "address": "13 Rivers Street First Floor Flat",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/new-wentworth-studio-spacious-one-bed-studio-near-royal-crescent.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/new-wentworth-studio-spacious-one-bed-studio-near-royal-crescent.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/new-wentworth-studio-spacious-one-bed-studio-near-royal-crescent.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15614572,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 22575.15,
+        "displayNightlyTry": 5643.79,
+        "excludedTaxesTry": 4515.03,
+        "knownTotalTry": 27090.18,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-08T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16171764",
+      "name": "Georgian Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/851733108.jpg?k=73ab79ccb418642081a2841ad1333f2a1577f2ddcd159f160db7efd35337911c&o=",
+      "rating": 6.6,
+      "reviews": 69,
+      "pricePerNightTry": 6773.375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Bahçe Manzaralı",
+      "roomTypeTag": "hotel",
+      "lat": 51.3996152729957,
+      "lon": -2.3360249433064,
+      "distanceKm": 2.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16171764,
+        "cityId": "bath",
+        "lat": 51.3996152729957,
+        "lon": -2.3360249433064,
+        "address": "35-37 London Road West",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/georgian-bath-and-north-east-somerset.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/georgian-bath-and-north-east-somerset.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/georgian-bath-and-north-east-somerset.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16171764,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 22577.92,
+        "displayNightlyTry": 5644.48,
+        "excludedTaxesTry": 4515.58,
+        "knownTotalTry": 27093.5,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Bahçe Manzaralı"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16640345",
+      "name": "central bath private flat",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/881356216.jpg?k=096dab0b09e202f83d67d2ac6b7904d8bb20525dfec30fdbe12126ad85604d85&o=",
+      "rating": 7.7,
+      "reviews": 14,
+      "pricePerNightTry": 6930.895,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 51.392993,
+      "lon": -2.3528198,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16640345,
+        "cityId": "bath",
+        "lat": 51.392993,
+        "lon": -2.3528198,
+        "address": "4 Kensington court",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/central-bath-private-flat.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/central-bath-private-flat.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/central-bath-private-flat.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16640345,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23545.15,
+        "displayNightlyTry": 5223.04,
+        "excludedTaxesTry": 4178.43,
+        "knownTotalTry": 27723.58,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-245272",
+      "name": "The Cedars",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/19294767.jpg?k=86765691e7b61f0f56271d9ea8500184e150be5447f7508e893f05387a3c9fe7&o=",
+      "rating": 9.4,
+      "reviews": 494,
+      "pricePerNightTry": 6964.055,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 51.4008890675418,
+      "lon": -2.30678021907806,
+      "distanceKm": 4.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 245272,
+        "cityId": "bath",
+        "lat": 51.4008890675418,
+        "lon": -2.30678021907806,
+        "address": "4 Bathford Hill",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/the-cedars-bed-breakfast.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/the-cedars-bed-breakfast.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/the-cedars-bed-breakfast.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 245272,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23213.52,
+        "displayNightlyTry": 5803.38,
+        "excludedTaxesTry": 4642.7,
+        "knownTotalTry": 27856.22,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14565915",
+      "name": "Monmouth Apartments",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/747266714.jpg?k=155c7067898d709bfae46ede52c77ef523fe84dc07e52cf99e6fa158015c84a1&o=",
+      "rating": 9.2,
+      "reviews": 28,
+      "pricePerNightTry": 7025.74,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 51.3829782,
+      "lon": -2.3670628,
+      "distanceKm": 0.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14565915,
+        "cityId": "bath",
+        "lat": 51.3829782,
+        "lon": -2.3670628,
+        "address": "3 Monmouth Place",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/monmouth-apartments.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/monmouth-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/monmouth-apartments.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14565915,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23419.13,
+        "displayNightlyTry": 5854.78,
+        "excludedTaxesTry": 4683.83,
+        "knownTotalTry": 28102.96,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9030418",
+      "name": "Silcox House Bath",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/528491195.jpg?k=3baa818bba32c41addc61b9c10f7c4951169b0292fd6d04f280618d1c8f7d02b&o=",
+      "rating": 8.2,
+      "reviews": 1072,
+      "pricePerNightTry": 7096.7075,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Superior Daire",
+      "roomTypeTag": "apartment",
+      "lat": 51.38116786587,
+      "lon": -2.363947028273,
+      "distanceKm": 0.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath City Centre, Bath",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9030418,
+        "cityId": "bath",
+        "lat": 51.38116786587,
+        "lon": -2.363947028273,
+        "address": "5-7 New Street",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/cosy-upmarket-2-bed-apartment-city-centre.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/cosy-upmarket-2-bed-apartment-city-centre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/cosy-upmarket-2-bed-apartment-city-centre.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9030418,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23876.77,
+        "displayNightlyTry": 5637.57,
+        "excludedTaxesTry": 4510.06,
+        "knownTotalTry": 28386.83,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Superior Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T00:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-243709",
+      "name": "The Oakhill Inn",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/919576406.jpg?k=73b8111c45112208ceb6cbfd0a5178157312dfdf810051270ec80e067e7d15c8&o=",
+      "rating": 9,
+      "reviews": 604,
+      "pricePerNightTry": 7192.875,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Özel Banyolu ",
+      "roomTypeTag": "luxury",
+      "lat": 51.2221143,
+      "lon": -2.51596960000006,
+      "distanceKm": 20.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Bath",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 243709,
+        "cityId": "bath",
+        "lat": 51.2221143,
+        "lon": -2.51596960000006,
+        "address": "Fosse Road",
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "propertyPath": "/hotel/gb/the-oakhill-inn.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/gb/the-oakhill-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/gb/the-oakhill-inn.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 243709,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23976.25,
+        "displayNightlyTry": 5994.06,
+        "excludedTaxesTry": 4795.25,
+        "knownTotalTry": 28771.5,
+        "checkedAt": "2026-10-23T18:50:19.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Özel Banyolu "
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-08T00:00:00Z",
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    }
+  ]
+}

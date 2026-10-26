@@ -1,0 +1,1330 @@
+{
+  "version": 1,
+  "cityId": "pattaya",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:51:01.804Z",
+  "hotels": [
+    {
+      "id": "booking-12723729",
+      "name": "Friends Station Tukkom Hostel & Cafe",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/593175697.jpg?k=0a4866aedf1b414a88e9e80922a4ffd6d88027a7dc5354cf30ce897e4289d89b&o=",
+      "rating": 7.3,
+      "reviews": 391,
+      "pricePerNightTry": 516.505,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hostel",
+      "lat": 12.9221887454273,
+      "lon": 100.878700952659,
+      "distanceKm": 1.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Güney Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12723729,
+        "cityId": "pattaya",
+        "lat": 12.9221887454273,
+        "lon": 100.878700952659,
+        "address": "Pattaya Nongprue Banglamund Chonburi province 20150, Village 10 , TukKom area 20/278-20/279 Village 10",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/hostel-friendsstationtukkom.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/hostel-friendsstationtukkom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/hostel-friendsstationtukkom.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12723729,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1930.86,
+        "excludedTaxesTry": 135.16,
+        "knownTotalTry": 2066.02,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13611435",
+      "name": "Bed & Breakfast Pattaya",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/647982538.jpg?k=eea0079b7e8b6d2cf5857b8c68b45e15d17ae3a5ea11e366283a827fbdf3e7a3&o=",
+      "rating": 4,
+      "reviews": 34,
+      "pricePerNightTry": 523.1425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.9357761844168,
+      "lon": 100.892662180765,
+      "distanceKm": 0.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13611435,
+        "cityId": "pattaya",
+        "lat": 12.9357761844168,
+        "lon": 100.892662180765,
+        "address": "Pattaya 245/135-136 moo 9",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/bed-amp-breakfast-pattaya.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/bed-amp-breakfast-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/bed-amp-breakfast-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13611435,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 1955.67,
+        "excludedTaxesTry": 136.9,
+        "knownTotalTry": 2092.57,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14272613",
+      "name": "European Hostel Central Pattaya",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/690712488.jpg?k=2990dcd79a68494cb943d2f91c42199f62094f288f50e2eeb4b4e3eb5505d2f3&o=",
+      "rating": 5.6,
+      "reviews": 150,
+      "pricePerNightTry": 559.18,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Karma Yatakhanede Tek Kişilik Yatak",
+      "roomTypeTag": "hostel",
+      "lat": 12.9369091,
+      "lon": 100.8954183,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14272613,
+        "cityId": "pattaya",
+        "lat": 12.9369091,
+        "lon": 100.8954183,
+        "address": "European Hostel Central Pattaya",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/european-hostel-central-pattaya.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/european-hostel-central-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/european-hostel-central-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14272613,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2090.39,
+        "excludedTaxesTry": 146.33,
+        "knownTotalTry": 2236.72,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Karma Yatakhanede Tek Kişilik Yatak",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12854714",
+      "name": "Green Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/926055298.jpg?k=cc2eff052580fc714b72a642a8ef09e3b489bdb5d9526fb0a81cb7a39f78ebd3&o=",
+      "rating": 6.6,
+      "reviews": 30,
+      "pricePerNightTry": 647.4725,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.9231667,
+      "lon": 100.8829847,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Güney Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12854714,
+        "cityId": "pattaya",
+        "lat": 12.9231667,
+        "lon": 100.8829847,
+        "address": "Green Hotel Pattaya",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/green.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/green.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/green.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12854714,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2420.46,
+        "excludedTaxesTry": 169.43,
+        "knownTotalTry": 2589.89,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T17:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15674324",
+      "name": "room 102 in Wanna Apt",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/811150776.jpg?k=b286520c47acd073cf7dc6147ca4639880d40fe702158e1b3f27df6dbd6ed8ad&o=",
+      "rating": 6.4,
+      "reviews": 8,
+      "pricePerNightTry": 662.1875,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 12.9334939,
+      "lon": 100.8925495,
+      "distanceKm": 0.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15674324,
+        "cityId": "pattaya",
+        "lat": 12.9334939,
+        "lon": 100.8925495,
+        "address": "We residence 87/43 m.9 floor1",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/room-102-in-wanna-apt.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/room-102-in-wanna-apt.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/room-102-in-wanna-apt.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15674324,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2475.47,
+        "excludedTaxesTry": 173.28,
+        "knownTotalTry": 2648.75,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10058207",
+      "name": "Pluemchai Guesthouse",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/505175518.jpg?k=ce117c26c98ed2a7780a3f15764679b66a1d902ba5e96848dc69253a97b5bafb&o=",
+      "rating": 7.9,
+      "reviews": 293,
+      "pricePerNightTry": 677.01,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.8978678955526,
+      "lon": 100.869279749479,
+      "distanceKm": 4.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Jomtien Plajı",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10058207,
+        "cityId": "pattaya",
+        "lat": 12.8978678955526,
+        "lon": 100.869279749479,
+        "address": "Soi 2 chomtien",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/chai-ben-guesthouse-pattaya.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/chai-ben-guesthouse-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/chai-ben-guesthouse-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10058207,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2516.56,
+        "excludedTaxesTry": 191.48,
+        "knownTotalTry": 2708.04,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15915871",
+      "name": "Palette Luxe Jomtien Beach Pattaya",
+      "stars": 5,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/920670775.jpg?k=27a8caab5625ce9bd5c2d9ee693b953bc528d66457fd4ec95f5bc779dcaa646a&o=",
+      "rating": 5.5,
+      "reviews": 97,
+      "pricePerNightTry": 687.63,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe Çift Kişilik Oda",
+      "roomTypeTag": "luxury",
+      "lat": 12.8647336484442,
+      "lon": 100.896580817474,
+      "distanceKm": 7.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Jomtien Plajı",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15915871,
+        "cityId": "pattaya",
+        "lat": 12.8647336484442,
+        "lon": 100.896580817474,
+        "address": "79 Moo 1, Na Chom Thian Subdistrict, Sattahip District, Chonburi, Pattaya",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/oyo-75625-palette-luxe-jomtien-beach-pattaya.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/oyo-75625-palette-luxe-jomtien-beach-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/oyo-75625-palette-luxe-jomtien-beach-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15915871,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2570.58,
+        "excludedTaxesTry": 179.94,
+        "knownTotalTry": 2750.52,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T17:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15185083",
+      "name": "Mai Precious suites",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/769961426.jpg?k=fa1652d42de12d556fb11ca4d382739150bea2da6e84e4075674bbfca7074222&o=",
+      "rating": 1,
+      "reviews": 3,
+      "pricePerNightTry": 687.94,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 12.916521,
+      "lon": 100.879535,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Güney Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15185083,
+        "cityId": "pattaya",
+        "lat": 12.916521,
+        "lon": 100.879535,
+        "address": "85 Regional Land 584-85",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/mai-precious-clinic-upper-suites.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/mai-precious-clinic-upper-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/mai-precious-clinic-upper-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15185083,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2571.74,
+        "excludedTaxesTry": 180.02,
+        "knownTotalTry": 2751.76,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14443555",
+      "name": "Chanya room rent",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/794844249.jpg?k=dab0588272b90e64b15d68de3d067b08cb16436e7de61323179d151083592545&o=",
+      "rating": 1,
+      "reviews": 5,
+      "pricePerNightTry": 701.9175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 12.9354615216839,
+      "lon": 100.887098543897,
+      "distanceKm": 0.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14443555,
+        "cityId": "pattaya",
+        "lat": 12.9354615216839,
+        "lon": 100.887098543897,
+        "address": "พัทยาใต้ซอย16",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/dragon-hengheng-room-rent.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/dragon-hengheng-room-rent.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/dragon-hengheng-room-rent.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14443555,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2623.99,
+        "excludedTaxesTry": 183.68,
+        "knownTotalTry": 2807.67,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14130156",
+      "name": "MN Stay Budget Room near LK Metro Pattaya",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/681819230.jpg?k=06b82a76e09b6e5b5d5792adbc00a86a17823399198818fe708851303e10d95d&o=",
+      "rating": 10,
+      "reviews": 1,
+      "pricePerNightTry": 706.3325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 12.923594,
+      "lon": 100.8824376,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14130156,
+        "cityId": "pattaya",
+        "lat": 12.923594,
+        "lon": 100.8824376,
+        "address": "เมืองพัทยา 198/5",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/1-bedroom-great-location10mins-walk-to-beach.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/1-bedroom-great-location10mins-walk-to-beach.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/1-bedroom-great-location10mins-walk-to-beach.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14130156,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2640.5,
+        "excludedTaxesTry": 184.83,
+        "knownTotalTry": 2825.33,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-16T17:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15994252",
+      "name": "Destiny Hostel Pattaya",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/905465323.jpg?k=29b664ccfdd361141783de463272be87a8bbb953941157dac9552a6e42a63395&o=",
+      "rating": 6.1,
+      "reviews": 8,
+      "pricePerNightTry": 712.22,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Karma Yatakhane",
+      "roomTypeTag": "hostel",
+      "lat": 12.904046,
+      "lon": 100.8695009,
+      "distanceKm": 4.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Jomtien Plajı",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15994252,
+        "cityId": "pattaya",
+        "lat": 12.904046,
+        "lon": 100.8695009,
+        "address": "Destiny Hostel Pattaya 315/155 Moo 12, Thappraya Road,",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/destiny-hostel-pattaya.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/destiny-hostel-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/destiny-hostel-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15994252,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2662.5,
+        "excludedTaxesTry": 186.38,
+        "knownTotalTry": 2848.88,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Karma Yatakhane",
+            "unitType": "Paylaşımlı yatakhane odası"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-13023193",
+      "name": "Sleep like a baby Hostel Pattaya",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/609029752.jpg?k=a0751281a9da8d41f1907c94682c4a7864ceb98be017a667698362c4f4823129&o=",
+      "rating": 9,
+      "reviews": 134,
+      "pricePerNightTry": 728.405,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "hostel",
+      "lat": 12.9082179,
+      "lon": 100.894095,
+      "distanceKm": 3.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Jomtien Plajı",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13023193,
+        "cityId": "pattaya",
+        "lat": 12.9082179,
+        "lon": 100.894095,
+        "address": "207 ซอย เคหะพัทยา 2",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/sleep-like-a-baby-hostel-pattaya.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/sleep-like-a-baby-hostel-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/sleep-like-a-baby-hostel-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13023193,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2723.01,
+        "excludedTaxesTry": 190.61,
+        "knownTotalTry": 2913.62,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17272451",
+      "name": "Tulip Residence",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/918719457.jpg?k=a667e4bf425e7520b8acac16ecfe5fd9c5e270d548a000f4da7304ac090e8c6c&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 728.405,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 12.9119068037709,
+      "lon": 100.869937541752,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Güney Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17272451,
+        "cityId": "pattaya",
+        "lat": 12.9119068037709,
+        "lon": 100.869937541752,
+        "address": "144/64-65, Village No. 12, Nong Prue Subdistrict, Bang Lamung District,Chonburi.20150",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/tulip-residence.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/tulip-residence.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/tulip-residence.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17272451,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2723.01,
+        "excludedTaxesTry": 190.61,
+        "knownTotalTry": 2913.62,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T17:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16514924",
+      "name": "Welcome Suites",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/872517893.jpg?k=e1ca031ae9cf46afb7cc70fe87ca29a850b9f77d16b2d3127863ca7d1a560dd1&o=",
+      "rating": 0,
+      "reviews": 0,
+      "pricePerNightTry": 728.405,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.920159,
+      "lon": 100.8772513,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Güney Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16514924,
+        "cityId": "pattaya",
+        "lat": 12.920159,
+        "lon": 100.8772513,
+        "address": "Welcome Suites",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/welcome-suites.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/welcome-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/welcome-suites.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16514924,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2723.01,
+        "excludedTaxesTry": 190.61,
+        "knownTotalTry": 2913.62,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15342193",
+      "name": "106 Wanna APT Soi 10",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/783219398.jpg?k=18cef25ad9a69bc436655d703dfb068610fa10687477cb538fdaedec6e106e16&o=",
+      "rating": 6.8,
+      "reviews": 7,
+      "pricePerNightTry": 728.405,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 12.9334939,
+      "lon": 100.8925495,
+      "distanceKm": 0.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15342193,
+        "cityId": "pattaya",
+        "lat": 12.9334939,
+        "lon": 100.8925495,
+        "address": "We residence",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/106-wanna-apt-soi-10.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/106-wanna-apt-soi-10.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/106-wanna-apt-soi-10.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15342193,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2723.01,
+        "excludedTaxesTry": 190.61,
+        "knownTotalTry": 2913.62,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1737888",
+      "name": "BB Grand Residence",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/66161325.jpg?k=5551958f2c6c361c7688d5e3163cbdff9ed1e07d969c00cde025dad6c40d8dec&o=",
+      "rating": 6.1,
+      "reviews": 122,
+      "pricePerNightTry": 735.765,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.9396668266809,
+      "lon": 100.899124145508,
+      "distanceKm": 1.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1737888,
+        "cityId": "pattaya",
+        "lat": 12.9396668266809,
+        "lon": 100.899124145508,
+        "address": "159/287 Moo 9, Nongprue, Bangramung,Pattaya, Chonburi",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/bb-grand-residence.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/bb-grand-residence.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/bb-grand-residence.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1737888,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2750.52,
+        "excludedTaxesTry": 192.54,
+        "knownTotalTry": 2943.06,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-14T17:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13781015",
+      "name": "Naza Orchid Pattaya",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/717535660.jpg?k=8e70cce4e3f8a71159c5b13ec93f763d454cb18e8c3b82ed2f62ac48ab75bebb&o=",
+      "rating": 5.1,
+      "reviews": 39,
+      "pricePerNightTry": 735.765,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Superior Stüdyo",
+      "roomTypeTag": "hotel",
+      "lat": 12.9205631,
+      "lon": 100.8731434,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Güney Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13781015,
+        "cityId": "pattaya",
+        "lat": 12.9205631,
+        "lon": 100.8731434,
+        "address": "Naza Orchid 489/46 Moo 10 Nongprue 3rd road",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/naza-orchid-pattaya-pattaya.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/naza-orchid-pattaya-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/naza-orchid-pattaya-pattaya.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13781015,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2750.52,
+        "excludedTaxesTry": 192.54,
+        "knownTotalTry": 2943.06,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Superior Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T17:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9478106",
+      "name": "High5 Guesthouse",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/420183116.jpg?k=4cd26446f4bb1b84d14e9208bc17d606f0c67d226f3e9959ac5067ee87bfbdb5&o=",
+      "rating": 7.1,
+      "reviews": 278,
+      "pricePerNightTry": 741.65,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.928506,
+      "lon": 100.886471,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9478106,
+        "cityId": "pattaya",
+        "lat": 12.928506,
+        "lon": 100.886471,
+        "address": "383/89-90 Soi Chalermphrakiat 25 Nongprue, Banglamung",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/high5-guesthouse.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/high5-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/high5-guesthouse.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9478106,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2772.52,
+        "excludedTaxesTry": 194.08,
+        "knownTotalTry": 2966.6,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-12327976",
+      "name": "Sleep Owl Jomtien",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/580475440.jpg?k=a6f0d4705c951e21f64ac7c4b2e56a92fbda6dd524fe5da5e0051fd71e3ef08a&o=",
+      "rating": 6.3,
+      "reviews": 190,
+      "pricePerNightTry": 756.2475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "hotel",
+      "lat": 12.897655052704,
+      "lon": 100.869539732164,
+      "distanceKm": 4.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Jomtien Plajı",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12327976,
+        "cityId": "pattaya",
+        "lat": 12.897655052704,
+        "lon": 100.869539732164,
+        "address": "144/96 หมู่12 จอมเทียนซอย3 ต.หนองปรือ อ.บางละมุง  จ.ชลบุรี",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/sleep-owl-jomtien.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/sleep-owl-jomtien.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/sleep-owl-jomtien.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12327976,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2827.09,
+        "excludedTaxesTry": 197.9,
+        "knownTotalTry": 3024.99,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-5839982",
+      "name": "OYO 458 Nakorn Siam Boutique",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/666452398.jpg?k=c01cda5acaf2e07e15c3c1e95613ce499798719d57de9c897b2423220a0fc3bb&o=",
+      "rating": 7.6,
+      "reviews": 346,
+      "pricePerNightTry": 761.4,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Superior Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.9275699907852,
+      "lon": 100.889836156827,
+      "distanceKm": 0.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 5839982,
+        "cityId": "pattaya",
+        "lat": 12.9275699907852,
+        "lon": 100.889836156827,
+        "address": "417/698 Moo 1 Nongpure Banglamung Chonburi 20150",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/nakorn-siam-boutique.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/nakorn-siam-boutique.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/nakorn-siam-boutique.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 5839982,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2851.79,
+        "excludedTaxesTry": 193.81,
+        "knownTotalTry": 3045.6,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Superior Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T17:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-8570776",
+      "name": "Jomtien Beach Hostel - Soi 7 Prime Spot - 200m to Beach next to Food Market",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/501471042.jpg?k=d328e8322cb1609c14234eae28eb33b9183ffcae837e5eaa534878d7d23ff37a&o=",
+      "rating": 6.6,
+      "reviews": 536,
+      "pricePerNightTry": 768.1375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Karma Yatakhanede Ranza",
+      "roomTypeTag": "hostel",
+      "lat": 12.8977344180105,
+      "lon": 100.872589758595,
+      "distanceKm": 4.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Jomtien Plajı",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 8570776,
+        "cityId": "pattaya",
+        "lat": 12.8977344180105,
+        "lon": 100.872589758595,
+        "address": "Soi Chom Thian 7",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/scandia-beach-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/scandia-beach-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/scandia-beach-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 8570776,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2871.54,
+        "excludedTaxesTry": 201.01,
+        "knownTotalTry": 3072.55,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Karma Yatakhanede Ranza",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-9467563",
+      "name": "107 wanna Apartment pattaya",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/419522368.jpg?k=703cc881ae4eb39db9b6519ccf6f26e8bbcd7befe9a2fee958dc64ae2032df7a&o=",
+      "rating": 6.6,
+      "reviews": 15,
+      "pricePerNightTry": 768.8725,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 12.9335126251373,
+      "lon": 100.892558078391,
+      "distanceKm": 0.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9467563,
+        "cityId": "pattaya",
+        "lat": 12.9335126251373,
+        "lon": 100.892558078391,
+        "address": "87 Moo 9 Nongprue",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/107-central-pattaya-close-to-etc-emuue-ngphathyaa.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/107-central-pattaya-close-to-etc-emuue-ngphathyaa.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/107-central-pattaya-close-to-etc-emuue-ngphathyaa.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9467563,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2874.29,
+        "excludedTaxesTry": 201.2,
+        "knownTotalTry": 3075.49,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9891195",
+      "name": "Hostel Banamphur - Sleep like a baby",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/449010537.jpg?k=397603de6c1f8076f14cd9562fe90366e809f7bf914e79548e14d176549b315a&o=",
+      "rating": 5.8,
+      "reviews": 25,
+      "pricePerNightTry": 771.52,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 12.814842039367,
+      "lon": 100.914593266671,
+      "distanceKm": 13.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Na Jomtien",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9891195,
+        "cityId": "pattaya",
+        "lat": 12.814842039367,
+        "lon": 100.914593266671,
+        "address": "52/5 หมู่3 ตำบลนาจอมเทียน อำเภอสัตหีบ จังหวัดชลบุรี",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/sleep-like-a-baby-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/sleep-like-a-baby-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/sleep-like-a-baby-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9891195,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2884.19,
+        "excludedTaxesTry": 201.89,
+        "knownTotalTry": 3086.08,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15284789",
+      "name": "The Rich Cafe & Hostel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/884027827.jpg?k=6544c257294a19853d46dc684a7d57667f994cb9dd5fdfd7ea5c29fd9c98ccea&o=",
+      "rating": 9.5,
+      "reviews": 7,
+      "pricePerNightTry": 785.8475,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Erkek Yatakhane Odasında Ranza ",
+      "roomTypeTag": "hotel",
+      "lat": 12.9091693805901,
+      "lon": 100.894225620281,
+      "distanceKm": 3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Güney Pattaya",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15284789,
+        "cityId": "pattaya",
+        "lat": 12.9091693805901,
+        "lon": 100.894225620281,
+        "address": "189/72-73 ม.11 The Rich Cafe & Hostel",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/the-rich-cafe-amp-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/the-rich-cafe-amp-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/the-rich-cafe-amp-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15284789,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2937.75,
+        "excludedTaxesTry": 205.64,
+        "knownTotalTry": 3143.39,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Erkek Yatakhane Odasında Ranza ",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-10924476",
+      "name": "Kunaeng ครัวกันเอง รีสอร์ท",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/499458148.jpg?k=012752171074778b0666d699c3ceb83529d538936ec2f10c897110fd4d2f21f8&o=",
+      "rating": 8.7,
+      "reviews": 22,
+      "pricePerNightTry": 801.63,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Ev",
+      "roomTypeTag": "hotel",
+      "lat": 12.978838689504,
+      "lon": 100.946782556479,
+      "distanceKm": 7.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Ban Nong Pla Lai",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 10924476,
+        "cityId": "pattaya",
+        "lat": 12.978838689504,
+        "lon": 100.946782556479,
+        "address": "ซอย หนองเกตุใหญ่7",
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "propertyPath": "/hotel/th/kunaeng-kane-ng-riis-rth.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/th/kunaeng-kane-ng-riis-rth.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/th/kunaeng-kane-ng-riis-rth.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 10924476,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 2740.62,
+        "excludedTaxesTry": 465.9,
+        "knownTotalTry": 3206.52,
+        "checkedAt": "2026-10-23T18:51:00.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Ev",
+            "unitType": "Tatil evinin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    }
+  ]
+}

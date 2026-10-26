@@ -1,0 +1,1356 @@
+{
+  "version": 1,
+  "cityId": "stockholm",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:49:54.162Z",
+  "hotels": [
+    {
+      "id": "booking-276099",
+      "name": "Crafoord Place Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/518908026.jpg?k=392fa4d94f8bcc08b6423e8fad389192a6d07677abaadc55b68aea8f8f27654c&o=",
+      "rating": 8.4,
+      "reviews": 1457,
+      "pricePerNightTry": 2417.9875,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × 10 Yataklı Karma Yatakhanede 1 Yatak",
+      "roomTypeTag": "hostel",
+      "lat": 59.337364,
+      "lon": 18.046105,
+      "distanceKm": 1.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Vasastan, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 276099,
+        "cityId": "stockholm",
+        "lat": 59.337364,
+        "lon": 18.046105,
+        "address": "Hälsobrunnsgatan 10",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/craafoord-place-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/craafoord-place-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/craafoord-place-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 276099,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8555.95,
+        "displayNightlyTry": 2138.99,
+        "excludedTaxesTry": 1116,
+        "knownTotalTry": 9671.95,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "10 Yataklı Karma Yatakhanede 1 Yatak",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-392429",
+      "name": "Den Röda Båten",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/220016191.jpg?k=762b90b7ea41fa869d025e86b9963388a8c106afbd374990c508df0715dc5a7d&o=",
+      "rating": 8.3,
+      "reviews": 4256,
+      "pricePerNightTry": 2535.14,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Teknede Ekonomik Kamara (2 Yetişkin)",
+      "roomTypeTag": "hotel",
+      "lat": 59.3213503409573,
+      "lon": 18.0616448074579,
+      "distanceKm": 1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 392429,
+        "cityId": "stockholm",
+        "lat": 59.3213503409573,
+        "lon": 18.0616448074579,
+        "address": "Södermälarstrand kajplats 10",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/den-rapda-bay-ten.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/den-rapda-bay-ten.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/den-rapda-bay-ten.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 392429,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9054.07,
+        "displayNightlyTry": 2263.52,
+        "excludedTaxesTry": 1086.49,
+        "knownTotalTry": 10140.56,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Teknede Ekonomik Kamara (2 Yetişkin)"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-279300",
+      "name": "Rygerfjord Hotel & Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/576801764.jpg?k=c5b3a6b78edfd1a5b3505485e1dc981ecb201fd4c5215cd200e5cfc977218bfe&o=",
+      "rating": 8.2,
+      "reviews": 6494,
+      "pricePerNightTry": 2585.4775,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Kamara - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 59.321369637139,
+      "lon": 18.059097379446,
+      "distanceKm": 1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 279300,
+        "cityId": "stockholm",
+        "lat": 59.321369637139,
+        "lon": 18.059097379446,
+        "address": "Södermälarstrand, Kajplats 12-14",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/rygerfjord-and-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/rygerfjord-and-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/rygerfjord-and-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 279300,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9148.61,
+        "displayNightlyTry": 2287.15,
+        "excludedTaxesTry": 1193.3,
+        "knownTotalTry": 10341.91,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Kamara - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-257235",
+      "name": "Mosebacke Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/77533632.jpg?k=288c2eb6cdcff3e5536be4a27d391d4f5b9650f2b646c2dec044d6a34cc5656d&o=",
+      "rating": 6.7,
+      "reviews": 5344,
+      "pricePerNightTry": 2633.44,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Ortak Banyolu Oda (Penceresiz)",
+      "roomTypeTag": "hostel",
+      "lat": 59.3171077595375,
+      "lon": 18.075884655118,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 257235,
+        "cityId": "stockholm",
+        "lat": 59.3171077595375,
+        "lon": 18.075884655118,
+        "address": "Högbergsgatan 26",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/mosebacke-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/mosebacke-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/mosebacke-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 257235,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9405.14,
+        "displayNightlyTry": 2351.29,
+        "excludedTaxesTry": 1128.62,
+        "knownTotalTry": 10533.76,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Ortak Banyolu Oda (Penceresiz)"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T23:00:00Z",
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-277080",
+      "name": "Stockholm Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/79773013.jpg?k=13c274a90a81cd7671cec38d1b2e380650341cea259993e7391aeaae73fad6b8&o=",
+      "rating": 7.8,
+      "reviews": 1959,
+      "pricePerNightTry": 2985.9075,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Twin Room with Private Bathroom - No Window",
+      "roomTypeTag": "hostel",
+      "lat": 59.3356819161131,
+      "lon": 18.0307967215776,
+      "distanceKm": 2.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kungsholmen, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 277080,
+        "cityId": "stockholm",
+        "lat": 59.3356819161131,
+        "lon": 18.0307967215776,
+        "address": "Alströmergatan 15",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/stockholm-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/stockholm-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/stockholm-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 277080,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10565.52,
+        "displayNightlyTry": 2641.38,
+        "excludedTaxesTry": 1378.11,
+        "knownTotalTry": 11943.63,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Twin Room with Private Bathroom - No Window"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-255618",
+      "name": "Grad Hotel and Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/712698697.jpg?k=fa460725092a54162b11ce0478932449e9de84cca4d04af6cc03534756c62903&o=",
+      "rating": 7,
+      "reviews": 3279,
+      "pricePerNightTry": 3075.4725,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyo (Penceresiz)",
+      "roomTypeTag": "hostel",
+      "lat": 59.3376599088209,
+      "lon": 18.0562844127417,
+      "distanceKm": 1.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Norrmalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 255618,
+        "cityId": "stockholm",
+        "lat": 59.3376599088209,
+        "lon": 18.0562844127417,
+        "address": "Kammakargatan 46",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/grad-hotel-and-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/grad-hotel-and-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/grad-hotel-and-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 255618,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10882.44,
+        "displayNightlyTry": 2720.61,
+        "excludedTaxesTry": 1419.45,
+        "knownTotalTry": 12301.89,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyo (Penceresiz)"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-391910",
+      "name": "Svea Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/670151571.jpg?k=e3908dd656dc1101d7829bbb45720d011c7b345731a9bfe2e3d702243cefaea2&o=",
+      "rating": 7.6,
+      "reviews": 468,
+      "pricePerNightTry": 3174.2375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 59.3422699903758,
+      "lon": 18.0578172951937,
+      "distanceKm": 1.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Vasastan, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 391910,
+        "cityId": "stockholm",
+        "lat": 59.3422699903758,
+        "lon": 18.0578172951937,
+        "address": "Rehnsgatan 21",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/svea-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/svea-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/svea-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 391910,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11336.56,
+        "displayNightlyTry": 2834.14,
+        "excludedTaxesTry": 1360.39,
+        "knownTotalTry": 12696.95,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1016390",
+      "name": "City Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/86721939.jpg?k=04b915a8abede6264128af4eb31447b926367d34c21a9541c9162736e3bb1d4f&o=",
+      "rating": 8,
+      "reviews": 2589,
+      "pricePerNightTry": 3239.0375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 59.3327734,
+      "lon": 18.0448087,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kungsholmen, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1016390,
+        "cityId": "stockholm",
+        "lat": 59.3327734,
+        "lon": 18.0448087,
+        "address": "Fleminggatan 19",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/city-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/city-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/city-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1016390,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11567.99,
+        "displayNightlyTry": 2892,
+        "excludedTaxesTry": 1388.16,
+        "knownTotalTry": 12956.15,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T23:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-480340",
+      "name": "Hostel Dalagatan",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/544337636.jpg?k=1e30382017b4fd03ee2e27a2c942cb751f08f1ebfd6b3b10eddf892827f5c746&o=",
+      "rating": 6.8,
+      "reviews": 941,
+      "pricePerNightTry": 3268.625,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hostel",
+      "lat": 59.3399603545887,
+      "lon": 18.0475050508539,
+      "distanceKm": 1.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Vasastan, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 480340,
+        "cityId": "stockholm",
+        "lat": 59.3399603545887,
+        "lon": 18.0475050508539,
+        "address": "Dalagatan 30",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/hostel-dalagatan.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/hostel-dalagatan.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/hostel-dalagatan.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 480340,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11565.91,
+        "displayNightlyTry": 2891.48,
+        "excludedTaxesTry": 1508.59,
+        "knownTotalTry": 13074.5,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-242236",
+      "name": "Skanstulls Boutique Hostel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/352380914.jpg?k=cab2440f9531d96925fdd6f4b36170e18924627e75a869ca2ad0f683f3dc6a92&o=",
+      "rating": 8.4,
+      "reviews": 2642,
+      "pricePerNightTry": 3295.9,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 59.3085611380755,
+      "lon": 18.0802291631699,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 242236,
+        "cityId": "stockholm",
+        "lat": 59.3085611380755,
+        "lon": 18.0802291631699,
+        "address": "Ringvägen 135",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/skanstulls-vandrarhem.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/skanstulls-vandrarhem.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/skanstulls-vandrarhem.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 242236,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11662.42,
+        "displayNightlyTry": 2915.6,
+        "excludedTaxesTry": 1521.18,
+        "knownTotalTry": 13183.6,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-249975",
+      "name": "STF Zinkensdamm Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/33336752.jpg?k=3583d8f29bdc45445ac344b4b4c2d780b00d095984df8b8053dbac79b774c711&o=",
+      "rating": 8.5,
+      "reviews": 2419,
+      "pricePerNightTry": 3300.0525,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 59.3147677907925,
+      "lon": 18.0440086126328,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 249975,
+        "cityId": "stockholm",
+        "lat": 59.3147677907925,
+        "lon": 18.0440086126328,
+        "address": "Zinkens Väg 20",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/stf-vandrarhem-zinkensdamm.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/stf-vandrarhem-zinkensdamm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/stf-vandrarhem-zinkensdamm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 249975,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11785.9,
+        "displayNightlyTry": 2946.47,
+        "excludedTaxesTry": 1414.31,
+        "knownTotalTry": 13200.21,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Oda - Ortak Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T23:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-44692",
+      "name": "Rex Petit",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/26339454.jpg?k=cb13e93d00017bb1431389ed7b3929c1e37b9846138a02a5d7ed1e3f04bbac4d&o=",
+      "rating": 8.1,
+      "reviews": 2457,
+      "pricePerNightTry": 3485.0525,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik İki Yataklı Oda - Penceresiz",
+      "roomTypeTag": "hotel",
+      "lat": 59.3414863001395,
+      "lon": 18.0594862997532,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Vasastan, Stockholm",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 44692,
+        "cityId": "stockholm",
+        "lat": 59.3414863001395,
+        "lon": 18.0594862997532,
+        "address": "Luntmakargatan 73",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/rex-petit.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/rex-petit.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/rex-petit.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 44692,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12446.62,
+        "displayNightlyTry": 3111.65,
+        "excludedTaxesTry": 1493.59,
+        "knownTotalTry": 13940.21,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik İki Yataklı Oda - Penceresiz"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T23:00:00Z",
+        "noPrepayment": true,
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-841116",
+      "name": "Sofo Hotel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/59752996.jpg?k=732c7ac4ed016aaa9f072c8c781770e9326a833fbdb8e21eda7b1d72cf968ac1&o=",
+      "rating": 6.6,
+      "reviews": 2793,
+      "pricePerNightTry": 3697.395,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Penceresiz",
+      "roomTypeTag": "hotel",
+      "lat": 59.3087052351414,
+      "lon": 18.079172372818,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 841116,
+        "cityId": "stockholm",
+        "lat": 59.3087052351414,
+        "lon": 18.079172372818,
+        "address": "Östgötagatan 64",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/sofo.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/sofo.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/sofo.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 841116,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13204.98,
+        "displayNightlyTry": 3301.24,
+        "excludedTaxesTry": 1584.6,
+        "knownTotalTry": 14789.58,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Penceresiz"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-19T23:00:00Z",
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-435426",
+      "name": "Castanea Old Town Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/30559830.jpg?k=7c07b13ec869adf331cc07aecaae9de0ce77dd209c7172c87166d917e6407bbd&o=",
+      "rating": 8.9,
+      "reviews": 1466,
+      "pricePerNightTry": 3766.5575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Small Twin Room with Shared Bathroom - quiet street view",
+      "roomTypeTag": "hostel",
+      "lat": 59.3247105838532,
+      "lon": 18.072726354003,
+      "distanceKm": 0.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Gamla stan, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 435426,
+        "cityId": "stockholm",
+        "lat": 59.3247105838532,
+        "lon": 18.072726354003,
+        "address": "Kindstugatan 1",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/castanea-old-town-hostel-castanea-vandrarhem.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/castanea-old-town-hostel-castanea-vandrarhem.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/castanea-old-town-hostel-castanea-vandrarhem.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 435426,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13451.99,
+        "displayNightlyTry": 3363,
+        "excludedTaxesTry": 1614.24,
+        "knownTotalTry": 15066.23,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Small Twin Room with Shared Bathroom - quiet street view"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-358422",
+      "name": "Klara Hostel Stockholm",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/25442111.jpg?k=608ef57c3a0f9bdaef856924f452a4e5c79d75fccaab8263ff74a1763f2f8428&o=",
+      "rating": 3.3,
+      "reviews": 696,
+      "pricePerNightTry": 3910.56,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 59.3331812183114,
+      "lon": 18.0590115487576,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Norrmalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 358422,
+        "cityId": "stockholm",
+        "lat": 59.3331812183114,
+        "lon": 18.0590115487576,
+        "address": "Klara Norra Kyrkogata 15",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/city-lodge-stockholm.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/city-lodge-stockholm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/city-lodge-stockholm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 358422,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13966.29,
+        "displayNightlyTry": 3491.57,
+        "excludedTaxesTry": 1675.95,
+        "knownTotalTry": 15642.24,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-297729",
+      "name": "STF Stockholm Skeppsholmen Vandrarhem",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/637887464.jpg?k=57d0cf3a5c77ffebf7c189708554ccd90d83dc59fc8394ae24e1b209fa59e7db&o=",
+      "rating": 8.9,
+      "reviews": 3454,
+      "pricePerNightTry": 4000.06,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 59.3252998066372,
+      "lon": 18.0805738270283,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Stockholm City Centre, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 297729,
+        "cityId": "stockholm",
+        "lat": 59.3252998066372,
+        "lon": 18.0805738270283,
+        "address": "Flaggmansvägen 8",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/af-chapman.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/af-chapman.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/af-chapman.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 297729,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14285.93,
+        "displayNightlyTry": 3571.48,
+        "excludedTaxesTry": 1714.31,
+        "knownTotalTry": 16000.24,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12755474",
+      "name": "Nomad City",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/605628044.jpg?k=8b1879e5c2d75551d57699543a1295f8e3d915a0e8de1f355a556923619b0a1b&o=",
+      "rating": 7.9,
+      "reviews": 863,
+      "pricePerNightTry": 4050.0625,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Private Twin Room with Bunk Beds and Toilet",
+      "roomTypeTag": "hostel",
+      "lat": 59.3308859,
+      "lon": 18.0483871,
+      "distanceKm": 1.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Kungsholmen, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12755474,
+        "cityId": "stockholm",
+        "lat": 59.3308859,
+        "lon": 18.0483871,
+        "address": "Kungsholmsgatan 13a",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/nomad-city.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/nomad-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/nomad-city.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12755474,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14464.51,
+        "displayNightlyTry": 3616.13,
+        "excludedTaxesTry": 1735.74,
+        "knownTotalTry": 16200.25,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Private Twin Room with Bunk Beds and Toilet",
+            "unitType": "Paylaşımlı yatakhane odası"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-18164",
+      "name": "City Backpackers Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/870380105.jpg?k=70b02edaf3176cf30c2ef90d1e9f0b0b25d7e6d4e4164f1651baf3c4b31ce3a8&o=",
+      "rating": 8.5,
+      "reviews": 3100,
+      "pricePerNightTry": 4075.1625,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Budget İki Yataklı Oda - Penceresiz",
+      "roomTypeTag": "hostel",
+      "lat": 59.3359828629577,
+      "lon": 18.0550231039524,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Norrmalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 18164,
+        "cityId": "stockholm",
+        "lat": 59.3359828629577,
+        "lon": 18.0550231039524,
+        "address": "Upplandsgatan 2a",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/city-backpackers-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/city-backpackers-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/city-backpackers-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 18164,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14554.15,
+        "displayNightlyTry": 3638.54,
+        "excludedTaxesTry": 1746.5,
+        "knownTotalTry": 16300.65,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Budget İki Yataklı Oda - Penceresiz"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-172518",
+      "name": "Reimersholme Hotel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/426791184.jpg?k=c2bcb45dd7bea42a906f83c6d2fb6aa72a8590eebd07ae576d4777c0552e2361&o=",
+      "rating": 7.3,
+      "reviews": 1414,
+      "pricePerNightTry": 4127.7775,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda - Ortak Banyo",
+      "roomTypeTag": "hotel",
+      "lat": 59.3182717083499,
+      "lon": 18.025234490633,
+      "distanceKm": 2.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 172518,
+        "cityId": "stockholm",
+        "lat": 59.3182717083499,
+        "lon": 18.025234490633,
+        "address": "Reimersholmsgatan 5",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/reimersholme.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/reimersholme.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/reimersholme.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 172518,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14742.06,
+        "displayNightlyTry": 3685.51,
+        "excludedTaxesTry": 1769.05,
+        "knownTotalTry": 16511.11,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda - Ortak Banyo"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12086463",
+      "name": "Dockside Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/558253315.jpg?k=8b490e19c2c6303fe0a1135a70997e4906d3b73741b77893511d0a38a7ec8c65&o=",
+      "rating": 7.8,
+      "reviews": 98,
+      "pricePerNightTry": 4187.565,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hostel",
+      "lat": 59.3230132,
+      "lon": 18.0742818,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Gamla stan, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12086463,
+        "cityId": "stockholm",
+        "lat": 59.3230132,
+        "lon": 18.0742818,
+        "address": "40 Skeppsbron",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/gamla-stans-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/gamla-stans-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/gamla-stans-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12086463,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 14955.59,
+        "displayNightlyTry": 3738.9,
+        "excludedTaxesTry": 1794.67,
+        "knownTotalTry": 16750.26,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-10-24T22:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-355537",
+      "name": "Generator Stockholm",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/73825470.jpg?k=36b6fec4a202b4866f34110f92707aa79e7658b1648df03024bebc9153f75a56&o=",
+      "rating": 8,
+      "reviews": 16726,
+      "pricePerNightTry": 4294.59,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Superior İki Yataklı Çift Kişilik - Özel Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 59.3357590681864,
+      "lon": 18.0511513352394,
+      "distanceKm": 1.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Norrmalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 355537,
+        "cityId": "stockholm",
+        "lat": 59.3357590681864,
+        "lon": 18.0511513352394,
+        "address": "Torsgatan 10",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/generator-stockholm.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/generator-stockholm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/generator-stockholm.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 355537,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15196.24,
+        "displayNightlyTry": 3799.06,
+        "excludedTaxesTry": 1982.12,
+        "knownTotalTry": 17178.36,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Superior İki Yataklı Çift Kişilik - Özel Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-445686",
+      "name": "ApartDirect Hammarby Sjöstad",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/141116224.jpg?k=eafdcc9e6b3b8bd5da3c63ff57a2adea64c2b08a661951e01bb1e1610abce7b5&o=",
+      "rating": 8.3,
+      "reviews": 5366,
+      "pricePerNightTry": 4299.84,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Stüdyo",
+      "roomTypeTag": "hotel",
+      "lat": 59.3014868558872,
+      "lon": 18.1059931218624,
+      "distanceKm": 3.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Södermalm, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 445686,
+        "cityId": "stockholm",
+        "lat": 59.3014868558872,
+        "lon": 18.1059931218624,
+        "address": "Hammarby Fabriksväg 93",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/apartdirect-hammarby-sjapstad.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/apartdirect-hammarby-sjapstad.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/apartdirect-hammarby-sjapstad.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 445686,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15214.82,
+        "displayNightlyTry": 3803.71,
+        "excludedTaxesTry": 1984.54,
+        "knownTotalTry": 17199.36,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-18074",
+      "name": "2Home Stockholm South",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/85018256.jpg?k=1e73e8f71c724a909e9c9d4d6024665e062c884c50ecf0f842eb21f79bffe52f&o=",
+      "rating": 6.9,
+      "reviews": 1611,
+      "pricePerNightTry": 4402.8075,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Small Double Room -140cm bed",
+      "roomTypeTag": "hotel",
+      "lat": 59.2909274634694,
+      "lon": 18.0242796242237,
+      "distanceKm": 5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Enskede - Årsta - Vantör, Stockholm",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 18074,
+        "cityId": "stockholm",
+        "lat": 59.2909274634694,
+        "lon": 18.0242796242237,
+        "address": "Åbyvägen 20",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/newworld.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/newworld.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/newworld.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 18074,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15725.39,
+        "displayNightlyTry": 3931.35,
+        "excludedTaxesTry": 1885.84,
+        "knownTotalTry": 17611.23,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Small Double Room -140cm bed"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-21748",
+      "name": "Mälardrottningen Yacht Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/83000157.jpg?k=d6f739a656c64c771f2d3b745f821cc9d4503fbd1252d967b1cb7942be5c9b89&o=",
+      "rating": 8.5,
+      "reviews": 6010,
+      "pricePerNightTry": 4479.4925,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Teknede Kamara (2 Yetişkin)",
+      "roomTypeTag": "hotel",
+      "lat": 59.3240715406378,
+      "lon": 18.0628538131714,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Gamla stan, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 21748,
+        "cityId": "stockholm",
+        "lat": 59.3240715406378,
+        "lon": 18.0628538131714,
+        "address": "Riddarholmen",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/ma-lardrottningen.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/ma-lardrottningen.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/ma-lardrottningen.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 21748,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 15850.51,
+        "displayNightlyTry": 3962.63,
+        "excludedTaxesTry": 2067.46,
+        "knownTotalTry": 17917.97,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Teknede Kamara (2 Yetişkin)"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-18154",
+      "name": "Wasa Park Hotel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/186257425.jpg?k=2ba193cd928e588af56edfa760c75909d491c96aee569419635889160305c9db&o=",
+      "rating": 8,
+      "reviews": 2827,
+      "pricePerNightTry": 4725.0725,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Küçük Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 59.3391175043729,
+      "lon": 18.0390666425228,
+      "distanceKm": 2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Vasastan, Stockholm",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 18154,
+        "cityId": "stockholm",
+        "lat": 59.3391175043729,
+        "lon": 18.0390666425228,
+        "address": "Sankt Eriksplan 1",
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "propertyPath": "/hotel/se/wasapark.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/se/wasapark.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/se/wasapark.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 18154,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 16875.26,
+        "displayNightlyTry": 4218.81,
+        "excludedTaxesTry": 2025.03,
+        "knownTotalTry": 18900.29,
+        "checkedAt": "2026-10-23T18:49:53.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Küçük Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-18T23:00:00Z",
+        "deals": []
+      }
+    }
+  ]
+}

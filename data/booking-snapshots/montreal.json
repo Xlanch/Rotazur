@@ -1,0 +1,1352 @@
+{
+  "version": 1,
+  "cityId": "montreal",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-23T18:51:17.297Z",
+  "hotels": [
+    {
+      "id": "booking-11037291",
+      "name": "APD HOTEL",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/657604228.jpg?k=81bbac843f24030d582f679beb6cb9eec117d710175a78fb65d95a55a9adf25f&o=",
+      "rating": 6.7,
+      "reviews": 617,
+      "pricePerNightTry": 2053.6425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5169984,
+      "lon": -73.5618054,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Gay Village, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 11037291,
+        "cityId": "montreal",
+        "lat": 45.5169984,
+        "lon": -73.5618054,
+        "address": "1633 Rue Saint-Hubert",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/apd.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/apd.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/apd.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 11037291,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 7044.14,
+        "displayNightlyTry": 1584.22,
+        "excludedTaxesTry": 1170.43,
+        "knownTotalTry": 8214.57,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Queen Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "noPrepayment": true,
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-264088",
+      "name": "Hotel Casa Bella",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/197415059.jpg?k=0819de28325c04a9011947614cc88194ad28e10f839eaacc0cd6a4f559699e92&o=",
+      "rating": 6.5,
+      "reviews": 722,
+      "pricePerNightTry": 2482.8675,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 45.5090537094311,
+      "lon": -73.5707831382751,
+      "distanceKm": 1.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Quartier des Spectacles, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 264088,
+        "cityId": "montreal",
+        "lat": 45.5090537094311,
+        "lon": -73.5707831382751,
+        "address": "264 Rue Sherbrooke Ouest",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/casa-bella.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/casa-bella.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/casa-bella.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 264088,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 8345.47,
+        "displayNightlyTry": 2086.37,
+        "excludedTaxesTry": 1586,
+        "knownTotalTry": 9931.47,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13622798",
+      "name": "Capsule Hotel Montreal",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/680475168.jpg?k=39fc87855f5c40226601fe68e5d7dd34a702816013ec31ec7a5a4b15529e5443&o=",
+      "rating": 7.3,
+      "reviews": 1043,
+      "pricePerNightTry": 2745.885,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Karma Yatakhanede Ranza",
+      "roomTypeTag": "hostel",
+      "lat": 45.5117,
+      "lon": -73.568,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Quartier des Spectacles, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13622798,
+        "cityId": "montreal",
+        "lat": 45.5117,
+        "lon": -73.568,
+        "address": "2042 Boulevard Saint-Laurent 2042 boulevard saint laurent",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/capsule-montreal.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/capsule-montreal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/capsule-montreal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13622798,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9229.53,
+        "displayNightlyTry": 2307.38,
+        "excludedTaxesTry": 1754.01,
+        "knownTotalTry": 10983.54,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Karma Yatakhanede Ranza",
+            "unitType": "Yatakhanede yatak"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13385577",
+      "name": "FULL KITCHEN Metro Rosemont Room B",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/634114347.jpg?k=c86f569a149228c86e403699657bbbb78a9e9ded8eb5de22dc220af5916bfcb9&o=",
+      "rating": 5.5,
+      "reviews": 2,
+      "pricePerNightTry": 2753.695,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5267971,
+      "lon": -73.5985861,
+      "distanceKm": 4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Plateau Mont Royal, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13385577,
+        "cityId": "montreal",
+        "lat": 45.5267971,
+        "lon": -73.5985861,
+        "address": "5563 Saint Dominique Street",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/breakfast-included-full-kitchen-room-b.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/breakfast-included-full-kitchen-room-b.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/breakfast-included-full-kitchen-room-b.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13385577,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9462.92,
+        "displayNightlyTry": 2100.51,
+        "excludedTaxesTry": 1551.86,
+        "knownTotalTry": 11014.78,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76115",
+      "name": "Hotel Chrome Montreal Centre-Ville",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/89912519.jpg?k=9acd0b78ef542c7776c8a12fbdf5d1e7ecc07c66590cc2055a23ad2e5c170204&o=",
+      "rating": 6.5,
+      "reviews": 4231,
+      "pricePerNightTry": 2881.285,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - İki Çift Kişilik Yataklı (Sigara İçilmez)",
+      "roomTypeTag": "hotel",
+      "lat": 45.5108826111045,
+      "lon": -73.5601133108138,
+      "distanceKm": 0.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Quartier des Spectacles, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76115,
+        "cityId": "montreal",
+        "lat": 45.5108826111045,
+        "lon": -73.5601133108138,
+        "address": "215, Blvd Rene Levesque",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/hotel-chrome-montreal-centre-ville.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/hotel-chrome-montreal-centre-ville.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/hotel-chrome-montreal-centre-ville.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76115,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9684.64,
+        "displayNightlyTry": 2421.16,
+        "excludedTaxesTry": 1840.5,
+        "knownTotalTry": 11525.14,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - İki Çift Kişilik Yataklı (Sigara İçilmez)"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-329046",
+      "name": "Hotel Victor",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/421241928.jpg?k=bc0ca37fa9f595437a037d5dbb6e7a0a3a8af305cb3cd07ffd507df46ad4ae2d&o=",
+      "rating": 7.7,
+      "reviews": 704,
+      "pricePerNightTry": 2903.6925,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5172748416319,
+      "lon": -73.5626989603043,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Gay Village, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 329046,
+        "cityId": "montreal",
+        "lat": 45.5172748416319,
+        "lon": -73.5626989603043,
+        "address": "1701 Rue Saint Hubert",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/victor.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/victor.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/victor.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 329046,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 9759.96,
+        "displayNightlyTry": 2439.99,
+        "excludedTaxesTry": 1854.81,
+        "knownTotalTry": 11614.77,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-20T05:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9006690",
+      "name": "Le Sand & Stone Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/388989944.jpg?k=d390cba087f3705e1cc4fa440a2f6bb2544d1593f2dad6539e48fbf90d3a78c3&o=",
+      "rating": 6.2,
+      "reviews": 1957,
+      "pricePerNightTry": 2949.2125,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 45.510497,
+      "lon": -73.563441,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Quartier des Spectacles, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9006690,
+        "cityId": "montreal",
+        "lat": 45.510497,
+        "lon": -73.563441,
+        "address": "57 Rue Sainte-Catherine Est",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/le-sand-amp-stone.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/le-sand-amp-stone.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/le-sand-amp-stone.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9006690,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10012.8,
+        "displayNightlyTry": 2414.79,
+        "excludedTaxesTry": 1784.05,
+        "knownTotalTry": 11796.85,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-603679",
+      "name": "Auberge Alternative",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/852866087.jpg?k=562e400b6bb1e1da04281ba0025b06892124101cf9a5101747f63d73766f74d1&o=",
+      "rating": 8.3,
+      "reviews": 1054,
+      "pricePerNightTry": 3066.94,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Basic Üç Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 45.5010596437796,
+      "lon": -73.556037656414,
+      "distanceKm": 0.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Old Montreal, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 603679,
+        "cityId": "montreal",
+        "lat": 45.5010596437796,
+        "lon": -73.556037656414,
+        "address": "358 St-Pierre",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/auberge-alternative.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/auberge-alternative.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/auberge-alternative.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 603679,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10669.47,
+        "displayNightlyTry": 2667.37,
+        "excludedTaxesTry": 1598.29,
+        "knownTotalTry": 12267.76,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Basic Üç Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-175354",
+      "name": "Hotel Abri du Voyageur",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/24844893.jpg?k=217daf4264b2e1b078f55eb644a37cc160170c342e52d2c4163cee7dce8e6e11&o=",
+      "rating": 5.4,
+      "reviews": 1178,
+      "pricePerNightTry": 3067.815,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Oda - Ortak Banyo",
+      "roomTypeTag": "hotel",
+      "lat": 45.5096871589781,
+      "lon": -73.5640239715576,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Quartier des Spectacles, Montreal",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 175354,
+        "cityId": "montreal",
+        "lat": 45.5096871589781,
+        "lon": -73.5640239715576,
+        "address": "9 Ste-Catherine Ouest",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/abri-du-voyageur.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/abri-du-voyageur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/abri-du-voyageur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 175354,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10311.61,
+        "displayNightlyTry": 2577.9,
+        "excludedTaxesTry": 1959.65,
+        "knownTotalTry": 12271.26,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Oda - Ortak Banyo"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-12607450",
+      "name": "The Little Prince Rooms-Old Montreal",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/587563587.jpg?k=867d78a549dbeb386f82c656d871d232e88b8e8bc01c2498b8378bfb5d4ad6ea&o=",
+      "rating": 6.5,
+      "reviews": 1438,
+      "pricePerNightTry": 3178.3025,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda - Ortak Banyolu ",
+      "roomTypeTag": "hostel",
+      "lat": 45.4963764,
+      "lon": -73.5544139,
+      "distanceKm": 1.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 12607450,
+        "cityId": "montreal",
+        "lat": 45.4963764,
+        "lon": -73.5544139,
+        "address": "64 Rue Prince",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/les-chambres-du-petit-prince-montreal.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/les-chambres-du-petit-prince-montreal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/les-chambres-du-petit-prince-montreal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 12607450,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10741.61,
+        "displayNightlyTry": 2597,
+        "excludedTaxesTry": 1971.6,
+        "knownTotalTry": 12713.21,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda - Ortak Banyolu "
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-22941",
+      "name": "Hotel Ste-Catherine",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/50394500.jpg?k=b986921ecb133f42990a4b2986924b9c54a7ca8b3d23221ddb8c851b316c36ea&o=",
+      "rating": 6.1,
+      "reviews": 319,
+      "pricePerNightTry": 3198.265,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Queen Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5221930380996,
+      "lon": -73.5526460409164,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Gay Village, Montreal",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 22941,
+        "cityId": "montreal",
+        "lat": 45.5221930380996,
+        "lon": -73.5526460409164,
+        "address": "1674 Ste-Catherine East",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/ste-catherine.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/ste-catherine.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/ste-catherine.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 22941,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 10750.1,
+        "displayNightlyTry": 2687.52,
+        "excludedTaxesTry": 2042.96,
+        "knownTotalTry": 12793.06,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Queen Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76185",
+      "name": "Hotel La Residence du Voyageur",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/550679013.jpg?k=d0782cb506a37048d037397e2f7375c129a0dff118d279606c6bf8b522b4b8be&o=",
+      "rating": 6,
+      "reviews": 391,
+      "pricePerNightTry": 3295.06,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5196541221864,
+      "lon": -73.566421866417,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Plateau Mont Royal, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76185,
+        "cityId": "montreal",
+        "lat": 45.5196541221864,
+        "lon": -73.566421866417,
+        "address": "847 Sherbrooke East",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/la-residence-du-voyageur.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/la-residence-du-voyageur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/la-residence-du-voyageur.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76185,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11075.43,
+        "displayNightlyTry": 2768.86,
+        "excludedTaxesTry": 2104.81,
+        "knownTotalTry": 13180.24,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-277748",
+      "name": "Hotel Bon Accueil",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/42453405.jpg?k=0b3cb3e66b4c594b7a57a7cc82acb8e8c5477d4c24dfaad91a666be4c095b017&o=",
+      "rating": 7,
+      "reviews": 296,
+      "pricePerNightTry": 3324.5175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5166753072029,
+      "lon": -73.5613605380058,
+      "distanceKm": 1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Gay Village, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 277748,
+        "cityId": "montreal",
+        "lat": 45.5166753072029,
+        "lon": -73.5613605380058,
+        "address": "1601 St-Hubert",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/bon-acceuil.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/bon-acceuil.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/bon-acceuil.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 277748,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11174.44,
+        "displayNightlyTry": 2793.61,
+        "excludedTaxesTry": 2123.63,
+        "knownTotalTry": 13298.07,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15971868",
+      "name": "Studio in Center Downtown",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/835255613.jpg?k=0ab42660ffc87fd08b4c6e212bc33da0d28914eea5034778c33a5f6c06cdd11c&o=",
+      "rating": 3,
+      "reviews": 2,
+      "pricePerNightTry": 3365.9175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 45.4928336,
+      "lon": -73.5752227,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Montreal Şehir Merkezi, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15971868,
+        "cityId": "montreal",
+        "lat": 45.4928336,
+        "lon": -73.5752227,
+        "address": "1650 René-Lévesque Boulevard West",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/studio-in-center-downtown.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/studio-in-center-downtown.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/studio-in-center-downtown.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15971868,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11711.95,
+        "displayNightlyTry": 2371.03,
+        "excludedTaxesTry": 1751.72,
+        "knownTotalTry": 13463.67,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15957427",
+      "name": "Studio in Heart DT Montreal,5 mins to bell center",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/833764775.jpg?k=17cdefc71957d645930a566bfb603dc3fd2b44e87784301b41582e20b54f043d&o=",
+      "rating": 7.4,
+      "reviews": 16,
+      "pricePerNightTry": 3450.75,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 45.4928336,
+      "lon": -73.5752227,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Montreal Şehir Merkezi, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15957427,
+        "cityId": "montreal",
+        "lat": 45.4928336,
+        "lon": -73.5752227,
+        "address": "1650 René-Lévesque Boulevard West",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/studio-in-heart-dt-montreal-5-mins-to-bell-center.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/studio-in-heart-dt-montreal-5-mins-to-bell-center.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/studio-in-heart-dt-montreal-5-mins-to-bell-center.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15957427,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11998.38,
+        "displayNightlyTry": 2442.64,
+        "excludedTaxesTry": 1804.62,
+        "knownTotalTry": 13803,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-16014607",
+      "name": "Studio in Center Downtown, Close to Bell Center",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/838778441.jpg?k=800c89ada69eed3316bff0c85e2a7681f0a7b9f702b1f9a87c36fc415712755b&o=",
+      "rating": 7,
+      "reviews": 2,
+      "pricePerNightTry": 3488.4575,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 45.4928336,
+      "lon": -73.5752227,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Montreal Şehir Merkezi, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 16014607,
+        "cityId": "montreal",
+        "lat": 45.4928336,
+        "lon": -73.5752227,
+        "address": "1650 René-Lévesque Boulevard West",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/studio-in-center-downtown-close-to-bell-center.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/studio-in-center-downtown-close-to-bell-center.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/studio-in-center-downtown-close-to-bell-center.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 16014607,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12125.69,
+        "displayNightlyTry": 2474.47,
+        "excludedTaxesTry": 1828.14,
+        "knownTotalTry": 13953.83,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15253094",
+      "name": "Comfortable condo in Montreal",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/775158747.jpg?k=f38d8ca2a0d69f66738d68685ad70a8cc205a64069284cc152a9b5f6a46449c1&o=",
+      "rating": 8,
+      "reviews": 20,
+      "pricePerNightTry": 3532.485,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 45.4815087,
+      "lon": -73.6007743,
+      "distanceKm": 4.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Westmont, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15253094,
+        "cityId": "montreal",
+        "lat": 45.4815087,
+        "lon": -73.6007743,
+        "address": "4633a Rue Sherbrooke Ouest",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/comfortable-condo-in-montreal.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/comfortable-condo-in-montreal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/comfortable-condo-in-montreal.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15253094,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12037.28,
+        "displayNightlyTry": 2832.51,
+        "excludedTaxesTry": 2092.66,
+        "knownTotalTry": 14129.94,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-76123",
+      "name": "Hotel Auberge Manoir Ville Marie",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/55336404.jpg?k=fa387e7a0dde34f5417e970aed24bb81d4ffe35711d3b696b586396832f7905b&o=",
+      "rating": 7.1,
+      "reviews": 1849,
+      "pricePerNightTry": 3555.97,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Comfort Room, 1 Queen Bed",
+      "roomTypeTag": "hotel",
+      "lat": 45.5381361637341,
+      "lon": -73.5418877005577,
+      "distanceKm": 3.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Hochelaga-Maisonneuve, Montreal",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 76123,
+        "cityId": "montreal",
+        "lat": 45.5381361637341,
+        "lon": -73.5418877005577,
+        "address": "3130 rue Sainte-Catherine Est",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/auberge-manoir-ville-marie-inc.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/auberge-manoir-ville-marie-inc.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/auberge-manoir-ville-marie-inc.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 76123,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11952.41,
+        "displayNightlyTry": 2988.1,
+        "excludedTaxesTry": 2271.47,
+        "knownTotalTry": 14223.88,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Comfort Room, 1 Queen Bed"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-254815",
+      "name": "Hotel Quartier des Spectacles",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/22173656.jpg?k=77a27791c9f6feb09dd24c6c29765aea9e84e38a65998aff68b3dabbfc4a3e5e&o=",
+      "rating": 5.7,
+      "reviews": 1564,
+      "pricePerNightTry": 3560.18,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5096533250292,
+      "lon": -73.5640239714553,
+      "distanceKm": 0.8,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Quartier des Spectacles, Montreal",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 254815,
+        "cityId": "montreal",
+        "lat": 45.5096533250292,
+        "lon": -73.5640239714553,
+        "address": "17 Sainte-Catherine Ouest",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/quartier-des-spectacles.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/quartier-des-spectacles.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/quartier-des-spectacles.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 254815,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 11966.56,
+        "displayNightlyTry": 2991.64,
+        "excludedTaxesTry": 2274.16,
+        "knownTotalTry": 14240.72,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Oda"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1158271",
+      "name": "Alt Hostel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/465632007.jpg?k=9ded85305688ac838f4122f3b726e0f8d8098359c3f0b54bbe7d509e90db3783&o=",
+      "rating": 8.2,
+      "reviews": 2314,
+      "pricePerNightTry": 3571.9275,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hostel",
+      "lat": 45.5091766123073,
+      "lon": -73.5518350779099,
+      "distanceKm": 0.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Old Montreal, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1158271,
+        "cityId": "montreal",
+        "lat": 45.5091766123073,
+        "lon": -73.5518350779099,
+        "address": "347 Saint Paul Est",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/auberge-st-paul.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/auberge-st-paul.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/auberge-st-paul.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1158271,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12426.26,
+        "displayNightlyTry": 3106.57,
+        "excludedTaxesTry": 1861.45,
+        "knownTotalTry": 14287.71,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15788906",
+      "name": "studio in heart of DT, 2 metros, Concordia",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/820859520.jpg?k=7ef375570b039b117c97701bae989415ffe073b0420541f570d850e2eede62f3&o=",
+      "rating": 4.8,
+      "reviews": 6,
+      "pricePerNightTry": 3582.805,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Tek Yatak Odalı Daire",
+      "roomTypeTag": "apartment",
+      "lat": 45.4928336,
+      "lon": -73.5752227,
+      "distanceKm": 2.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Montreal Şehir Merkezi, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15788906,
+        "cityId": "montreal",
+        "lat": 45.4928336,
+        "lon": -73.5752227,
+        "address": "1650 René-Lévesque Boulevard West",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/studio-in-heart-of-dt-2-metros-concordia.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/studio-in-heart-of-dt-2-metros-concordia.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/studio-in-heart-of-dt-2-metros-concordia.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15788906,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12482.84,
+        "displayNightlyTry": 2501.87,
+        "excludedTaxesTry": 1848.38,
+        "knownTotalTry": 14331.22,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Tek Yatak Odalı Daire",
+            "unitType": "Dairenin tamamı"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-17T05:00:00Z",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-4846850",
+      "name": "HoMa Homestay Hotel by Olympic Stadium Montreal Auberge-Hostel",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/216143634.jpg?k=662ebc9111c7f91135c5b60026d6aab6ada6b949272dba2a078898a97948003d&o=",
+      "rating": 5.9,
+      "reviews": 112,
+      "pricePerNightTry": 3656.4025,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 45.552007,
+      "lon": -73.539857,
+      "distanceKm": 4.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Hochelaga-Maisonneuve, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 4846850,
+        "cityId": "montreal",
+        "lat": 45.552007,
+        "lon": -73.539857,
+        "address": "4258 Rue Ontario Est",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/cozy-3-bedroom-stay-close-to-olympic-stadium-amp-botanical-gardens.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/cozy-3-bedroom-stay-close-to-olympic-stadium-amp-botanical-gardens.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/cozy-3-bedroom-stay-close-to-olympic-stadium-amp-botanical-gardens.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 4846850,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12598.27,
+        "displayNightlyTry": 2744.1,
+        "excludedTaxesTry": 2027.34,
+        "knownTotalTry": 14625.61,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13283752",
+      "name": "Studio #6 - Self Check-In - Plateau - St-Denis",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/649874737.jpg?k=7e0aad278e2147dc8e7bf5fed61d5bf32ea17b338f2e5b73336c0a01777d1974&o=",
+      "rating": 8.2,
+      "reviews": 4,
+      "pricePerNightTry": 3825.5225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 45.521461,
+      "lon": -73.576897,
+      "distanceKm": 2.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Plateau Mont Royal, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13283752,
+        "cityId": "montreal",
+        "lat": 45.521461,
+        "lon": -73.576897,
+        "address": "4113 Saint Denis Street",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/studio-6-self-check-in-plateau-st-denis.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/studio-6-self-check-in-plateau-st-denis.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/studio-6-self-check-in-plateau-st-denis.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13283752,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 12943.26,
+        "displayNightlyTry": 2616.98,
+        "excludedTaxesTry": 2358.83,
+        "knownTotalTry": 15302.09,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7012172",
+      "name": "Maison Montplaisir",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/631645810.jpg?k=dfe7b1394fa24a0b732e1a17ec41ef21c65b912252e663e8399631fb3e6ee2a3&o=",
+      "rating": 6.2,
+      "reviews": 291,
+      "pricePerNightTry": 3854.2075,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 45.5493717,
+      "lon": -73.5356317,
+      "distanceKm": 4.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Hochelaga-Maisonneuve, Montreal",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7012172,
+        "cityId": "montreal",
+        "lat": 45.5493717,
+        "lon": -73.5356317,
+        "address": "1420 Avenue Desjardins",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/maison-montplaisir.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/maison-montplaisir.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/maison-montplaisir.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7012172,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13013.28,
+        "displayNightlyTry": 3253.32,
+        "excludedTaxesTry": 2403.55,
+        "knownTotalTry": 15416.83,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-21T05:00:00Z",
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-13283910",
+      "name": "Studio #8 - Self Check-In - Plateau - St-Denis",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/649861047.jpg?k=b46742970f260b715ce0d1676eae1e20309016625e01ca48081f982dd2b247af&o=",
+      "rating": 9.1,
+      "reviews": 58,
+      "pricePerNightTry": 3882.54,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Stüdyo",
+      "roomTypeTag": "apartment",
+      "lat": 45.521461,
+      "lon": -73.576897,
+      "distanceKm": 2.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Plateau Mont Royal, Montreal",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 13283910,
+        "cityId": "montreal",
+        "lat": 45.521461,
+        "lon": -73.576897,
+        "address": "4113 Saint Denis Street",
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "propertyPath": "/hotel/ca/studio-8-self-check-in-plateau-st-denis.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ca/studio-8-self-check-in-plateau-st-denis.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ca/studio-8-self-check-in-plateau-st-denis.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 13283910,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 13134.92,
+        "displayNightlyTry": 2664.89,
+        "excludedTaxesTry": 2395.24,
+        "knownTotalTry": 15530.16,
+        "checkedAt": "2026-10-23T18:51:16.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    }
+  ]
+}

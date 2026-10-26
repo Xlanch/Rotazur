@@ -1,0 +1,875 @@
+[
+  {
+    "iata_code": "KEF",
+    "name": "Keflavik International Airport",
+    "latitude_deg": "63.985001",
+    "longitude_deg": "-22.6056",
+    "iso_country": "IS",
+    "home_link": "https://www.isavia.is/en/keflavik-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Keflav%C3%ADk_International_Airport"
+  },
+  {
+    "iata_code": "YHZ",
+    "name": "Halifax / Stanfield International Airport",
+    "latitude_deg": "44.8807983398",
+    "longitude_deg": "-63.5085983276",
+    "iso_country": "CA",
+    "home_link": "http://www.hiaa.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Halifax_International_Airport"
+  },
+  {
+    "iata_code": "YOW",
+    "name": "Ottawa Macdonald-Cartier International Airport",
+    "latitude_deg": "45.322498",
+    "longitude_deg": "-75.669197",
+    "iso_country": "CA",
+    "home_link": "https://yow.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ottawa_Macdonald%E2%80%93Cartier_International_Airport"
+  },
+  {
+    "iata_code": "YQB",
+    "name": "Quebec Jean Lesage International Airport",
+    "latitude_deg": "46.7911",
+    "longitude_deg": "-71.393303",
+    "iso_country": "CA",
+    "home_link": "http://www.aeroportdequebec.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Qu%C3%A9bec/Jean_Lesage_International_Airport"
+  },
+  {
+    "iata_code": "YUL",
+    "name": "Montreal / Pierre Elliott Trudeau International Airport",
+    "latitude_deg": "45.467837",
+    "longitude_deg": "-73.742294",
+    "iso_country": "CA",
+    "home_link": "http://www.admtl.com/passager/Home.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Montréal–Trudeau_International_Airport"
+  },
+  {
+    "iata_code": "YVR",
+    "name": "Vancouver International Airport",
+    "latitude_deg": "49.193901",
+    "longitude_deg": "-123.183998",
+    "iso_country": "CA",
+    "home_link": "http://www.yvr.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vancouver_International_Airport"
+  },
+  {
+    "iata_code": "YYC",
+    "name": "Calgary International Airport",
+    "latitude_deg": "51.118822",
+    "longitude_deg": "-114.009933",
+    "iso_country": "CA",
+    "home_link": "http://www.calgaryairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Calgary_International_Airport"
+  },
+  {
+    "iata_code": "YYJ",
+    "name": "Victoria International Airport",
+    "latitude_deg": "48.647201",
+    "longitude_deg": "-123.427792",
+    "iso_country": "CA",
+    "home_link": "http://www.victoriaairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_International_Airport"
+  },
+  {
+    "iata_code": "YYZ",
+    "name": "Toronto Pearson International Airport",
+    "latitude_deg": "43.675935",
+    "longitude_deg": "-79.629421",
+    "iso_country": "CA",
+    "home_link": "http://www.torontopearson.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Toronto_Pearson_International_Airport"
+  },
+  {
+    "iata_code": "BRU",
+    "name": "Brussels Airport",
+    "latitude_deg": "50.901402",
+    "longitude_deg": "4.48444",
+    "iso_country": "BE",
+    "home_link": "http://www.brusselsairport.be/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brussels_Airport"
+  },
+  {
+    "iata_code": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "latitude_deg": "52.361738",
+    "longitude_deg": "13.502341",
+    "iso_country": "DE",
+    "home_link": "https://ber.berlin-airport.de/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport"
+  },
+  {
+    "iata_code": "FRA",
+    "name": "Frankfurt Main Airport",
+    "latitude_deg": "50.026706",
+    "longitude_deg": "8.55835",
+    "iso_country": "DE",
+    "home_link": "https://www.frankfurt-airport.de/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Frankfurt_Airport"
+  },
+  {
+    "iata_code": "HAM",
+    "name": "Hamburg Helmut Schmidt Airport",
+    "latitude_deg": "53.630402",
+    "longitude_deg": "9.98823",
+    "iso_country": "DE",
+    "home_link": "https://www.hamburg-airport.de/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hamburg_Airport"
+  },
+  {
+    "iata_code": "MUC",
+    "name": "Munich Airport",
+    "latitude_deg": "48.353802",
+    "longitude_deg": "11.7861",
+    "iso_country": "DE",
+    "home_link": "http://www.munich-airport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Munich_Airport"
+  },
+  {
+    "iata_code": "BFS",
+    "name": "Belfast International Airport",
+    "latitude_deg": "54.6575012207",
+    "longitude_deg": "-6.2158298492399995",
+    "iso_country": "GB",
+    "home_link": "http://www.belfastairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Belfast_International_Airport"
+  },
+  {
+    "iata_code": "MAN",
+    "name": "Manchester Airport",
+    "latitude_deg": "53.349375",
+    "longitude_deg": "-2.279521",
+    "iso_country": "GB",
+    "home_link": "http://www.manchesterairport.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manchester_Airport"
+  },
+  {
+    "iata_code": "BRS",
+    "name": "Bristol Airport",
+    "latitude_deg": "51.382326",
+    "longitude_deg": "-2.716453",
+    "iso_country": "GB",
+    "home_link": "http://www.bristolairport.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bristol_Airport"
+  },
+  {
+    "iata_code": "LPL",
+    "name": "Liverpool John Lennon Airport",
+    "latitude_deg": "53.334863",
+    "longitude_deg": "-2.849637",
+    "iso_country": "GB",
+    "home_link": "http://www.liverpoolairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Liverpool_John_Lennon_Airport"
+  },
+  {
+    "iata_code": "LHR",
+    "name": "London Heathrow Airport",
+    "latitude_deg": "51.470748",
+    "longitude_deg": "-0.459909",
+    "iso_country": "GB",
+    "home_link": "http://www.heathrow.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Heathrow_Airport"
+  },
+  {
+    "iata_code": "GLA",
+    "name": "Glasgow Airport",
+    "latitude_deg": "55.871899",
+    "longitude_deg": "-4.43306",
+    "iso_country": "GB",
+    "home_link": "http://www.glasgowairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Glasgow_International_Airport"
+  },
+  {
+    "iata_code": "EDI",
+    "name": "Edinburgh Airport",
+    "latitude_deg": "55.950145",
+    "longitude_deg": "-3.372288",
+    "iso_country": "GB",
+    "home_link": "http://www.edinburghairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Edinburgh_Airport"
+  },
+  {
+    "iata_code": "AMS",
+    "name": "Amsterdam Airport Schiphol",
+    "latitude_deg": "52.308601",
+    "longitude_deg": "4.76389",
+    "iso_country": "NL",
+    "home_link": "https://www.schiphol.nl/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol"
+  },
+  {
+    "iata_code": "RTM",
+    "name": "Rotterdam The Hague Airport",
+    "latitude_deg": "51.956902",
+    "longitude_deg": "4.43722",
+    "iso_country": "NL",
+    "home_link": "https://www.rotterdamthehagueairport.nl/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rotterdam_The_Hague_Airport"
+  },
+  {
+    "iata_code": "ORK",
+    "name": "Cork International Airport",
+    "latitude_deg": "51.841301",
+    "longitude_deg": "-8.49111",
+    "iso_country": "IE",
+    "home_link": "http://www.corkairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cork_Airport"
+  },
+  {
+    "iata_code": "DUB",
+    "name": "Dublin Airport",
+    "latitude_deg": "53.428713",
+    "longitude_deg": "-6.262121",
+    "iso_country": "IE",
+    "home_link": "http://www.dublinairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dublin_Airport"
+  },
+  {
+    "iata_code": "SNN",
+    "name": "Shannon Airport",
+    "latitude_deg": "52.702",
+    "longitude_deg": "-8.92482",
+    "iso_country": "IE",
+    "home_link": "http://www.shannonairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shannon_Airport"
+  },
+  {
+    "iata_code": "CPH",
+    "name": "Copenhagen Kastrup Airport",
+    "latitude_deg": "55.617900848389",
+    "longitude_deg": "12.656000137329",
+    "iso_country": "DK",
+    "home_link": "http://www.cph.dk/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Copenhagen_Airport"
+  },
+  {
+    "iata_code": "OSL",
+    "name": "Oslo-Gardermoen International Airport",
+    "latitude_deg": "60.193901",
+    "longitude_deg": "11.1004",
+    "iso_country": "NO",
+    "home_link": "https://avinor.no/en/airport/oslo-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen"
+  },
+  {
+    "iata_code": "GOT",
+    "name": "Göteborg Landvetter Airport",
+    "latitude_deg": "57.6628",
+    "longitude_deg": "12.2798",
+    "iso_country": "SE",
+    "home_link": "https://www.swedavia.com/landvetter/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/G%C3%B6teborg_Landvetter_Airport"
+  },
+  {
+    "iata_code": "ARN",
+    "name": "Stockholm-Arlanda Airport",
+    "latitude_deg": "59.64849",
+    "longitude_deg": "17.928829",
+    "iso_country": "SE",
+    "home_link": "http://www.swedavia.se/arlanda/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stockholm-Arlanda_Airport"
+  },
+  {
+    "iata_code": "CPT",
+    "name": "Cape Town International Airport",
+    "latitude_deg": "-33.97403",
+    "longitude_deg": "18.604333",
+    "iso_country": "ZA",
+    "home_link": "https://www.airports.co.za/airports/cape-town-international-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cape_Town_International_Airport"
+  },
+  {
+    "iata_code": "DUR",
+    "name": "King Shaka International Airport",
+    "latitude_deg": "-29.6144444444",
+    "longitude_deg": "31.1197222222",
+    "iso_country": "ZA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/King_Shaka_International_Airport"
+  },
+  {
+    "iata_code": "CAI",
+    "name": "Cairo International Airport",
+    "latitude_deg": "30.111534",
+    "longitude_deg": "31.396694",
+    "iso_country": "EG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_International_Airport"
+  },
+  {
+    "iata_code": "SSH",
+    "name": "Sharm El Sheikh International Airport",
+    "latitude_deg": "27.977272",
+    "longitude_deg": "34.394717",
+    "iso_country": "EG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport"
+  },
+  {
+    "iata_code": "NBO",
+    "name": "Jomo Kenyatta International Airport",
+    "latitude_deg": "-1.318886",
+    "longitude_deg": "36.928233",
+    "iso_country": "KE",
+    "home_link": "https://www.kenyaairports.com/jkia/IndexJkia.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jomo_Kenyatta_International_Airport"
+  },
+  {
+    "iata_code": "KTI",
+    "name": "Techo International Airport",
+    "latitude_deg": "11.359987",
+    "longitude_deg": "104.921272",
+    "iso_country": "KH",
+    "home_link": "https://www.techoairport.com.kh/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Techo_International_Airport_(Cambodia)"
+  },
+  {
+    "iata_code": "JFK",
+    "name": "John F. Kennedy International Airport",
+    "latitude_deg": "40.639447",
+    "longitude_deg": "-73.779317",
+    "iso_country": "US",
+    "home_link": "https://www.jfkairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport"
+  },
+  {
+    "iata_code": "LAS",
+    "name": "Harry Reid International Airport",
+    "latitude_deg": "36.083361",
+    "longitude_deg": "-115.151817",
+    "iso_country": "US",
+    "home_link": "https://www.harryreidairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Harry_Reid_International_Airport"
+  },
+  {
+    "iata_code": "MIA",
+    "name": "Miami International Airport",
+    "latitude_deg": "25.796011",
+    "longitude_deg": "-80.289751",
+    "iso_country": "US",
+    "home_link": "https://www.miami-airport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Miami_International_Airport"
+  },
+  {
+    "iata_code": "TIA",
+    "name": "Tirana International Airport Mother Teresa",
+    "latitude_deg": "41.4147",
+    "longitude_deg": "19.7206",
+    "iso_country": "AL",
+    "home_link": "http://www.tirana-airport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tirana_International_Airport_N%C3%ABn%C3%AB_Tereza"
+  },
+  {
+    "iata_code": "BCN",
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "latitude_deg": "41.2971",
+    "longitude_deg": "2.07846",
+    "iso_country": "ES",
+    "home_link": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barcelona%E2%80%93El_Prat_Airport"
+  },
+  {
+    "iata_code": "MAD",
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "latitude_deg": "40.493407",
+    "longitude_deg": "-3.572249",
+    "iso_country": "ES",
+    "home_link": "https://www.aena.es/en/adolfo-suarez-madrid-barajas.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport"
+  },
+  {
+    "iata_code": "NCE",
+    "name": "Nice-Côte d'Azur Airport",
+    "latitude_deg": "43.658401",
+    "longitude_deg": "7.21587",
+    "iso_country": "FR",
+    "home_link": "https://www.nice.aeroport.fr/en",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B4te_d'Azur_International_Airport"
+  },
+  {
+    "iata_code": "CDG",
+    "name": "Charles de Gaulle International Airport",
+    "latitude_deg": "49.00896",
+    "longitude_deg": "2.554117",
+    "iso_country": "FR",
+    "home_link": "http://www.aeroportsdeparis.fr/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Charles_de_Gaulle_Airport"
+  },
+  {
+    "iata_code": "ATH",
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "latitude_deg": "37.936401",
+    "longitude_deg": "23.9445",
+    "iso_country": "GR",
+    "home_link": "https://www.aia.gr",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Athens_International_Airport"
+  },
+  {
+    "iata_code": "BUD",
+    "name": "Budapest Liszt Ferenc International Airport",
+    "latitude_deg": "47.43018",
+    "longitude_deg": "19.262393",
+    "iso_country": "HU",
+    "home_link": "http://www.bud.hu/english",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Budapest_Ferenc_Liszt_International_Airport"
+  },
+  {
+    "iata_code": "MXP",
+    "name": "Milan Malpensa International Airport",
+    "latitude_deg": "45.6306",
+    "longitude_deg": "8.72811",
+    "iso_country": "IT",
+    "home_link": "http://www.sea-aeroportimilano.it/en/malpensa/index.phtml",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Malpensa_Airport"
+  },
+  {
+    "iata_code": "VCE",
+    "name": "Venice Marco Polo Airport",
+    "latitude_deg": "45.505299",
+    "longitude_deg": "12.3519",
+    "iso_country": "IT",
+    "home_link": "http://www.veniceairport.com/core/index.jsp?_requestid=37300&language=en",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport"
+  },
+  {
+    "iata_code": "FCO",
+    "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
+    "latitude_deg": "41.804532",
+    "longitude_deg": "12.251998",
+    "iso_country": "IT",
+    "home_link": "http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rome_Fiumicino_Airport"
+  },
+  {
+    "iata_code": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "latitude_deg": "50.100874",
+    "longitude_deg": "14.259911",
+    "iso_country": "CZ",
+    "home_link": "http://www.prg.aero",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Václav_Havel_Airport_Prague"
+  },
+  {
+    "iata_code": "VIE",
+    "name": "Vienna International Airport",
+    "latitude_deg": "48.110298",
+    "longitude_deg": "16.5697",
+    "iso_country": "AT",
+    "home_link": "http://www.viennaairport.com/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vienna_International_Airport"
+  },
+  {
+    "iata_code": "LIS",
+    "name": "Lisbon Humberto Delgado Airport",
+    "latitude_deg": "38.7813",
+    "longitude_deg": "-9.13592",
+    "iso_country": "PT",
+    "home_link": "https://lisbonairport.pt",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lisbon_Airport"
+  },
+  {
+    "iata_code": "SJJ",
+    "name": "Sarajevo International Airport",
+    "latitude_deg": "43.8246",
+    "longitude_deg": "18.331499",
+    "iso_country": "BA",
+    "home_link": "http://www.sarajevo-airport.ba/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sarajevo_International_Airport"
+  },
+  {
+    "iata_code": "GVA",
+    "name": "Geneva International Airport",
+    "latitude_deg": "46.238098",
+    "longitude_deg": "6.10895",
+    "iso_country": "CH",
+    "home_link": "https://www.gva.ch/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Geneva_Airport"
+  },
+  {
+    "iata_code": "ZRH",
+    "name": "Zürich Airport",
+    "latitude_deg": "47.458056",
+    "longitude_deg": "8.548056",
+    "iso_country": "CH",
+    "home_link": "http://www.zurich-airport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zurich_Airport"
+  },
+  {
+    "iata_code": "RMO",
+    "name": "Chişinău International Airport",
+    "latitude_deg": "46.92774",
+    "longitude_deg": "28.931704",
+    "iso_country": "MD",
+    "home_link": "http://www.airport.md/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chi%C5%9Fin%C4%83u_International_Airport"
+  },
+  {
+    "iata_code": "SKP",
+    "name": "Skopje International Airport",
+    "latitude_deg": "41.958087",
+    "longitude_deg": "21.622581",
+    "iso_country": "MK",
+    "home_link": "http://skp.airports.com.mk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Skopje_Airport"
+  },
+  {
+    "iata_code": "BEG",
+    "name": "Belgrade Nikola Tesla Airport",
+    "latitude_deg": "44.818401",
+    "longitude_deg": "20.309099",
+    "iso_country": "RS",
+    "home_link": "http://www.beg.aero/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Belgrade_Nikola_Tesla_Airport"
+  },
+  {
+    "iata_code": "TIV",
+    "name": "Tivat Airport",
+    "latitude_deg": "42.404701",
+    "longitude_deg": "18.723301",
+    "iso_country": "ME",
+    "home_link": "https://www.montenegroairports.com/?menu=3",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tivat_Airport"
+  },
+  {
+    "iata_code": "AKL",
+    "name": "Auckland International Airport",
+    "latitude_deg": "-37.01199",
+    "longitude_deg": "174.786331",
+    "iso_country": "NZ",
+    "home_link": "http://www.auckland-airport.co.nz/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Auckland_International_Airport"
+  },
+  {
+    "iata_code": "CHC",
+    "name": "Christchurch International Airport",
+    "latitude_deg": "-43.489029",
+    "longitude_deg": "172.532065",
+    "iso_country": "NZ",
+    "home_link": "http://www.christchurchairport.co.nz/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Christchurch_International_Airport"
+  },
+  {
+    "iata_code": "ZQN",
+    "name": "Queenstown Airport",
+    "latitude_deg": "-45.019205",
+    "longitude_deg": "168.746379",
+    "iso_country": "NZ",
+    "home_link": "https://www.queenstownairport.co.nz/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queenstown_International_Airport"
+  },
+  {
+    "iata_code": "WLG",
+    "name": "Wellington International Airport",
+    "latitude_deg": "-41.326839",
+    "longitude_deg": "174.806862",
+    "iso_country": "NZ",
+    "home_link": "http://www.wellingtonairport.co.nz/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wellington_Airport"
+  },
+  {
+    "iata_code": "AUH",
+    "name": "Zayed International Airport",
+    "latitude_deg": "24.440966",
+    "longitude_deg": "54.649237",
+    "iso_country": "AE",
+    "home_link": "https://www.zayedinternationalairport.ae/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport"
+  },
+  {
+    "iata_code": "DXB",
+    "name": "Dubai International Airport",
+    "latitude_deg": "25.24979",
+    "longitude_deg": "55.370992",
+    "iso_country": "AE",
+    "home_link": "https://www.dubaiairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dubai_International_Airport"
+  },
+  {
+    "iata_code": "SHJ",
+    "name": "Sharjah International Airport",
+    "latitude_deg": "25.3286",
+    "longitude_deg": "55.5172",
+    "iso_country": "AE",
+    "home_link": "https://www.sharjahairport.ae/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sharjah_International_Airport"
+  },
+  {
+    "iata_code": "DOH",
+    "name": "Hamad International Airport",
+    "latitude_deg": "25.273056",
+    "longitude_deg": "51.608056",
+    "iso_country": "QA",
+    "home_link": "http://dohahamadairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hamad_International_Airport"
+  },
+  {
+    "iata_code": "NRT",
+    "name": "Narita International Airport",
+    "latitude_deg": "35.76858",
+    "longitude_deg": "140.388714",
+    "iso_country": "JP",
+    "home_link": "https://www.narita-airport.jp/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Narita_International_Airport"
+  },
+  {
+    "iata_code": "ICN",
+    "name": "Incheon International Airport",
+    "latitude_deg": "37.469101",
+    "longitude_deg": "126.450996",
+    "iso_country": "KR",
+    "home_link": "https://www.airport.kr/ap/en/index.do",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Incheon_International_Airport"
+  },
+  {
+    "iata_code": "MNL",
+    "name": "Ninoy Aquino International Airport",
+    "latitude_deg": "14.5086",
+    "longitude_deg": "121.019997",
+    "iso_country": "PH",
+    "home_link": "https://newnaia.com.ph/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport"
+  },
+  {
+    "iata_code": "GYD",
+    "name": "Heydar Aliyev International Airport",
+    "latitude_deg": "40.47278",
+    "longitude_deg": "50.050931",
+    "iso_country": "AZ",
+    "home_link": "https://www.airport-baku.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport"
+  },
+  {
+    "iata_code": "BUS",
+    "name": "Alexander Kartveli Batumi International Airport",
+    "latitude_deg": "41.60939",
+    "longitude_deg": "41.600315",
+    "iso_country": "GE",
+    "home_link": "https://batumiairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Batumi_International_Airport"
+  },
+  {
+    "iata_code": "TBS",
+    "name": "Tbilisi International Airport",
+    "latitude_deg": "41.669201",
+    "longitude_deg": "44.9547",
+    "iso_country": "GE",
+    "home_link": "http://www.tbilisiairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport"
+  },
+  {
+    "iata_code": "SKD",
+    "name": "Samarkand International Airport",
+    "latitude_deg": "39.701842",
+    "longitude_deg": "66.981467",
+    "iso_country": "UZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Samarkand_Airport"
+  },
+  {
+    "iata_code": "BOM",
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "latitude_deg": "19.088699",
+    "longitude_deg": "72.867897",
+    "iso_country": "IN",
+    "home_link": "http://www.csia.in/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_International_Airport"
+  },
+  {
+    "iata_code": "CMB",
+    "name": "Bandaranaike International Colombo Airport",
+    "latitude_deg": "7.180759906768799",
+    "longitude_deg": "79.88410186767578",
+    "iso_country": "LK",
+    "home_link": "http://www.airport.lk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bandaranaike_International_Airport"
+  },
+  {
+    "iata_code": "SAI",
+    "name": "Siem Reap-Angkor International Airport",
+    "latitude_deg": "13.36974",
+    "longitude_deg": "104.223831",
+    "iso_country": "KH",
+    "home_link": "http://english.sai-airport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Siem_Reap–Angkor_International_Airport"
+  },
+  {
+    "iata_code": "HKG",
+    "name": "Hong Kong International Airport",
+    "latitude_deg": "22.31184",
+    "longitude_deg": "113.914862",
+    "iso_country": "HK",
+    "home_link": "http://www.hongkongairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport"
+  },
+  {
+    "iata_code": "DEL",
+    "name": "Indira Gandhi International Airport",
+    "latitude_deg": "28.55563",
+    "longitude_deg": "77.09519",
+    "iso_country": "IN",
+    "home_link": "https://www.newdelhiairport.in/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport"
+  },
+  {
+    "iata_code": "JAI",
+    "name": "Jaipur International Airport",
+    "latitude_deg": "26.8242",
+    "longitude_deg": "75.812202",
+    "iso_country": "IN",
+    "home_link": "https://www.jaipurairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jaipur_International_Airport"
+  },
+  {
+    "iata_code": "KTM",
+    "name": "Tribhuvan International Airport",
+    "latitude_deg": "27.6966",
+    "longitude_deg": "85.3591",
+    "iso_country": "NP",
+    "home_link": "https://www.tiairport.com.np/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tribhuvan_International_Airport"
+  },
+  {
+    "iata_code": "BLR",
+    "name": "Kempegowda International Airport Bengaluru",
+    "latitude_deg": "13.1979",
+    "longitude_deg": "77.706299",
+    "iso_country": "IN",
+    "home_link": "http://www.bengaluruairport.com/home/home.jspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kempegowda_International_Airport"
+  },
+  {
+    "iata_code": "HYD",
+    "name": "Rajiv Gandhi International Airport",
+    "latitude_deg": "17.231318",
+    "longitude_deg": "78.429855",
+    "iso_country": "IN",
+    "home_link": "http://www.hyderabad.aero/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Airport"
+  },
+  {
+    "iata_code": "BKK",
+    "name": "Suvarnabhumi Airport",
+    "latitude_deg": "13.6811",
+    "longitude_deg": "100.747002",
+    "iso_country": "TH",
+    "home_link": "https://suvarnabhumi.airportthai.co.th/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport"
+  },
+  {
+    "iata_code": "UTP",
+    "name": "U-Tapao–Rayong–Pattaya International Airport",
+    "latitude_deg": "12.6799",
+    "longitude_deg": "101.004997",
+    "iso_country": "TH",
+    "home_link": "http://www.utapao.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/U-Tapao_International_Airport"
+  },
+  {
+    "iata_code": "DAD",
+    "name": "Da Nang International Airport",
+    "latitude_deg": "16.0439",
+    "longitude_deg": "108.198997",
+    "iso_country": "VN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Da_Nang_International_Airport"
+  },
+  {
+    "iata_code": "HAN",
+    "name": "Noi Bai International Airport",
+    "latitude_deg": "21.221201",
+    "longitude_deg": "105.806999",
+    "iso_country": "VN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Noi_Bai_International_Airport"
+  },
+  {
+    "iata_code": "SGN",
+    "name": "Tan Son Nhat International Airport",
+    "latitude_deg": "10.8188",
+    "longitude_deg": "106.652",
+    "iso_country": "VN",
+    "home_link": "http://www.tsnairport.hochiminhcity.gov.vn/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tan_Son_Nhat_International_Airport"
+  },
+  {
+    "iata_code": "DPS",
+    "name": "Denpasar I Gusti Ngurah Rai International Airport",
+    "latitude_deg": "-8.748409",
+    "longitude_deg": "115.167123",
+    "iso_country": "ID",
+    "home_link": "http://www.angkasapura1.co.id/eng/location/bali.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ngurah_Rai_International_Airport"
+  },
+  {
+    "iata_code": "JHB",
+    "name": "Senai International Airport",
+    "latitude_deg": "1.64131",
+    "longitude_deg": "103.669998",
+    "iso_country": "MY",
+    "home_link": "https://senaiairport.com",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Senai_International_Airport"
+  },
+  {
+    "iata_code": "KUL",
+    "name": "Kuala Lumpur International Airport",
+    "latitude_deg": "2.74558",
+    "longitude_deg": "101.709999",
+    "iso_country": "MY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport"
+  },
+  {
+    "iata_code": "SIN",
+    "name": "Singapore Changi Airport",
+    "latitude_deg": "1.35019",
+    "longitude_deg": "103.994003",
+    "iso_country": "SG",
+    "home_link": "http://www.changiairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Singapore_Changi_Airport"
+  },
+  {
+    "iata_code": "BNE",
+    "name": "Brisbane International Airport",
+    "latitude_deg": "-27.384199142456055",
+    "longitude_deg": "153.11700439453125",
+    "iso_country": "AU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brisbane_Airport"
+  },
+  {
+    "iata_code": "MEL",
+    "name": "Melbourne Airport",
+    "latitude_deg": "-37.670732",
+    "longitude_deg": "144.837898",
+    "iso_country": "AU",
+    "home_link": "http://melbourneairport.com.au/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Melbourne_Airport"
+  },
+  {
+    "iata_code": "ADL",
+    "name": "Adelaide International Airport",
+    "latitude_deg": "-34.947512",
+    "longitude_deg": "138.533393",
+    "iso_country": "AU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Adelaide_Airport"
+  },
+  {
+    "iata_code": "PER",
+    "name": "Perth International Airport",
+    "latitude_deg": "-31.94029998779297",
+    "longitude_deg": "115.96700286865234",
+    "iso_country": "AU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Perth_Airport"
+  },
+  {
+    "iata_code": "SYD",
+    "name": "Sydney Kingsford Smith International Airport",
+    "latitude_deg": "-33.946098",
+    "longitude_deg": "151.177002",
+    "iso_country": "AU",
+    "home_link": "http://www.sydneyairport.com.au/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sydney_Airport"
+  }
+]

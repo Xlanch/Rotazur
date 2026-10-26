@@ -1,0 +1,616 @@
+{
+  "version": 1,
+  "mode": "once",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "startedAt": "2026-10-23T18:48:37.131Z",
+  "cities": {
+    "belgrad": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:40.424Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "saraybosna": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:47.431Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "kotor": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:48.414Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "uskup": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:50.113Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "tiflis": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:52.854Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "baku": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:54.243Z",
+      "hotels": 24,
+      "locations": 24
+    },
+    "budapeste": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:55.848Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "prag": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:57.309Z",
+      "hotels": 24,
+      "locations": 24
+    },
+    "roma": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:48:58.913Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "barselona": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:00.231Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "paris": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:03.432Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "amsterdam": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:04.713Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "atina": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:06.607Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "viyana": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:09.392Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "bangkok": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:10.831Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "tokyo": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:12.413Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "tiran": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:14.270Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "batum": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:15.817Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "sarm-el-seyh": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:17.316Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "semerkant": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:18.783Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "kisinev": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:20.196Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "londra": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:21.296Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "berlin": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:22.708Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "lizbon": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:24.654Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "bali": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:26.239Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "dubai": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:27.963Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "madrid": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:30.403Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "milano": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:31.924Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "venedik": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:33.666Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "munih": {
+      "status": "complete",
+      "checkedAt": "2026-10-24T04:41:27.843Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "frankfurt": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:37.030Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "hamburg": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:38.329Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "bruksel": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:39.750Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "dublin": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:41.128Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "edinburgh": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:42.801Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "manchester": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:49.857Z",
+      "hotels": 25,
+      "locations": 24
+    },
+    "liverpool": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:51.273Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "glasgow": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:52.844Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "stockholm": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:54.162Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "kopenhag": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:53:35.516Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "oslo": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:58.474Z",
+      "hotels": 25,
+      "locations": 24
+    },
+    "zurih": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:49:59.870Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "cenevre": {
+      "status": "complete",
+      "checkedAt": "2026-10-24T04:41:23.110Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "nice": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:03.874Z",
+      "hotels": 25,
+      "locations": 23
+    },
+    "rotterdam": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:53:36.820Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "reykjavik": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:08.888Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "cork": {
+      "status": "complete",
+      "checkedAt": "2026-10-24T04:41:25.315Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "galway": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:15.269Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "belfast": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:16.563Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "oxford": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:18.233Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "bath": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:19.711Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "goteborg": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:21.747Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "seul": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:23.423Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "singapur": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:53:38.211Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "kuala-lumpur": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:26.704Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "hong-kong": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:28.346Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "manila": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:31.783Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "hanoi": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:34.598Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "ho-chi-minh": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:36.090Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "da-nang": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:53:41.757Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "siem-reap": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:39.825Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "phnom-penh": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:42.744Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "mumbai": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:44.164Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "yeni-delhi": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:46.329Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "jaipur": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:47.961Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "kolombo": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:49.269Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "kandy": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:53:43.977Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "katmandu": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:53:45.241Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "doha": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:56.890Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "abu-dabi": {
+      "status": "complete",
+      "checkedAt": "2026-10-24T04:41:29.317Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "sharjah": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:50:59.588Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "pattaya": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:01.804Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "johor-bahru": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:04.267Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "bengaluru": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:07.337Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "haydarabad": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:08.845Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "new-york": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:09.863Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "miami": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:11.486Z",
+      "hotels": 25,
+      "locations": 24
+    },
+    "las-vegas": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:12.781Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "toronto": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:14.151Z",
+      "hotels": 25,
+      "locations": 23
+    },
+    "vancouver": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:15.663Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "montreal": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:17.297Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "quebec": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:18.490Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "ottawa": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:20.642Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "niagara": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:22.536Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "victoria": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:23.976Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "halifax": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:25.770Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "banff": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:26.788Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "sidney": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:28.282Z",
+      "hotels": 25,
+      "locations": 16
+    },
+    "melbourne": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:30.753Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "brisbane": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:32.413Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "perth": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:33.392Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "adelaide": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:35.914Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "auckland": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:37.227Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "wellington": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:38.723Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "queenstown": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:40.142Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "christchurch": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:41.562Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "kahire": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:43.068Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "cape-town": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:44.532Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "durban": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:52.519Z",
+      "hotels": 25,
+      "locations": 25
+    },
+    "nairobi": {
+      "status": "complete",
+      "checkedAt": "2026-10-23T18:51:54.012Z",
+      "hotels": 25,
+      "locations": 25
+    }
+  },
+  "updatedAt": "2026-10-23T18:53:45.245Z",
+  "finishedAt": "2026-10-23T19:02:05.029Z"
+}

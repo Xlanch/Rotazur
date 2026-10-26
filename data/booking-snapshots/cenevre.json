@@ -1,0 +1,1331 @@
+{
+  "version": 1,
+  "cityId": "cenevre",
+  "query": {
+    "checkin": "2026-11-22",
+    "checkout": "2026-11-26",
+    "adults": 2,
+    "rooms": 1,
+    "device": "desktop"
+  },
+  "importedAt": "2026-10-24T04:41:23.110Z",
+  "hotels": [
+    {
+      "id": "booking-549529",
+      "name": "ibis budget Genève Aéroport",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/827285360.jpg?k=4450441cfb4e7eebcd16544b3e8a9bbcb8407910daec7bcd9e2c3d1619aa5cf7&o=",
+      "rating": 8,
+      "reviews": 7239,
+      "pricePerNightTry": 5421.2325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Üç Kişilik Oda - Çift Kişilik Yataklı ve Ranzalı",
+      "roomTypeTag": "hotel",
+      "lat": 46.2205154531122,
+      "lon": 6.11402186747,
+      "distanceKm": 3.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 549529,
+        "cityId": "cenevre",
+        "lat": 46.2205154531122,
+        "lon": 6.11402186747,
+        "address": "Avenue Louis Casaï 26 Cointrin",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/ibis-budget-gena-ve.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/ibis-budget-gena-ve.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/ibis-budget-gena-ve.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 549529,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 18914.9,
+        "displayNightlyTry": 4728.72,
+        "excludedTaxesTry": 2770.03,
+        "knownTotalTry": 21684.93,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Üç Kişilik Oda - Çift Kişilik Yataklı ve Ranzalı"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-14660434",
+      "name": "Green Marmot Capsule Hotel Genève - Self check-in",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/868107845.jpg?k=28c7833fe25d5ae60103b8733b4fcb98272d5405a8cbe9ec68c4aff220192dd7&o=",
+      "rating": 7.8,
+      "reviews": 446,
+      "pricePerNightTry": 5429.8325,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "2 × Upper Capsule",
+      "roomTypeTag": "hotel",
+      "lat": 46.2116377,
+      "lon": 6.1489679,
+      "distanceKm": 1.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Paquis, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 14660434,
+        "cityId": "cenevre",
+        "lat": 46.2116377,
+        "lon": 6.1489679,
+        "address": "Rue de la Navigation 3",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/green-marmot-capsule-geneve.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/green-marmot-capsule-geneve.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/green-marmot-capsule-geneve.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 14660434,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 18948.03,
+        "displayNightlyTry": 4737.01,
+        "excludedTaxesTry": 2771.3,
+        "knownTotalTry": 21719.33,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Upper Capsule",
+            "quantity": 2,
+            "unitType": "Yatakhanelerde 2 yatak"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-65338",
+      "name": "Hotel St. Gervais",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/240713003.jpg?k=ce094ad41a3670324a8be1cf19fcb7f3da82e6301cee7ea943ea1a4ecb622792&o=",
+      "rating": 7.3,
+      "reviews": 938,
+      "pricePerNightTry": 5821.985,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 46.2069149680379,
+      "lon": 6.14183083176613,
+      "distanceKm": 0.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Saint-Gervais / des Grottes, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 65338,
+        "cityId": "cenevre",
+        "lat": 46.2069149680379,
+        "lon": 6.14183083176613,
+        "address": "Rue des Corps-Saints 20",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/hotelstgervais.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/hotelstgervais.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/hotelstgervais.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 65338,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 20459.22,
+        "displayNightlyTry": 5114.81,
+        "excludedTaxesTry": 2828.72,
+        "knownTotalTry": 23287.94,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-647468",
+      "name": "City Hostel Geneva",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/581584403.jpg?k=0487039bbafb3b2252b73c300d5c61df6197794d27e691ebbc0ebba265760b2e&o=",
+      "rating": 7.8,
+      "reviews": 2319,
+      "pricePerNightTry": 5879.3,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda - Ranzalı, Ortak Banyolu",
+      "roomTypeTag": "hostel",
+      "lat": 46.214905365438,
+      "lon": 6.1458957195282,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Paquis, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 647468,
+        "cityId": "cenevre",
+        "lat": 46.214905365438,
+        "lon": 6.1458957195282,
+        "address": "Rue Ferrier 2",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/city-hostel-geneva.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/city-hostel-geneva.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/city-hostel-geneva.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 647468,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 20680.09,
+        "displayNightlyTry": 5170.02,
+        "excludedTaxesTry": 2837.11,
+        "knownTotalTry": 23517.2,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda - Ranzalı, Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-2832817",
+      "name": "ibis budget Geneve Palexpo Aeroport",
+      "stars": 1,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/879378565.jpg?k=5182bd82db689e129ff3c1dfd33e9caa98b54cb28a78f88577a158e55f5610f6&o=",
+      "rating": 8.4,
+      "reviews": 6637,
+      "pricePerNightTry": 5922.4375,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Üç Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.234181,
+      "lon": 6.117597,
+      "distanceKm": 4.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2832817,
+        "cityId": "cenevre",
+        "lat": 46.234181,
+        "lon": 6.117597,
+        "address": "Route François-Peyrot 28",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/ibis-budget-geneve-palexpo.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/ibis-budget-geneve-palexpo.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/ibis-budget-geneve-palexpo.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2832817,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 20846.32,
+        "displayNightlyTry": 5211.58,
+        "excludedTaxesTry": 2843.43,
+        "knownTotalTry": 23689.75,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Üç Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-4466226",
+      "name": "Nash Pratik Hotel",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/319486653.jpg?k=f73b8ba6117a28ee4d87512e48c858dba65fabbbf473277961c1d790a9917f05&o=",
+      "rating": 8.3,
+      "reviews": 3700,
+      "pricePerNightTry": 6093.4775,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.22696,
+      "lon": 6.10575,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 4466226,
+        "cityId": "cenevre",
+        "lat": 46.22696,
+        "lon": 6.10575,
+        "address": "Chemin de la violette 13",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/nash-pratik-cointrin12.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/nash-pratik-cointrin12.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/nash-pratik-cointrin12.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 4466226,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 21505.43,
+        "displayNightlyTry": 5376.36,
+        "excludedTaxesTry": 2868.48,
+        "knownTotalTry": 24373.91,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-9566702",
+      "name": "Maison d'hôtes \"Les pilotes\"",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/475403618.jpg?k=174974fc4cf1fa0fc699364fc4db58f5120c429494eb4609134e65d21a1c433d&o=",
+      "rating": 7.5,
+      "reviews": 194,
+      "pricePerNightTry": 6153.8075,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Balkonlu",
+      "roomTypeTag": "hotel",
+      "lat": 46.230510099901,
+      "lon": 6.113116404309,
+      "distanceKm": 4.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 9566702,
+        "cityId": "cenevre",
+        "lat": 46.230510099901,
+        "lon": 6.113116404309,
+        "address": "21 Chemin de la Métairie",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/maison-des-pilotes.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/maison-des-pilotes.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/maison-des-pilotes.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 9566702,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 22563.96,
+        "displayNightlyTry": 5640.99,
+        "excludedTaxesTry": 2051.27,
+        "knownTotalTry": 24615.23,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Balkonlu"
+          }
+        ],
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-575138",
+      "name": "ibis budget Genève Petit-Lancy",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/828061743.jpg?k=31eede610620d9abb3461fb9085a8c61c014af3b78c078a1fc9a34ff39ebd059&o=",
+      "rating": 8.2,
+      "reviews": 2937,
+      "pricePerNightTry": 6186.99,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.188298,
+      "lon": 6.11475999999993,
+      "distanceKm": 2.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 575138,
+        "cityId": "cenevre",
+        "lat": 46.188298,
+        "lon": 6.11475999999993,
+        "address": "Chemin des Olliquettes 6 Petit-Lancy",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/ibis-budget-geneve-petit-lancy.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/ibis-budget-geneve-petit-lancy.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/ibis-budget-geneve-petit-lancy.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 575138,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 21865.79,
+        "displayNightlyTry": 5466.45,
+        "excludedTaxesTry": 2882.17,
+        "knownTotalTry": 24747.96,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-48621",
+      "name": "Hotel Central",
+      "stars": 2,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/191269358.jpg?k=2b6d13a66d404507de8d2845be174e2cbf2ffadb0583312a616c6db566dae18f&o=",
+      "rating": 7.8,
+      "reviews": 1645,
+      "pricePerNightTry": 6190.005,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Üç Kişilik Ranzalı Oda - Ortak Tuvaletli ",
+      "roomTypeTag": "hotel",
+      "lat": 46.2029619648551,
+      "lon": 6.14550679922104,
+      "distanceKm": 0.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cité, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 48621,
+        "cityId": "cenevre",
+        "lat": 46.2029619648551,
+        "lon": 6.14550679922104,
+        "address": "Rue de la Rôtisserie, 2",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/central-geneve.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/central-geneve.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/central-geneve.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 48621,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 21877.41,
+        "displayNightlyTry": 5469.35,
+        "excludedTaxesTry": 2882.61,
+        "knownTotalTry": 24760.02,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Üç Kişilik Ranzalı Oda - Ortak Tuvaletli "
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17330419",
+      "name": "Geneva 3 beds Spaces Room Short-Term rental",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/922027729.jpg?k=efd22c2aad4f0776907b3803e0dd49c785119879eb6e85b28f07aa1d938d6e02&o=",
+      "rating": 1.2,
+      "reviews": 5,
+      "pricePerNightTry": 6214.1425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Ekonomik Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.1892098,
+      "lon": 6.1370711,
+      "distanceKm": 1.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Acacias, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17330419,
+        "cityId": "cenevre",
+        "lat": 46.1892098,
+        "lon": 6.1370711,
+        "address": "Rue du Grand-Bureau 26 1",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/geneva-short-term-rooms-rental.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/geneva-short-term-rooms-rental.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/geneva-short-term-rooms-rental.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17330419,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 21970.42,
+        "displayNightlyTry": 5492.6,
+        "excludedTaxesTry": 2886.15,
+        "knownTotalTry": 24856.57,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Ekonomik Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-17161833",
+      "name": "Short-term Large Suite 2 -3 guests",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/912150376.jpg?k=a7ef0cf4432ae55b8c3fa52b90a89a34037343e7076166ccdc909302c1f29d09&o=",
+      "rating": 1.3,
+      "reviews": 4,
+      "pricePerNightTry": 6214.1425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Deluxe Çift Kişilik Oda",
+      "roomTypeTag": "guesthouse",
+      "lat": 46.1892098,
+      "lon": 6.1370711,
+      "distanceKm": 1.6,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Acacias, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 17161833,
+        "cityId": "cenevre",
+        "lat": 46.1892098,
+        "lon": 6.1370711,
+        "address": "Rue du Grand-Bureau 26",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/short-term-living-inn-room.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/short-term-living-inn-room.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/short-term-living-inn-room.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 17161833,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 21970.42,
+        "displayNightlyTry": 5492.6,
+        "excludedTaxesTry": 2886.15,
+        "knownTotalTry": 24856.57,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Deluxe Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-1550279",
+      "name": "VISIONAPARTMENTS Rue de Berne - self check-in",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/325528466.jpg?k=18779876ceba3a18b14fdb0e7dd27402b157f93c572e619377f2e20dab41fda2&o=",
+      "rating": 8,
+      "reviews": 1520,
+      "pricePerNightTry": 6251.2425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Mini Studio with Mini Bar",
+      "roomTypeTag": "hotel",
+      "lat": 46.2094323,
+      "lon": 6.1450886,
+      "distanceKm": 0.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Saint-Gervais / des Grottes, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 1550279,
+        "cityId": "cenevre",
+        "lat": 46.2094323,
+        "lon": 6.1450886,
+        "address": "15 Rue de Berne",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/ibis-styles-geneve-mont-blanc-opening-end-2015.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/ibis-styles-geneve-mont-blanc-opening-end-2015.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/ibis-styles-geneve-mont-blanc-opening-end-2015.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 1550279,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 22113.39,
+        "displayNightlyTry": 5528.35,
+        "excludedTaxesTry": 2891.58,
+        "knownTotalTry": 25004.97,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Mini Studio with Mini Bar"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-7138246",
+      "name": "MEININGER Hotel Genève Centre Charmilles",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/371073037.jpg?k=f085ed77ef065fab910a68a4ed9ee910cb227c08637c36720f56625830bb7b1f&o=",
+      "rating": 8.6,
+      "reviews": 5170,
+      "pricePerNightTry": 6309.1625,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.209569,
+      "lon": 6.12174,
+      "distanceKm": 2.1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 7138246,
+        "cityId": "cenevre",
+        "lat": 46.209569,
+        "lon": 6.12174,
+        "address": "118 Rue de Lyon",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/meininger-geneve-centre-charmilles.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/meininger-geneve-centre-charmilles.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/meininger-geneve-centre-charmilles.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 7138246,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 22336.59,
+        "displayNightlyTry": 5584.15,
+        "excludedTaxesTry": 2900.06,
+        "knownTotalTry": 25236.65,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-478850",
+      "name": "Geneva Hostel",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/904620644.jpg?k=faa9de7a2ef6be6dc34f42963ccad16a9cbe3520405bae69ffa34af667f45fd3&o=",
+      "rating": 8,
+      "reviews": 6682,
+      "pricePerNightTry": 6355.315,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Bed Mixed Dormitory Room",
+      "roomTypeTag": "hostel",
+      "lat": 46.214951523718,
+      "lon": 6.14920489490032,
+      "distanceKm": 1.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Paquis, Cenevre",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 478850,
+        "cityId": "cenevre",
+        "lat": 46.214951523718,
+        "lon": 6.14920489490032,
+        "address": "Rue Rothschild, 28-30",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/geneva-hostel.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/geneva-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/geneva-hostel.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 478850,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 22514.44,
+        "displayNightlyTry": 5628.61,
+        "excludedTaxesTry": 2906.82,
+        "knownTotalTry": 25421.26,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Bed Mixed Dormitory Room",
+            "unitType": "Paylaşımlı yatakhane odası"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-15641144",
+      "name": "welcome geneva",
+      "stars": 0,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/808621404.jpg?k=e803f4755ae729b05057a96fc1161bbd9ea7400d85d745c3ed0e8a355d1e67b5&o=",
+      "rating": 8.6,
+      "reviews": 20,
+      "pricePerNightTry": 6545.965,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Oda - Ortak Banyolu",
+      "roomTypeTag": "hotel",
+      "lat": 46.204589942476,
+      "lon": 6.09842520203884,
+      "distanceKm": 3.7,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 15641144,
+        "cityId": "cenevre",
+        "lat": 46.204589942476,
+        "lon": 6.09842520203884,
+        "address": "Le Lignon 65",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/welcome-geneva.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/welcome-geneva.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/welcome-geneva.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 15641144,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23249.12,
+        "displayNightlyTry": 5812.28,
+        "excludedTaxesTry": 2934.74,
+        "knownTotalTry": 26183.86,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Oda - Ortak Banyolu"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-243001",
+      "name": "ibis Genève Petit Lancy",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/914525750.jpg?k=c822befe2ca2e57a2c565367f5146de1bb09ae5c1cf56eb4d7f07953e5594a3a&o=",
+      "rating": 8.5,
+      "reviews": 2147,
+      "pricePerNightTry": 6551.2425,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.1881869656073,
+      "lon": 6.11490986560966,
+      "distanceKm": 2.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 243001,
+        "cityId": "cenevre",
+        "lat": 46.1881869656073,
+        "lon": 6.11490986560966,
+        "address": "Chemin des Olliquettes 8",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/geneve-petit-lancy.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/geneve-petit-lancy.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/geneve-petit-lancy.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 243001,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23269.46,
+        "displayNightlyTry": 5817.36,
+        "excludedTaxesTry": 2935.51,
+        "knownTotalTry": 26204.97,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-182065",
+      "name": "Nash Airport Hotel",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/273688537.jpg?k=68df3872a2ed51df74b1668c6a6d5bcb749cfdd3d878bf11d453da8f7007280e&o=",
+      "rating": 8.3,
+      "reviews": 11368,
+      "pricePerNightTry": 6591.21,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik veya İki Yataklı Oda",
+      "roomTypeTag": "luxury",
+      "lat": 46.2269020964823,
+      "lon": 6.10571622848511,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 182065,
+        "cityId": "cenevre",
+        "lat": 46.2269020964823,
+        "lon": 6.10571622848511,
+        "address": "chemin de la Violette 11",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/nash-airport.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/nash-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/nash-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 182065,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23423.48,
+        "displayNightlyTry": 5855.87,
+        "excludedTaxesTry": 2941.36,
+        "knownTotalTry": 26364.84,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik veya İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-2832818",
+      "name": "ibis Styles Geneve Palexpo Aeroport",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/781445078.jpg?k=535dc2978ed30d23835fad3a5e092405625f1066d479616a8246472bc1d014cd&o=",
+      "rating": 8.6,
+      "reviews": 2614,
+      "pricePerNightTry": 6666.0225,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.234181,
+      "lon": 6.117597,
+      "distanceKm": 4.3,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 2832818,
+        "cityId": "cenevre",
+        "lat": 46.234181,
+        "lon": 6.117597,
+        "address": "Route François-Peyrot 28",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/ibis-styles-geneve-palexpo.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/ibis-styles-geneve-palexpo.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/ibis-styles-geneve-palexpo.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 2832818,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23711.77,
+        "displayNightlyTry": 5927.94,
+        "excludedTaxesTry": 2952.32,
+        "knownTotalTry": 26664.09,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-8993316",
+      "name": "B&B HOTEL Geneva Airport",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/585934483.jpg?k=84e7f88d78756324f702f8145006bf99dae215239db7cb9a7155a3e8fe8aaa2f&o=",
+      "rating": 8.6,
+      "reviews": 13000,
+      "pricePerNightTry": 6715.795,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik veya İki Yataklı Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.2199163194512,
+      "lon": 6.10304680950928,
+      "distanceKm": 3.9,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 8993316,
+        "cityId": "cenevre",
+        "lat": 46.2199163194512,
+        "lon": 6.10304680950928,
+        "address": "73 Avenue de l'Etang",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/b-amp-b-geneva-airport.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/b-amp-b-geneva-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/b-amp-b-geneva-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 8993316,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 23903.57,
+        "displayNightlyTry": 5975.89,
+        "excludedTaxesTry": 2959.61,
+        "knownTotalTry": 26863.18,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik veya İki Yataklı Oda"
+          }
+        ],
+        "freeCancellation": true,
+        "freeCancellationUntil": "2026-11-22T13:00:00Z",
+        "deals": [
+          "Yıl Sonu Fırsatı"
+        ]
+      }
+    },
+    {
+      "id": "booking-65079",
+      "name": "NH Geneva Airport Hotel",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/576996758.jpg?k=857ad6cef2d602cbb5a4428d5ea85c5ccc2f0bbce991f2f04aa91e97a943a022&o=",
+      "rating": 8.5,
+      "reviews": 6033,
+      "pricePerNightTry": 6787.29,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda",
+      "roomTypeTag": "luxury",
+      "lat": 46.2280154232842,
+      "lon": 6.08574047684669,
+      "distanceKm": 5.5,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 65079,
+        "cityId": "cenevre",
+        "lat": 46.2280154232842,
+        "lon": 6.08574047684669,
+        "address": "Avenue de Mategnin 21",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/nhgenevaairport.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/nhgenevaairport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/nhgenevaairport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 65079,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 24179.08,
+        "displayNightlyTry": 6044.77,
+        "excludedTaxesTry": 2970.08,
+        "knownTotalTry": 27149.16,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-277814",
+      "name": "Holiday Inn Express Geneva Airport by IHG",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/243975352.jpg?k=e48e70a8102178678ca67e64d21172b8e6ce57f5900da87bb191c7e37686243b&o=",
+      "rating": 8.1,
+      "reviews": 5455,
+      "pricePerNightTry": 6802.37,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart İki Yataklı Oda + Ücretsiz Kahvaltı",
+      "roomTypeTag": "hotel",
+      "lat": 46.2234951762019,
+      "lon": 6.09936609864235,
+      "distanceKm": 4.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [
+        "Kahvaltı dahil"
+      ],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 277814,
+        "cityId": "cenevre",
+        "lat": 46.2234951762019,
+        "lon": 6.09936609864235,
+        "address": "Route de Pré Bois 16",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/geneva-airport.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/geneva-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/geneva-airport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 277814,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 24237.2,
+        "displayNightlyTry": 6059.3,
+        "excludedTaxesTry": 2972.28,
+        "knownTotalTry": 27209.48,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart İki Yataklı Oda + Ücretsiz Kahvaltı"
+          }
+        ],
+        "mealPlan": "Kahvaltı dahil",
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-4492121",
+      "name": "Nash Suites Airport Hotel",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/454319286.jpg?k=b1cb62265ce21f4077bb3dec1f0d8b6cdc1f8229ebce5a8e96d05fc55da9795f&o=",
+      "rating": 8.5,
+      "reviews": 8966,
+      "pricePerNightTry": 6817.4525,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Superior İki Yataklı Süit",
+      "roomTypeTag": "luxury",
+      "lat": 46.226632,
+      "lon": 6.105299,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 4492121,
+        "cityId": "cenevre",
+        "lat": 46.226632,
+        "lon": 6.105299,
+        "address": "88 Avenue Louis-Casaï",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/nash-suite.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/nash-suite.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/nash-suite.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 4492121,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 24295.32,
+        "displayNightlyTry": 6073.83,
+        "excludedTaxesTry": 2974.49,
+        "knownTotalTry": 27269.81,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Superior İki Yataklı Süit"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-182051",
+      "name": "ibis Genève Aéroport",
+      "stars": 3,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/879071602.jpg?k=820420eaa0795cd470fca14a6c2ff4c3ca7843eb57c719e1678df3eff56ebcee&o=",
+      "rating": 8.5,
+      "reviews": 6741,
+      "pricePerNightTry": 7062.4,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Standart Çift Kişilik Oda",
+      "roomTypeTag": "hotel",
+      "lat": 46.2272936189819,
+      "lon": 6.1063814163208,
+      "distanceKm": 4.2,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 182051,
+        "cityId": "cenevre",
+        "lat": 46.2272936189819,
+        "lon": 6.1063814163208,
+        "address": "Chemin de la Violette 10",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/geneve-aeroport.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/geneve-aeroport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/geneve-aeroport.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 182051,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 25239.24,
+        "displayNightlyTry": 6309.81,
+        "excludedTaxesTry": 3010.36,
+        "knownTotalTry": 28249.6,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Standart Çift Kişilik Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-29948",
+      "name": "Hotel Churchill",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/43008570.jpg?k=6cc04fd38aeba470bd2ef031c5741d835083dc9c827b4e61d45ad77f96556fbd&o=",
+      "rating": 6.6,
+      "reviews": 1177,
+      "pricePerNightTry": 7481.1,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "İki Yataklı Oda",
+      "roomTypeTag": "luxury",
+      "lat": 46.2051227400433,
+      "lon": 6.15888297557831,
+      "distanceKm": 1,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Eaux-Vives, Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 29948,
+        "cityId": "cenevre",
+        "lat": 46.2051227400433,
+        "lon": 6.15888297557831,
+        "address": "Rue du Simplon, 15",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/churchill.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/churchill.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/churchill.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 29948,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 26852.73,
+        "displayNightlyTry": 6713.18,
+        "excludedTaxesTry": 3071.67,
+        "knownTotalTry": 29924.4,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "İki Yataklı Oda"
+          }
+        ],
+        "deals": []
+      }
+    },
+    {
+      "id": "booking-5639153",
+      "name": "Appart'City Collection Genève Aéroport - Vernier",
+      "stars": 4,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/250813076.jpg?k=975cf16b0296a17c132350b942cbee79f64eb1cae53933d66c9bd5a4ba8ec800&o=",
+      "rating": 8.9,
+      "reviews": 3423,
+      "pricePerNightTry": 7677.175,
+      "roomCount": 1,
+      "capacityLabel": "2 yetişkin · 1 oda araması",
+      "roomType": "Çift Kişilik Stüdyo",
+      "roomTypeTag": "luxury",
+      "lat": 46.2135462349514,
+      "lon": 6.07936960118866,
+      "distanceKm": 5.4,
+      "locationSource": "booking-serpapi",
+      "neighborhood": "Cenevre",
+      "amenities": [],
+      "hotelLocation": {
+        "source": "booking-serpapi",
+        "propertyId": 5639153,
+        "cityId": "cenevre",
+        "lat": 46.2135462349514,
+        "lon": 6.07936960118866,
+        "address": "Chemin de Mouille-Galand 5",
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "propertyPath": "/hotel/ch/appart-39-city-confort-geneve-aeroport-vernier.html"
+      },
+      "source": "booking-serpapi",
+      "link": "https://www.booking.com/hotel/ch/appart-39-city-confort-geneve-aeroport-vernier.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingUrl": "https://www.booking.com/hotel/ch/appart-39-city-confort-geneve-aeroport-vernier.html?checkin=2026-11-22&checkout=2026-11-26&group_adults=2&no_rooms=1&group_children=0&lang=tr&selected_currency=TRY&sb_price_type=total&type=total",
+      "bookingQuote": {
+        "hotelId": 5639153,
+        "checkin": "2026-11-22",
+        "checkout": "2026-11-26",
+        "adults": 2,
+        "rooms": 1,
+        "currency": "TRY",
+        "displayTotalTry": 27608.32,
+        "displayNightlyTry": 6902.08,
+        "excludedTaxesTry": 3100.38,
+        "knownTotalTry": 30708.7,
+        "checkedAt": "2026-10-24T04:41:22.000Z",
+        "device": "desktop",
+        "roomOffers": [
+          {
+            "name": "Çift Kişilik Stüdyo",
+            "unitType": "Stüdyonun tamamı"
+          }
+        ],
+        "deals": []
+      }
+    }
+  ],
+  "sourceDestination": "Cenevre"
+}
